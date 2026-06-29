@@ -1,42 +1,27 @@
-{{ config(materialized='table', tags=['gold', 'powerbi']) }}
+{{ config(materialized='table', tags=['gold']) }}
 
-WITH sales AS (
-    SELECT
-        o.*,
-        p.standard_cost,
-        CAST(o.quantity * o.unit_price AS DECIMAL(12,2)) AS gross_sales_amount,
-        CAST(o.quantity * o.unit_price * o.discount_percent / 100.0 AS DECIMAL(12,2)) AS discount_amount,
-        CAST(o.quantity * o.unit_price * (1 - o.discount_percent / 100.0) AS DECIMAL(12,2)) AS net_sales_amount,
-        CAST(o.quantity * p.standard_cost AS DECIMAL(12,2)) AS product_cost_amount
-    FROM {{ ref('silver_orders') }} o
-    INNER JOIN {{ ref('silver_products') }} p
-        ON o.product_id = p.product_id
-    INNER JOIN {{ ref('silver_customers') }} c
-        ON o.customer_id = c.customer_id
-    WHERE o.order_status IN ('COMPLETED', 'RETURNED')
-)
+select
+    o.order_id,
+    o.order_date as date_key,
+    o.customer_id,
+    o.product_id,
+    o.channel,
+    o.order_status,
+    o.quantity,
+    o.unit_price,
+    o.discount_percent,
 
-SELECT
-    order_id,
-    order_date AS date_key,
-    customer_id,
-    product_id,
-    channel,
-    payment_method,
-    order_status,
-    is_returned,
-    return_reason,
-    shipping_city,
-    shipping_country,
-    campaign_name,
-    quantity,
-    unit_price,
-    discount_percent,
-    gross_sales_amount,
-    discount_amount,
-    net_sales_amount,
-    product_cost_amount,
-    CAST(net_sales_amount - product_cost_amount AS DECIMAL(12,2)) AS gross_margin_amount,
-    CASE WHEN order_status = 'RETURNED' OR is_returned = 1 THEN quantity ELSE 0 END AS returned_quantity,
-    CASE WHEN order_status = 'RETURNED' OR is_returned = 1 THEN net_sales_amount ELSE CAST(0 AS DECIMAL(12,2)) END AS returned_sales_amount
-FROM sales
+    o.quantity * o.unit_price as gross_sales_amount,
+    o.quantity * o.unit_price * (1 - o.discount_percent / 100.0) as net_sales_amount,
+    o.quantity * p.standard_cost as product_cost_amount,
+    (o.quantity * o.unit_price * (1 - o.discount_percent / 100.0)) - (o.quantity * p.standard_cost) as gross_margin_amount,
+
+    case when o.order_status = 'RETURNED' then o.quantity else 0 end as returned_quantity
+
+from {{ ref('silver_orders') }} o
+join {{ ref('silver_products') }} p
+    on o.product_id = p.product_id
+join {{ ref('silver_customers') }} c
+    on o.customer_id = c.customer_id
+
+where o.order_status in ('COMPLETED', 'RETURNED')
