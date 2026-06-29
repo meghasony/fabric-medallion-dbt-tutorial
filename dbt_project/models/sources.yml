@@ -2,8 +2,8 @@ version: 2
 
 sources:
   - name: bronze
+    database: ZavaBronzeLakehouse
     schema: dbo
-    description: Bronze Lakehouse tables created from the tutorial CSV files.
     tables:
       - name: customers
         identifier: bronze_customers
