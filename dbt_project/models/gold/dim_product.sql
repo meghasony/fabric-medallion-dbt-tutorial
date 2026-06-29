@@ -1,13 +1,3 @@
-{{ config(materialized='table', tags=['gold', 'powerbi']) }}
+{{ config(materialized='table', tags=['gold']) }}
 
-SELECT
-    product_id,
-    product_name,
-    category,
-    subcategory,
-    brand,
-    list_price,
-    standard_cost,
-    launch_date,
-    is_active
-FROM {{ ref('silver_products') }}
+select * from {{ ref('silver_products') }}
