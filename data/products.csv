@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,list_price,standard_cost,launch_date,is_active
+101,PulseFit Tops Green 1,Apparel,Tops,FlexPro,197.47,136.97,2022-10-20,N
+102,FlexPro Tops Grey 2,Apparel,Tops,VitaMove,40.72,29.01,2023-05-28,Y
+103,PeakForm Tops Red 3,Apparel,Tops,CoreFlex,168.29,77.65,2024-10-19,Y
+104,AeroRun Tops Orange 4,Apparel,Tops,CoreFlex,157.93,90.30,2023-04-14,N
+105,VitaMove Tops Orange 5,Apparel,Tops,Zava Active,222.56,146.96,2024-06-23,Y
+106,AeroRun Tops Orange 6,Apparel,Tops,PeakForm,225.43,120.25,2023-06-10,Y
+107,AeroRun Tops Grey 7,Apparel,Tops,VitaMove,297.11,141.89,2023-04-02,Y
+108,VitaMove Tops Grey 8,Apparel,Tops,UrbanMove,NULL,110.93,2024-02-19,Y
+109,StrideLab Tops Red 9,Apparel,Tops,PeakForm,142.30,69.54,2021-05-09,Y
+110,UrbanMove Tops Green 10,Apparel,Tops,Zava Active,119.24,58.08,2024-07-30,Y
+111,VitaMove Bottoms Grey 1,APPAREL,Bottoms,UrbanMove,60.01,23.01,2022-05-06,Y
+112,NorthTrail Bottoms Purple 2,Apparel,Bottoms,Zava Active,229.83,90.87,2023-03-09,Y
+113,PulseFit Bottoms Teal 3,APPAREL,Bottoms,UrbanMove,201.67,87.25,2024-11-12,Y
+114,VitaMove Bottoms Black 4,Apparel,Bottoms,NorthTrail,31.28,14.11,2022-02-01,Y
+115,AeroRun Bottoms Orange 5,APPAREL,Bottoms,StrideLab,154.24,88.49,2022-12-08,Y
+116,Zava Active Bottoms Green 6,Apparel,Bottoms,UrbanMove,293.05,186.24,2023-02-28,Y
+117,UrbanMove Bottoms White 7,Apparel,Bottoms,FlexPro,254.19,131.57,2023-03-03,Y
+118,AeroRun Bottoms Black 8,Apparel,Bottoms,FlexPro,23.16,13.56,2024-01-14,Y
+119,PulseFit Bottoms Blue 9,APPAREL,Bottoms,Zava Active,21.55,11.52,2023-10-29,Y
+120,StrideLab Bottoms White 10,Apparel,Bottoms,NorthTrail,86.13,NaN,2022-08-13,N
+121,PeakForm Outerwear Red 1,Apparel,Outerwear,PeakForm,49.87,26.96,2023-07-30,Y
+122,UrbanMove Outerwear Teal 2,Apparel,Outerwear,AeroRun,197.03,128.29,2021-07-30,Y
+123,PulseFit Outerwear Red 3,Apparel,Outerwear,UrbanMove,152.21,82.77,2021-10-03,Y
+124,Zava Active Outerwear Black 4,Apparel,Outerwear,StrideLab,235.44,150.49,2024-05-28,Y
+125,PulseFit Outerwear Navy 5,Apparel,Outerwear,AeroRun,99.20,40.69,2022-11-15,Y
+126,PulseFit Outerwear Black 6,Apparel,Outerwear,PulseFit,119.50,82.53,2022-11-30,Y
+127,UrbanMove Outerwear Orange 7,Apparel,Outerwear,NorthTrail,68.96,44.87,2024-02-23,Y
+128,StrideLab Outerwear Black 8,APPAREL,Outerwear,StrideLab,255.86,168.41,2022-12-22,Y
+129,VitaMove Outerwear Purple 9,APPAREL,Outerwear,PulseFit,233.18,113.45,2024-04-05,Y
+130,PeakForm Outerwear Green 10,Apparel,Outerwear,StrideLab,261.71,180.18,2023-07-29,Y
+131,Zava Active Compression Purple 1,Apparel,Compression,NorthTrail,55.06,37.23,2023-08-18,Y
+132,PulseFit Compression Red 2,Apparel,Compression,Zava Active,278.77,180.69,2021-04-24,Y
+133,FlexPro Compression Grey 3,APPAREL,Compression,PeakForm,179.33,100.66,2024-08-26,Y
+134,PeakForm Compression Teal 4,Apparel,Compression,PulseFit,271.29,154.73,2023-05-27,Y
+135,CoreFlex Compression White 5,Apparel,Compression,AeroRun,290.26,160.48,2023-07-06,N
+136,StrideLab Compression Grey 6,APPAREL,Compression,PeakForm,188.05,79.12,2022-06-23,Y
+137,NorthTrail Compression Grey 7,Apparel,Compression,VitaMove,137.65,74.02,2023-02-22,N
+138,PulseFit Compression Navy 8,Apparel,Compression,FlexPro,124.36,67.62,2022-04-22,Y
+139,PeakForm Compression Black 9,APPAREL,Compression,NorthTrail,274.82,182.66,2025-01-15,Y
+140,CoreFlex Compression Orange 10,Apparel,Compression,FlexPro,196.07,80.20,2021-02-08,Y
+141,StrideLab Athleisure Red 1,Apparel,Athleisure,PeakForm,204.64,88.13,2021-01-07,Y
+142,PeakForm Athleisure Navy 2,Apparel,Athleisure,StrideLab,125.56,52.43,2024-07-05,Y
+143,VitaMove Athleisure Red 3,Apparel,Athleisure,VitaMove,269.49,131.29,2023-03-07,N
+144,StrideLab Athleisure Blue 4,Apparel,Athleisure,PeakForm,267.72,173.44,2024-08-20,Y
+145,CoreFlex Athleisure Green 5,Apparel,Athleisure,FlexPro,85.30,60.26,2021-10-01,Y
+146,PeakForm Athleisure Blue 6,Apparel,Athleisure,UrbanMove,44.01,27.39,2021-07-25,Y
+147,PeakForm Athleisure Navy 7,Apparel,Athleisure,PeakForm,143.52,90.07,2023-07-19,Y
+148,UrbanMove Athleisure Red 8,Apparel,Athleisure,VitaMove,120.38,52.18,2023-08-06,Y
+149,VitaMove Athleisure Black 9,Apparel,Athleisure,UrbanMove,245.14,142.93,2022-07-08,Y
+150,PulseFit Athleisure Teal 10,APPAREL,Athleisure,CoreFlex,265.34,135.36,2022-01-24,Y
+151,StrideLab Training Tees Green 1,APPAREL,Training Tees,AeroRun,238.67,106.12,2021-03-26,Y
+152,PeakForm Training Tees Red 2,Apparel,Training Tees,NorthTrail,87.92,61.88,2021-04-22,Y
+153,CoreFlex Training Tees Black 3,Apparel,Training Tees,NorthTrail,182.16,74.68,2022-09-04,Y
+154,AeroRun Training Tees Teal 4,Apparel,Training Tees,CoreFlex,63.69,25.14,2021-12-11,Y
+155,NorthTrail Training Tees Blue 5,Apparel,Training Tees,FlexPro,217.19,93.08,2021-12-31,Y
+156,PeakForm Training Tees Purple 6,Apparel,Training Tees,AeroRun,256.73,163.84,2021-02-27,Y
+157,VitaMove Training Tees Purple 7,Apparel,Training Tees,Zava Active,154.86,100.39,2023-10-12,Y
+158,PeakForm Training Tees Red 8,Apparel,Training Tees,CoreFlex,193.67,102.85,2021-06-10,Y
+159,Zava Active Training Tees Red 9,Apparel,Training Tees,NorthTrail,213.83,107.19,2021-01-23,Y
+160,VitaMove Training Tees White 10,Apparel,Training Tees,StrideLab,177.68,127.51,2022-05-14,Y
+161,FlexPro Sports Bras Blue 1,Apparel,Sports Bras,PeakForm,30.26,15.45,2021-01-29,Y
+162,FlexPro Sports Bras Teal 2,APPAREL,Sports Bras,CoreFlex,298.43,130.15,2025-02-09,Y
+163,UrbanMove Sports Bras Navy 3,Apparel,Sports Bras,UrbanMove,259.86,180.90,2024-04-25,Y
+164,UrbanMove Sports Bras Red 4,Apparel,Sports Bras,UrbanMove,18.14,12.42,2024-03-18,N
+165,CoreFlex Sports Bras Teal 5,Apparel,Sports Bras,Zava Active,147.85,100.70,2024-09-30,N
+166,PeakForm Sports Bras Black 6,Apparel,Sports Bras,UrbanMove,61.58,36.22,2024-10-31,Y
+167,PeakForm Sports Bras Grey 7,APPAREL,Sports Bras,NorthTrail,283.02,135.32,2022-11-12,Y
+168,StrideLab Sports Bras Orange 8,Apparel,Sports Bras,VitaMove,274.01,154.44,2021-10-16,N
+169,Zava Active Sports Bras Red 9,Apparel,Sports Bras,AeroRun,167.64,99.84,2021-09-05,Y
+170,StrideLab Sports Bras Green 10,Apparel,Sports Bras,PeakForm,71.26,27.59,2021-01-19,Y
+171,NorthTrail Hoodies Blue 1,APPAREL,Hoodies,PulseFit,107.56,47.73,2022-09-28,N
+172,FlexPro Hoodies Black 2,APPAREL,Hoodies,PulseFit,41.66,27.49,2023-01-04,Y
+173,UrbanMove Hoodies Teal 3,Apparel,Hoodies,FlexPro,222.13,106.92,2022-03-05,Y
+174,Zava Active Hoodies Grey 4,Apparel,Hoodies,StrideLab,92.09,49.22,2022-10-05,Y
+175,UrbanMove Hoodies Blue 5,Apparel,Hoodies,PulseFit,30.25,18.79,2023-09-01,Y
+176,PulseFit Hoodies Blue 6,Apparel,Hoodies,CoreFlex,185.96,100.57,2023-02-05,N
+177,UrbanMove Hoodies Grey 7,Apparel,Hoodies,PeakForm,52.33,35.44,2021-10-02,Y
+178,PulseFit Hoodies Red 8,Apparel,Hoodies,FlexPro,217.21,141.86,2022-01-16,Y
+179,VitaMove Hoodies Black 9,Apparel,Hoodies,PulseFit,244.33,114.86,2023-04-25,Y
+180,AeroRun Hoodies Navy 10,Apparel,Hoodies,VitaMove,172.31,68.11,2021-08-07,Y
+181,NorthTrail Jackets Navy 1,Apparel,Jackets,FlexPro,159.73,98.03,2022-05-13,N
+182,CoreFlex Jackets White 2,Apparel,Jackets,FlexPro,292.25,189.30,2023-10-13,N
+183,VitaMove Jackets Grey 3,Apparel,Jackets,Zava Active,263.56,153.29,2021-07-17,Y
+184,StrideLab Jackets Blue 4,Apparel,Jackets,PulseFit,82.56,57.25,2022-05-17,Y
+185,PulseFit Jackets Purple 5,Apparel,Jackets,UrbanMove,78.35,40.18,2023-11-24,Y
+186,StrideLab Jackets Red 6,Apparel,Jackets,UrbanMove,203.32,143.23,2024-06-09,Y
+187,NorthTrail Jackets Navy 7,Apparel,Jackets,PeakForm,74.19,47.38,2024-08-24,N
+188,FlexPro Jackets Grey 8,Apparel,Jackets,NorthTrail,39.11,19.07,2025-02-04,Y
+189,PeakForm Jackets White 9,Apparel,Jackets,StrideLab,102.69,72.72,2024-03-10,Y
+190,CoreFlex Jackets Blue 10,Apparel,Jackets,AeroRun,165.07,100.85,2024-10-13,Y
+191,NorthTrail Shorts Purple 1,Apparel,Shorts,Zava Active,134.98,58.76,2024-02-16,Y
+192,UrbanMove Shorts Blue 2,Apparel,Shorts,PeakForm,204.84,96.42,2021-01-08,Y
+193,AeroRun Shorts Red 3,APPAREL,Shorts,AeroRun,135.75,84.80,2023-04-09,N
+194,UrbanMove Shorts Grey 4,Apparel,Shorts,UrbanMove,144.61,63.13,2021-05-31,Y
+195,NorthTrail Shorts Purple 5,Apparel,Shorts,UrbanMove,225.19,125.60,2022-03-02,Y
+196,UrbanMove Shorts White 6,Apparel,Shorts,NorthTrail,207.12,123.91,2022-09-10,N
+197,PulseFit Shorts White 7,Apparel,Shorts,NorthTrail,265.03,127.02,2023-05-09,Y
+198,AeroRun Shorts White 8,Apparel,Shorts,Zava Active,149.59,79.59,2023-09-20,N
+199,FlexPro Shorts Navy 9,Apparel,Shorts,AeroRun,20.55,14.04,2023-02-18,Y
+200,FlexPro Shorts White 10,Apparel,Shorts,PeakForm,289.82,123.67,2021-07-01,Y
+201,CoreFlex Wearables Navy 1,Accessories,Wearables,PeakForm,186.54,111.93,2024-08-03,Y
+202,FlexPro Wearables Black 2,Accessories,Wearables,PulseFit,228.13,116.31,2024-03-07,Y
+203,UrbanMove Wearables Navy 3,Accessories,Wearables,AeroRun,245.34,147.50,2025-02-04,Y
+204,FlexPro Wearables Green 4,Accessories,Wearables,CoreFlex,161.34,76.51,2021-08-15,Y
+205,VitaMove Wearables Black 5,Accessories,Wearables,CoreFlex,68.79,27.99,2025-02-01,N
+206,VitaMove Wearables Orange 6,Accessories,Wearables,UrbanMove,180.85,109.22,2023-11-02,N
+207,VitaMove Wearables Purple 7,Accessories,Wearables,NorthTrail,80.29,44.31,2024-01-26,Y
+208,NorthTrail Wearables Grey 8,Accessories,Wearables,AeroRun,146.55,76.29,2023-01-28,Y
+209,AeroRun Wearables Purple 9,Accessories,Wearables,FlexPro,264.77,119.47,2025-02-19,N
+210,AeroRun Wearables Green 10,Accessories,Wearables,Zava Active,136.89,88.95,2023-10-16,Y
+211,Zava Active Bags White 1,Accessories,Bags,VitaMove,42.67,23.36,2022-07-02,Y
+212,AeroRun Bags Purple 2,ACCESSORIES,Bags,FlexPro,34.82,21.83,2021-09-08,Y
+213,PeakForm Bags Navy 3,Accessories,Bags,VitaMove,159.99,114.54,2022-12-21,Y
+214,CoreFlex Bags Green 4,Accessories,Bags,PeakForm,265.87,112.85,2025-03-17,N
+215,StrideLab Bags Blue 5,Accessories,Bags,Zava Active,258.24,183.79,2025-01-07,Y
+216,AeroRun Bags Green 6,Accessories,Bags,Zava Active,232.05,105.94,2021-11-05,Y
+217,CoreFlex Bags Red 7,Accessories,Bags,StrideLab,188.46,116.00,2023-04-06,N
+218,NorthTrail Bags White 8,Accessories,Bags,PulseFit,201.92,134.62,2025-01-31,Y
+219,PulseFit Bags Navy 9,Accessories,Bags,UrbanMove,173.24,103.94,2021-06-22,Y
+220,PulseFit Bags Red 10,Accessories,Bags,NorthTrail,32.59,20.64,2023-10-03,Y
+221,StrideLab Hydration Orange 1,ACCESSORIES,Hydration,NorthTrail,104.68,72.86,2024-05-14,Y
+222,UrbanMove Hydration Orange 2,Accessories,Hydration,PeakForm,195.68,136.31,2024-09-20,N
+223,NorthTrail Hydration Navy 3,Accessories,Hydration,PulseFit,282.42,157.89,2025-02-13,Y
+224,PeakForm Hydration Grey 4,Accessories,Hydration,AeroRun,211.35,148.73,2023-06-14,Y
+225,CoreFlex Hydration White 5,Accessories,Hydration,PulseFit,135.64,80.72,2022-08-11,N
+226,UrbanMove Hydration Navy 6,Accessories,Hydration,AeroRun,250.27,114.13,2021-03-30,N
+227,UrbanMove Hydration Green 7,Accessories,Hydration,AeroRun,113.05,79.97,2021-09-10,N
+228,NorthTrail Hydration Navy 8,Accessories,Hydration,FlexPro,143.68,71.11,2021-04-08,Y
+229,NorthTrail Hydration White 9,Accessories,Hydration,PeakForm,116.87,46.98,2024-12-21,Y
+230,VitaMove Hydration Red 10,Accessories,Hydration,NorthTrail,121.32,61.66,2024-07-27,Y
+231,FlexPro Headwear Purple 1,Accessories,Headwear,PeakForm,240.87,143.29,2024-07-30,Y
+232,NorthTrail Headwear Grey 2,Accessories,Headwear,Zava Active,109.48,49.95,2021-11-10,Y
+233,Zava Active Headwear Teal 3,Accessories,Headwear,NorthTrail,68.35,44.94,2023-08-28,N
+234,VitaMove Headwear White 4,Accessories,Headwear,FlexPro,180.96,122.72,2023-06-22,Y
+235,FlexPro Headwear Teal 5,Accessories,Headwear,Zava Active,274.14,154.38,2023-11-21,Y
+236,FlexPro Headwear Red 6,Accessories,Headwear,UrbanMove,141.12,90.08,2021-06-15,Y
+237,StrideLab Headwear Blue 7,Accessories,Headwear,NorthTrail,194.60,127.21,2021-07-15,N
+238,NorthTrail Headwear Black 8,Accessories,Headwear,Zava Active,265.82,104.28,2023-10-06,Y
+239,StrideLab Headwear Green 9,Accessories,Headwear,PulseFit,293.62,113.12,2024-08-28,Y
+240,PulseFit Headwear Purple 10,Accessories,Headwear,VitaMove,23.48,16.28,2024-10-31,Y
+241,FlexPro Socks Grey 1,Accessories,Socks,Zava Active,20.62,9.79,2023-09-06,Y
+242,PulseFit Socks Orange 2,Accessories,Socks,Zava Active,253.03,181.82,2022-10-29,Y
+243,VitaMove Socks Orange 3,Accessories,Socks,PulseFit,276.55,173.08,2021-05-16,N
+244,NorthTrail Socks Green 4,Accessories,Socks,StrideLab,157.94,87.69,2024-02-13,Y
+245,StrideLab Socks Black 5,Accessories,Socks,StrideLab,119.91,78.64,2024-08-10,Y
+246,PeakForm Socks Red 6,Accessories,Socks,CoreFlex,60.21,37.73,2022-05-14,Y
+247,PulseFit Socks Red 7,Accessories,Socks,FlexPro,96.70,58.13,2023-06-10,Y
+248,Zava Active Socks White 8,Accessories,Socks,UrbanMove,122.38,53.74,2024-03-23,Y
+249,PulseFit Socks Green 9,Accessories,Socks,StrideLab,98.47,47.68,2021-01-12,Y
+250,PeakForm Socks Black 10,ACCESSORIES,Socks,VitaMove,221.50,85.86,2024-02-24,Y
+251,PulseFit Gloves Teal 1,ACCESSORIES,Gloves,AeroRun,100.31,42.03,2021-03-27,Y
+252,AeroRun Gloves Blue 2,ACCESSORIES,Gloves,StrideLab,111.17,55.83,2021-08-23,Y
+253,AeroRun Gloves Navy 3,Accessories,Gloves,AeroRun,34.82,25.01,2024-07-31,Y
+254,NorthTrail Gloves Red 4,Accessories,Gloves,StrideLab,159.52,88.42,2021-07-08,Y
+255,PeakForm Gloves Navy 5,Accessories,Gloves,FlexPro,242.14,154.66,2024-04-22,Y
+256,CoreFlex Gloves Blue 6,Accessories,Gloves,StrideLab,71.20,35.80,2021-06-04,Y
+257,PulseFit Gloves Navy 7,Accessories,Gloves,PulseFit,191.95,101.38,2023-08-10,Y
+258,VitaMove Gloves Orange 8,Accessories,Gloves,VitaMove,201.40,120.99,2024-11-10,Y
+259,NorthTrail Gloves Black 9,Accessories,Gloves,Zava Active,85.44,48.80,2023-02-28,Y
+260,Zava Active Gloves Orange 10,Accessories,Gloves,PeakForm,277.85,133.66,2024-06-10,Y
+261,AeroRun Belts Red 1,Accessories,Belts,CoreFlex,153.36,85.22,2021-05-22,Y
+262,StrideLab Belts Navy 2,Accessories,Belts,CoreFlex,138.78,86.46,2023-05-29,Y
+263,StrideLab Belts Orange 3,Accessories,Belts,FlexPro,241.97,159.43,2023-03-23,N
+264,VitaMove Belts Purple 4,Accessories,Belts,PulseFit,182.98,76.58,2023-02-21,Y
+265,UrbanMove Belts Red 5,ACCESSORIES,Belts,FlexPro,263.07,140.47,2023-05-21,Y
+266,Zava Active Belts Orange 6,Accessories,Belts,FlexPro,91.77,60.42,2023-06-09,N
+267,PeakForm Belts Black 7,Accessories,Belts,FlexPro,67.98,29.63,2023-08-18,Y
+268,UrbanMove Belts Purple 8,Accessories,Belts,StrideLab,142.99,82.70,2022-10-08,N
+269,VitaMove Belts Teal 9,Accessories,Belts,VitaMove,185.57,120.23,2024-07-08,Y
+270,AeroRun Belts Grey 10,Accessories,Belts,VitaMove,221.02,151.57,2022-10-19,Y
+271,VitaMove Towels Navy 1,Accessories,Towels,PulseFit,256.23,145.47,2021-06-13,Y
+272,Zava Active Towels Black 2,Accessories,Towels,AeroRun,266.76,129.48,2024-05-25,Y
+273,VitaMove Towels Teal 3,Accessories,Towels,CoreFlex,57.88,29.74,2021-11-22,Y
+274,Zava Active Towels Red 4,Accessories,Towels,PeakForm,151.64,94.90,2023-08-30,N
+275,PulseFit Towels Teal 5,Accessories,Towels,FlexPro,243.96,115.06,2024-06-08,Y
+276,PeakForm Towels Teal 6,Accessories,Towels,AeroRun,127.65,79.89,2024-12-01,Y
+277,PulseFit Towels Orange 7,Accessories,Towels,UrbanMove,201.48,108.75,2023-04-19,Y
+278,UrbanMove Towels Grey 8,Accessories,Towels,CoreFlex,125.28,85.26,2024-01-04,N
+279,StrideLab Towels Grey 9,Accessories,Towels,NorthTrail,228.94,159.41,2021-04-24,N
+280,AeroRun Towels Blue 10,Accessories,Towels,FlexPro,203.55,82.97,2021-04-16,Y
+281,AeroRun Mats White 1,ACCESSORIES,Mats,AeroRun,258.39,146.02,2021-09-21,Y
+282,PeakForm Mats Red 2,Accessories,Mats,AeroRun,136.04,88.91,2021-11-23,Y
+283,NorthTrail Mats Red 3,Accessories,Mats,FlexPro,17.42,9.44,2024-03-13,N
+284,StrideLab Mats Orange 4,Accessories,Mats,CoreFlex,148.84,80.39,2023-04-09,Y
+285,PulseFit Mats Black 5,Accessories,Mats,Zava Active,55.12,29.82,2025-02-02,Y
+286,PeakForm Mats Purple 6,Accessories,Mats,VitaMove,218.58,137.74,2023-12-05,Y
+287,AeroRun Mats Red 7,ACCESSORIES,Mats,Zava Active,176.14,77.61,2021-12-14,N
+288,VitaMove Mats Green 8,Accessories,Mats,CoreFlex,234.40,153.37,2023-09-15,Y
+289,PulseFit Mats Red 9,Accessories,Mats,VitaMove,178.66,94.69,2022-04-14,Y
+290,NorthTrail Mats Teal 10,ACCESSORIES,Mats,AeroRun,160.00,101.93,2024-01-16,Y
+291,FlexPro Bands White 1,Accessories,Bands,CoreFlex,16.37,9.75,2022-08-02,Y
+292,FlexPro Bands Teal 2,Accessories,Bands,UrbanMove,195.60,129.65,2023-12-29,Y
+293,NorthTrail Bands Green 3,ACCESSORIES,Bands,StrideLab,248.52,175.56,2021-05-08,Y
+294,VitaMove Bands Green 4,Accessories,Bands,FlexPro,75.95,48.80,2024-09-27,Y
+295,UrbanMove Bands Black 5,Accessories,Bands,PeakForm,185.86,119.26,2023-07-29,Y
+296,PulseFit Bands White 6,Accessories,Bands,FlexPro,96.33,40.43,2021-05-13,N
+297,CoreFlex Bands Grey 7,Accessories,Bands,AeroRun,68.70,46.43,2024-01-16,N
+298,VitaMove Bands Purple 8,Accessories,Bands,AeroRun,122.55,68.21,2024-05-02,N
+299,NorthTrail Bands Teal 9,Accessories,Bands,StrideLab,76.86,51.16,2024-07-29,Y
+300,NorthTrail Bands Red 10,Accessories,Bands,StrideLab,40.96,16.41,2021-08-03,Y
+301,UrbanMove Yoga Orange 1,EQUIPMENT,Yoga,NorthTrail,203.70,100.99,2021-07-25,Y
+302,FlexPro Yoga Purple 2,Equipment,Yoga,Zava Active,208.44,118.95,2021-03-20,Y
+303,AeroRun Yoga Black 3,Equipment,Yoga,VitaMove,130.12,68.39,2023-03-14,N
+304,StrideLab Yoga Blue 4,Equipment,Yoga,PeakForm,174.38,119.09,2022-01-11,Y
+305,Zava Active Yoga Green 5,EQUIPMENT,Yoga,Zava Active,250.54,169.11,2024-04-13,Y
+306,CoreFlex Yoga Teal 6,Equipment,Yoga,PeakForm,282.73,135.06,2022-04-27,Y
+307,PulseFit Yoga Black 7,Equipment,Yoga,AeroRun,106.91,56.77,2023-06-23,N
+308,FlexPro Yoga Grey 8,Equipment,Yoga,NorthTrail,105.96,64.14,2024-05-08,Y
+309,VitaMove Yoga Black 9,Equipment,Yoga,FlexPro,278.71,132.08,2023-07-17,Y
+310,VitaMove Yoga Grey 10,Equipment,Yoga,NorthTrail,47.06,32.58,2021-11-30,N
+311,PeakForm Strength Grey 1,EQUIPMENT,Strength,PulseFit,240.97,102.00,2023-02-23,Y
+312,Zava Active Strength Purple 2,EQUIPMENT,Strength,StrideLab,,28.82,2021-10-18,Y
+313,AeroRun Strength Red 3,Equipment,Strength,UrbanMove,254.22,158.78,2021-05-09,Y
+314,CoreFlex Strength Teal 4,Equipment,Strength,StrideLab,107.56,59.24,2022-11-01,Y
+315,UrbanMove Strength Green 5,Equipment,Strength,StrideLab,86.56,34.20,2022-02-20,Y
+316,PulseFit Strength Teal 6,Equipment,Strength,Zava Active,19.61,10.07,2024-08-28,Y
+317,AeroRun Strength Navy 7,Equipment,Strength,PulseFit,39.58,24.17,2021-12-03,Y
+318,UrbanMove Strength Red 8,Equipment,Strength,VitaMove,246.85,170.46,2023-09-21,Y
+319,Zava Active Strength Red 9,Equipment,Strength,AeroRun,246.43,101.26,2022-07-26,N
+320,Zava Active Strength Navy 10,Equipment,Strength,PulseFit,286.95,167.71,2022-01-23,Y
+321,NorthTrail Recovery Orange 1,Equipment,Recovery,NorthTrail,257.78,182.24,2023-02-24,Y
+322,NorthTrail Recovery Purple 2,Equipment,Recovery,NorthTrail,288.07,193.32,2023-04-20,Y
+323,VitaMove Recovery Blue 3,Equipment,Recovery,FlexPro,67.83,37.07,2024-06-25,Y
+324,CoreFlex Recovery Black 4,Equipment,Recovery,AeroRun,58.96,27.51,2024-06-07,Y
+325,CoreFlex Recovery Navy 5,Equipment,Recovery,VitaMove,276.33,171.47,2025-02-16,Y
+326,UrbanMove Recovery Purple 6,Equipment,Recovery,UrbanMove,94.85,63.85,2024-08-03,Y
+327,AeroRun Recovery White 7,Equipment,Recovery,NorthTrail,234.53,152.31,2021-08-27,Y
+328,FlexPro Recovery Orange 8,Equipment,Recovery,StrideLab,299.53,169.57,2021-01-13,Y
+329,PeakForm Recovery Blue 9,Equipment,Recovery,NorthTrail,223.23,113.73,2021-08-25,Y
+330,StrideLab Recovery Teal 10,Equipment,Recovery,AeroRun,147.31,70.59,2022-03-12,Y
+331,StrideLab Cardio Blue 1,Equipment,Cardio,PeakForm,174.77,118.62,2022-10-03,Y
+332,Zava Active Cardio Purple 2,Equipment,Cardio,FlexPro,285.03,157.18,2022-06-04,Y
+333,PulseFit Cardio Navy 3,Equipment,Cardio,StrideLab,122.99,79.16,2021-06-05,Y
+334,FlexPro Cardio Black 4,Equipment,Cardio,PulseFit,102.08,50.34,2023-07-10,Y
+335,CoreFlex Cardio Blue 5,Equipment,Cardio,Zava Active,77.30,54.49,2021-09-05,Y
+336,VitaMove Cardio Teal 6,Equipment,Cardio,UrbanMove,196.35,139.85,2022-03-29,Y
+337,AeroRun Cardio Green 7,Equipment,Cardio,CoreFlex,184.62,70.95,2022-08-18,Y
+338,Zava Active Cardio White 8,Equipment,Cardio,AeroRun,232.29,88.38,2023-04-21,Y
+339,VitaMove Cardio Grey 9,EQUIPMENT,Cardio,PulseFit,27.39,15.62,2022-12-29,N
+340,CoreFlex Cardio Navy 10,Equipment,Cardio,PulseFit,254.86,152.86,2022-09-06,Y
+341,StrideLab Mobility Blue 1,Equipment,Mobility,PeakForm,225.60,127.36,2021-05-14,Y
+342,PeakForm Mobility Red 2,EQUIPMENT,Mobility,NorthTrail,275.57,118.04,2024-11-01,Y
+343,AeroRun Mobility Grey 3,Equipment,Mobility,VitaMove,294.78,167.56,2024-12-19,Y
+344,AeroRun Mobility Orange 4,Equipment,Mobility,UrbanMove,146.44,56.67,2021-10-07,Y
+345,NorthTrail Mobility Teal 5,Equipment,Mobility,VitaMove,247.96,106.33,2024-06-07,N
+346,PulseFit Mobility Teal 6,EQUIPMENT,Mobility,PeakForm,298.05,156.58,2022-12-26,N
+347,StrideLab Mobility Teal 7,Equipment,Mobility,FlexPro,181.73,77.18,2023-10-23,Y
+348,AeroRun Mobility White 8,Equipment,Mobility,NorthTrail,173.47,91.63,2021-10-28,Y
+349,PeakForm Mobility White 9,EQUIPMENT,Mobility,PulseFit,150.20,104.12,2023-10-29,N
+350,PeakForm Mobility Red 10,Equipment,Mobility,CoreFlex,118.35,59.38,2021-03-05,Y
+351,AeroRun Pilates Green 1,Equipment,Pilates,AeroRun,39.00,25.58,2022-03-02,Y
+352,UrbanMove Pilates Purple 2,Equipment,Pilates,FlexPro,102.84,41.08,2021-01-03,N
+353,FlexPro Pilates Green 3,Equipment,Pilates,Zava Active,15.31,7.43,2022-03-23,Y
+354,FlexPro Pilates Red 4,Equipment,Pilates,Zava Active,171.62,80.52,2022-11-24,N
+355,AeroRun Pilates Blue 5,Equipment,Pilates,CoreFlex,113.83,60.39,2024-11-15,N
+356,PulseFit Pilates Green 6,Equipment,Pilates,AeroRun,29.91,20.29,2021-10-12,Y
+357,Zava Active Pilates Black 7,Equipment,Pilates,CoreFlex,110.80,44.79,2024-06-30,Y
+358,NorthTrail Pilates Purple 8,Equipment,Pilates,Zava Active,69.46,33.42,2023-03-21,Y
+359,Zava Active Pilates Purple 9,Equipment,Pilates,StrideLab,261.98,117.49,2021-12-22,Y
+360,PulseFit Pilates Navy 10,Equipment,Pilates,PulseFit,90.57,56.51,2022-06-05,N
+361,NorthTrail Weights Red 1,Equipment,Weights,Zava Active,24.67,11.86,2024-12-17,Y
+362,CoreFlex Weights Orange 2,Equipment,Weights,PulseFit,40.03,21.31,2021-07-09,N
+363,FlexPro Weights Purple 3,Equipment,Weights,NorthTrail,235.71,137.02,2022-09-05,N
+364,Zava Active Weights Green 4,Equipment,Weights,FlexPro,173.19,79.14,2021-04-18,Y
+365,StrideLab Weights Orange 5,EQUIPMENT,Weights,PeakForm,105.44,54.57,2024-05-17,N
+366,AeroRun Weights Black 6,EQUIPMENT,Weights,UrbanMove,63.93,35.77,2021-06-28,Y
+367,Zava Active Weights Green 7,Equipment,Weights,UrbanMove,259.76,138.23,2021-05-28,N
+368,FlexPro Weights Teal 8,EQUIPMENT,Weights,CoreFlex,206.66,140.44,2021-01-19,Y
+369,NorthTrail Weights Purple 9,Equipment,Weights,AeroRun,22.10,9.46,2021-06-09,Y
+370,PulseFit Weights White 10,Equipment,Weights,PeakForm,162.31,71.49,2022-08-22,N
+371,NorthTrail Resistance Purple 1,Equipment,Resistance,VitaMove,167.40,116.44,2023-04-05,Y
+372,PulseFit Resistance Black 2,EQUIPMENT,Resistance,AeroRun,160.36,114.75,2024-06-01,Y
+373,AeroRun Resistance Orange 3,Equipment,Resistance,FlexPro,204.15,117.99,2021-04-13,Y
+374,NorthTrail Resistance Red 4,Equipment,Resistance,VitaMove,108.79,73.41,2024-07-19,Y
+375,AeroRun Resistance Green 5,Equipment,Resistance,PulseFit,264.37,147.50,2022-10-16,N
+376,PulseFit Resistance Teal 6,Equipment,Resistance,VitaMove,44.15,26.95,2021-06-17,Y
+377,VitaMove Resistance Blue 7,Equipment,Resistance,StrideLab,113.61,48.18,2022-09-26,Y
+378,UrbanMove Resistance Grey 8,Equipment,Resistance,NorthTrail,293.50,200.66,2022-08-12,Y
+379,AeroRun Resistance Blue 9,Equipment,Resistance,NorthTrail,176.94,70.23,2025-03-25,Y
+380,Zava Active Resistance Blue 10,Equipment,Resistance,UrbanMove,196.43,135.72,2023-07-12,N
+381,UrbanMove Foam Rollers Green 1,EQUIPMENT,Foam Rollers,NorthTrail,260.97,144.86,2022-07-31,Y
+382,UrbanMove Foam Rollers White 2,Equipment,Foam Rollers,FlexPro,283.07,144.32,2025-01-12,Y
+383,Zava Active Foam Rollers Red 3,Equipment,Foam Rollers,NorthTrail,291.85,175.66,2021-01-08,Y
+384,PeakForm Foam Rollers Purple 4,Equipment,Foam Rollers,PulseFit,132.07,72.07,2025-01-19,Y
+385,NorthTrail Foam Rollers Navy 5,Equipment,Foam Rollers,AeroRun,189.24,123.22,2024-01-07,Y
+386,AeroRun Foam Rollers Black 6,Equipment,Foam Rollers,CoreFlex,260.63,124.46,2023-02-06,Y
+387,PulseFit Foam Rollers Red 7,Equipment,Foam Rollers,VitaMove,28.35,18.53,2024-01-08,Y
+388,Zava Active Foam Rollers Grey 8,Equipment,Foam Rollers,VitaMove,270.45,104.03,2024-10-15,Y
+389,PulseFit Foam Rollers Teal 9,Equipment,Foam Rollers,PeakForm,201.92,101.74,2023-12-18,Y
+390,PeakForm Foam Rollers Black 10,Equipment,Foam Rollers,VitaMove,161.80,82.94,2025-02-20,Y
+391,PulseFit Balance Blue 1,Equipment,Balance,Zava Active,142.21,68.97,2024-10-17,Y
+392,StrideLab Balance Teal 2,Equipment,Balance,StrideLab,207.45,145.12,2021-07-21,Y
+393,UrbanMove Balance Red 3,Equipment,Balance,NorthTrail,211.02,146.98,2021-07-04,Y
+394,UrbanMove Balance Black 4,EQUIPMENT,Balance,AeroRun,250.72,120.96,2022-07-31,Y
+395,VitaMove Balance Navy 5,Equipment,Balance,Zava Active,133.68,64.13,2024-08-09,Y
+396,Zava Active Balance Teal 6,Equipment,Balance,NorthTrail,155.45,87.59,2022-09-17,Y
+397,AeroRun Balance Grey 7,EQUIPMENT,Balance,PeakForm,25.04,14.12,2022-03-09,Y
+398,AeroRun Balance Red 8,Equipment,Balance,PulseFit,256.01,137.22,2023-11-17,Y
+399,StrideLab Balance Grey 9,EQUIPMENT,Balance,NorthTrail,263.50,119.47,2022-08-23,Y
+400,StrideLab Balance Black 10,Equipment,Balance,StrideLab,79.32,54.82,2022-12-20,Y
+401,CoreFlex Running Navy 1,Footwear,Running,PeakForm,212.99,121.96,2025-03-22,Y
+402,StrideLab Running Teal 2,Footwear,Running,UrbanMove,234.81,99.51,2024-11-01,N
+403,AeroRun Running Orange 3,Footwear,Running,FlexPro,112.94,76.04,2024-07-14,Y
+404,PulseFit Running Orange 4,Footwear,Running,StrideLab,272.45,195.87,2021-05-04,Y
+405,VitaMove Running Navy 5,Footwear,Running,PeakForm,88.36,54.81,2023-07-21,Y
+406,UrbanMove Running Grey 6,FOOTWEAR,Running,PulseFit,284.74,147.46,2021-04-26,Y
+407,PulseFit Running Purple 7,FOOTWEAR,Running,StrideLab,23.75,11.83,2021-02-16,N
+408,PeakForm Running Blue 8,Footwear,Running,Zava Active,204.71,115.59,2021-02-23,Y
+409,Zava Active Running Navy 9,Footwear,Running,Zava Active,13.16,9.43,2025-01-07,Y
+410,NorthTrail Running Green 10,FOOTWEAR,Running,Zava Active,255.93,115.67,2021-12-26,Y
+411,AeroRun Training Orange 1,Footwear,Training,Zava Active,234.18,97.89,2022-06-04,N
+412,FlexPro Training Black 2,Footwear,Training,VitaMove,250.49,107.15,2021-07-16,N
+413,PeakForm Training Blue 3,Footwear,Training,StrideLab,245.90,158.01,2022-09-10,Y
+414,PeakForm Training Purple 4,FOOTWEAR,Training,PulseFit,39.01,18.77,2022-11-01,Y
+415,FlexPro Training Blue 5,Footwear,Training,Zava Active,14.98,10.41,2023-08-23,Y
+416,VitaMove Training Grey 6,Footwear,Training,Zava Active,248.66,111.70,2021-09-23,N
+417,NorthTrail Training Grey 7,Footwear,Training,StrideLab,77.59,48.95,2024-07-21,Y
+418,Zava Active Training Blue 8,FOOTWEAR,Training,UrbanMove,141.11,65.25,2024-03-04,Y
+419,AeroRun Training Blue 9,Footwear,Training,Zava Active,261.42,178.41,2022-03-10,Y
+420,PulseFit Training Green 10,Footwear,Training,CoreFlex,78.59,55.93,2025-03-28,Y
+421,PeakForm Lifestyle White 1,Footwear,Lifestyle,VitaMove,135.71,93.04,2023-10-17,Y
+422,VitaMove Lifestyle Navy 2,Footwear,Lifestyle,PeakForm,245.86,131.27,2022-02-17,Y
+423,StrideLab Lifestyle Red 3,Footwear,Lifestyle,PulseFit,37.23,19.56,2021-11-25,Y
+424,StrideLab Lifestyle Blue 4,Footwear,Lifestyle,Zava Active,236.18,132.03,2022-12-05,Y
+425,UrbanMove Lifestyle Teal 5,Footwear,Lifestyle,PulseFit,80.28,46.77,2024-04-15,N
+426,Zava Active Lifestyle Teal 6,Footwear,Lifestyle,PeakForm,77.38,33.70,2021-05-23,Y
+427,NorthTrail Lifestyle Black 7,FOOTWEAR,Lifestyle,FlexPro,30.69,14.74,2024-07-23,Y
+428,CoreFlex Lifestyle Grey 8,Footwear,Lifestyle,AeroRun,105.80,67.41,2022-09-11,N
+429,UrbanMove Lifestyle Navy 9,Footwear,Lifestyle,Zava Active,43.81,24.06,2023-08-11,N
+430,FlexPro Lifestyle Grey 10,Footwear,Lifestyle,FlexPro,264.31,139.78,2022-06-18,N
+431,VitaMove Trail Blue 1,Footwear,Trail,StrideLab,250.53,144.05,2021-05-29,Y
+432,PulseFit Trail Green 2,Footwear,Trail,UrbanMove,264.33,135.66,2024-01-07,Y
+433,VitaMove Trail Blue 3,Footwear,Trail,Zava Active,55.29,32.29,2021-07-06,Y
+434,PulseFit Trail Orange 4,Footwear,Trail,UrbanMove,35.78,15.63,2021-09-02,Y
+435,FlexPro Trail White 5,Footwear,Trail,NorthTrail,26.02,15.86,2022-11-05,Y
+436,UrbanMove Trail Orange 6,Footwear,Trail,PulseFit,177.14,126.84,2022-03-14,Y
+437,AeroRun Trail Green 7,Footwear,Trail,NorthTrail,40.22,18.42,2024-03-12,Y
+438,StrideLab Trail Red 8,FOOTWEAR,Trail,AeroRun,101.41,40.96,2023-11-25,Y
+439,UrbanMove Trail Purple 9,Footwear,Trail,PulseFit,22.91,11.34,2024-06-28,Y
+440,PeakForm Trail Red 10,Footwear,Trail,FlexPro,214.12,149.02,2021-02-03,Y
+441,CoreFlex Walking Red 1,Footwear,Walking,AeroRun,108.63,42.65,2023-01-22,Y
+442,VitaMove Walking Blue 2,Footwear,Walking,AeroRun,59.33,36.58,2021-05-13,Y
+443,Zava Active Walking Black 3,Footwear,Walking,CoreFlex,227.45,135.17,2024-02-23,Y
+444,FlexPro Walking Grey 4,Footwear,Walking,UrbanMove,209.64,110.05,2024-08-13,Y
+445,FlexPro Walking Blue 5,FOOTWEAR,Walking,CoreFlex,267.00,101.95,2024-06-06,Y
+446,FlexPro Walking Red 6,Footwear,Walking,Zava Active,124.17,64.83,2023-04-30,Y
+447,UrbanMove Walking Orange 7,Footwear,Walking,PulseFit,234.40,164.46,2021-10-20,Y
+448,FlexPro Walking Grey 8,Footwear,Walking,AeroRun,38.58,21.47,2024-01-13,Y
+449,FlexPro Walking White 9,Footwear,Walking,CoreFlex,130.34,bad_cost,2024-02-04,Y
+450,NorthTrail Walking Navy 10,Footwear,Walking,AeroRun,263.06,139.45,2022-02-20,Y
+451,PeakForm Court Purple 1,Footwear,Court,FlexPro,111.01,42.50,2023-11-21,Y
+452,AeroRun Court Red 2,Footwear,Court,StrideLab,192.33,77.99,2023-05-24,Y
+453,CoreFlex Court Green 3,Footwear,Court,CoreFlex,74.15,53.07,2024-04-03,Y
+454,VitaMove Court Teal 4,FOOTWEAR,Court,PeakForm,195.64,127.41,2022-12-10,Y
+455,NorthTrail Court Purple 5,Footwear,Court,CoreFlex,109.03,73.66,2022-01-14,N
+456,PeakForm Court Black 6,Footwear,Court,CoreFlex,50.76,32.93,2022-07-27,Y
+457,UrbanMove Court Grey 7,Footwear,Court,PulseFit,82.45,48.25,2025-01-29,N
+458,CoreFlex Court Green 8,Footwear,Court,StrideLab,258.02,128.50,2022-06-20,N
+459,PulseFit Court Grey 9,Footwear,Court,UrbanMove,88.73,61.12,2022-10-22,N
+460,PeakForm Court White 10,Footwear,Court,Zava Active,186.25,82.76,2021-07-05,Y
+461,UrbanMove Studio Black 1,Footwear,Studio,FlexPro,35.73,20.69,2024-08-31,Y
+462,PeakForm Studio Grey 2,Footwear,Studio,CoreFlex,250.83,161.62,2021-10-01,N
+463,StrideLab Studio White 3,FOOTWEAR,Studio,UrbanMove,94.84,62.89,2022-03-19,Y
+464,StrideLab Studio Green 4,Footwear,Studio,NorthTrail,59.68,35.34,2024-06-17,Y
+465,FlexPro Studio Purple 5,FOOTWEAR,Studio,PeakForm,286.99,163.22,2023-04-23,Y
+466,PulseFit Studio Teal 6,Footwear,Studio,PulseFit,15.22,8.91,2021-11-23,Y
+467,VitaMove Studio Teal 7,Footwear,Studio,VitaMove,68.63,41.91,2022-09-12,Y
+468,PeakForm Studio Teal 8,Footwear,Studio,Zava Active,36.42,17.23,2023-01-07,Y
+469,PulseFit Studio Grey 9,Footwear,Studio,StrideLab,221.75,119.09,2023-06-25,N
+470,UrbanMove Studio Green 10,Footwear,Studio,CoreFlex,296.80,130.35,2024-01-26,N
+471,UrbanMove Recovery Orange 1,Footwear,Recovery,NorthTrail,135.85,89.01,2024-08-26,Y
+472,CoreFlex Recovery Black 2,Footwear,Recovery,StrideLab,234.37,100.93,2021-07-23,N
+473,UrbanMove Recovery Green 3,Footwear,Recovery,StrideLab,274.00,158.50,2021-05-13,Y
+474,StrideLab Recovery Black 4,Footwear,Recovery,PulseFit,153.70,92.75,2021-01-07,N
+475,PeakForm Recovery Grey 5,Footwear,Recovery,CoreFlex,30.76,21.29,2022-03-03,Y
+476,StrideLab Recovery Purple 6,FOOTWEAR,Recovery,Zava Active,235.88,96.41,2024-07-15,Y
+477,AeroRun Recovery Blue 7,FOOTWEAR,Recovery,StrideLab,198.25,110.86,2023-10-26,Y
+478,AeroRun Recovery Teal 8,Footwear,Recovery,FlexPro,124.55,49.66,2022-07-16,Y
+479,UrbanMove Recovery White 9,Footwear,Recovery,Zava Active,248.10,96.23,2024-04-04,Y
+480,Zava Active Recovery Red 10,Footwear,Recovery,Zava Active,239.86,151.95,2023-09-29,Y
+481,UrbanMove Crossfit Green 1,Footwear,Crossfit,UrbanMove,221.50,101.17,2022-11-26,Y
+482,Zava Active Crossfit Black 2,Footwear,Crossfit,PulseFit,212.49,94.94,2021-07-03,Y
+483,NorthTrail Crossfit Green 3,Footwear,Crossfit,PeakForm,27.14,14.69,2025-02-20,Y
+484,PulseFit Crossfit Green 4,FOOTWEAR,Crossfit,UrbanMove,197.66,117.12,2023-10-04,Y
+485,AeroRun Crossfit Red 5,Footwear,Crossfit,VitaMove,179.26,125.54,2021-05-15,Y
+486,StrideLab Crossfit Orange 6,Footwear,Crossfit,PeakForm,173.14,109.24,2023-08-06,Y
+487,CoreFlex Crossfit Purple 7,Footwear,Crossfit,PulseFit,231.62,162.64,2021-03-25,Y
+488,AeroRun Crossfit Grey 8,Footwear,Crossfit,StrideLab,101.18,39.96,2024-12-27,Y
+489,CoreFlex Crossfit Teal 9,Footwear,Crossfit,AeroRun,91.52,43.08,2024-02-24,Y
+490,CoreFlex Crossfit Teal 10,Footwear,Crossfit,AeroRun,90.62,39.52,2021-10-29,N
+491,AeroRun Hiking Green 1,Footwear,Hiking,AeroRun,181.80,96.73,2023-11-09,Y
+492,StrideLab Hiking Grey 2,Footwear,Hiking,Zava Active,270.79,116.79,2023-08-31,Y
+493,VitaMove Hiking Black 3,Footwear,Hiking,PeakForm,162.81,68.43,2021-05-20,Y
+494,UrbanMove Hiking Green 4,Footwear,Hiking,CoreFlex,89.58,58.11,2022-01-04,Y
+495,NorthTrail Hiking Navy 5,FOOTWEAR,Hiking,CoreFlex,246.43,119.30,2021-01-28,N
+496,VitaMove Hiking Orange 6,FOOTWEAR,Hiking,FlexPro,203.37,141.13,2024-07-25,Y
+497,Zava Active Hiking Black 7,Footwear,Hiking,PeakForm,206.11,130.44,2022-05-20,Y
+498,StrideLab Hiking Green 8,Footwear,Hiking,PeakForm,47.13,30.01,2021-07-13,Y
+499,StrideLab Hiking Green 9,FOOTWEAR,Hiking,AeroRun,114.78,50.84,2024-05-09,Y
+500,StrideLab Hiking Navy 10,Footwear,Hiking,VitaMove,12.30,5.37,2024-01-22,N
+501,UrbanMove Protein Navy 1,NUTRITION,Protein,Zava Active,218.93,136.58,2021-09-02,Y
+502,NorthTrail Protein Black 2,Nutrition,Protein,PeakForm,168.90,65.85,2022-02-02,Y
+503,NorthTrail Protein Grey 3,Nutrition,Protein,AeroRun,236.58,95.76,2021-11-18,N
+504,Zava Active Protein Grey 4,Nutrition,Protein,Zava Active,139.46,77.38,2022-10-24,Y
+505,VitaMove Protein Green 5,Nutrition,Protein,PulseFit,95.28,66.73,2024-06-11,N
+506,VitaMove Protein Purple 6,Nutrition,Protein,PulseFit,125.04,64.92,2021-03-19,Y
+507,CoreFlex Protein Navy 7,Nutrition,Protein,UrbanMove,94.10,44.92,2021-01-02,Y
+508,UrbanMove Protein Black 8,NUTRITION,Protein,FlexPro,203.23,106.77,2021-07-26,N
+509,VitaMove Protein Purple 9,Nutrition,Protein,StrideLab,201.66,121.16,2021-02-10,N
+510,FlexPro Protein Red 10,Nutrition,Protein,CoreFlex,202.15,112.68,2024-12-21,Y
+511,FlexPro Hydration Mix Green 1,Nutrition,Hydration Mix,PeakForm,218.09,117.79,2022-10-13,N
+512,FlexPro Hydration Mix Teal 2,Nutrition,Hydration Mix,VitaMove,150.48,67.22,2021-02-15,Y
+513,PeakForm Hydration Mix Orange 3,Nutrition,Hydration Mix,CoreFlex,225.07,116.01,2021-04-01,Y
+514,FlexPro Hydration Mix Red 4,Nutrition,Hydration Mix,UrbanMove,151.38,99.73,2022-07-15,Y
+515,FlexPro Hydration Mix Grey 5,Nutrition,Hydration Mix,Zava Active,171.80,100.32,2021-12-19,Y
+516,NorthTrail Hydration Mix Black 6,Nutrition,Hydration Mix,UrbanMove,256.59,179.35,2022-05-11,N
+517,AeroRun Hydration Mix Blue 7,Nutrition,Hydration Mix,UrbanMove,37.02,15.03,2023-11-21,Y
+518,CoreFlex Hydration Mix Red 8,Nutrition,Hydration Mix,UrbanMove,52.35,30.32,2024-05-11,N
+519,NorthTrail Hydration Mix Blue 9,NUTRITION,Hydration Mix,StrideLab,278.99,198.43,2023-12-27,Y
+520,UrbanMove Hydration Mix Teal 10,Nutrition,Hydration Mix,Zava Active,261.45,152.62,2021-12-17,Y
+521,CoreFlex Energy Bars Blue 1,Nutrition,Energy Bars,AeroRun,269.51,184.74,2021-10-04,Y
+522,PulseFit Energy Bars Purple 2,Nutrition,Energy Bars,NorthTrail,25.20,17.54,2023-12-25,N
+523,AeroRun Energy Bars Navy 3,Nutrition,Energy Bars,UrbanMove,183.91,83.88,2023-09-24,Y
+524,PulseFit Energy Bars Navy 4,Nutrition,Energy Bars,VitaMove,233.43,164.39,2025-03-06,Y
+525,CoreFlex Energy Bars Blue 5,Nutrition,Energy Bars,CoreFlex,299.04,155.18,2022-07-05,Y
+526,PulseFit Energy Bars Orange 6,Nutrition,Energy Bars,Zava Active,230.54,149.43,2023-07-03,Y
+527,PeakForm Energy Bars Navy 7,Nutrition,Energy Bars,Zava Active,291.31,141.04,2022-07-06,N
+528,PulseFit Energy Bars Black 8,Nutrition,Energy Bars,Zava Active,281.42,164.66,2024-08-05,Y
+529,PeakForm Energy Bars Teal 9,Nutrition,Energy Bars,AeroRun,262.63,142.53,2023-04-02,Y
+530,CoreFlex Energy Bars Orange 10,Nutrition,Energy Bars,Zava Active,293.51,204.34,2025-02-01,Y
+531,Zava Active Supplements Purple 1,Nutrition,Supplements,PeakForm,38.45,21.24,2023-11-04,N
+532,Zava Active Supplements White 2,Nutrition,Supplements,UrbanMove,266.78,190.14,2021-05-06,Y
+533,AeroRun Supplements Navy 3,Nutrition,Supplements,PulseFit,193.77,93.92,2023-04-12,N
+534,NorthTrail Supplements Purple 4,Nutrition,Supplements,AeroRun,167.73,117.78,2022-06-23,Y
+535,StrideLab Supplements Red 5,Nutrition,Supplements,CoreFlex,199.09,105.50,2024-12-05,Y
+536,PulseFit Supplements Grey 6,Nutrition,Supplements,UrbanMove,91.40,45.23,2025-02-13,Y
+537,PeakForm Supplements Navy 7,Nutrition,Supplements,FlexPro,22.46,11.78,2024-01-29,Y
+538,UrbanMove Supplements Orange 8,Nutrition,Supplements,StrideLab,135.35,63.59,2022-03-18,Y
+539,UrbanMove Supplements Navy 9,NUTRITION,Supplements,Zava Active,291.47,115.61,2025-03-01,Y
+540,UrbanMove Supplements Blue 10,Nutrition,Supplements,VitaMove,273.66,175.45,2024-06-15,Y
+541,CoreFlex Recovery Drinks Black 1,Nutrition,Recovery Drinks,AeroRun,151.22,92.70,2025-01-27,Y
+542,Zava Active Recovery Drinks Navy 2,Nutrition,Recovery Drinks,UrbanMove,230.98,98.00,2022-05-30,Y
+543,NorthTrail Recovery Drinks Grey 3,Nutrition,Recovery Drinks,PulseFit,18.36,10.73,2021-11-21,Y
+544,StrideLab Recovery Drinks Orange 4,Nutrition,Recovery Drinks,PulseFit,220.44,97.51,2024-12-06,Y
+545,PeakForm Recovery Drinks Red 5,Nutrition,Recovery Drinks,UrbanMove,15.04,7.11,2023-08-23,Y
+546,Zava Active Recovery Drinks Purple 6,Nutrition,Recovery Drinks,StrideLab,241.75,143.19,2021-04-04,Y
+547,PulseFit Recovery Drinks Teal 7,NUTRITION,Recovery Drinks,AeroRun,130.99,80.82,2023-02-13,Y
+548,VitaMove Recovery Drinks Purple 8,Nutrition,Recovery Drinks,NorthTrail,243.12,119.40,2023-09-15,Y
+549,CoreFlex Recovery Drinks Blue 9,Nutrition,Recovery Drinks,VitaMove,97.44,60.27,2023-08-03,Y
+550,Zava Active Recovery Drinks White 10,Nutrition,Recovery Drinks,AeroRun,283.29,170.61,2021-04-01,Y
+551,Zava Active Vitamins Teal 1,Nutrition,Vitamins,FlexPro,125.14,58.70,2022-02-01,N
+552,VitaMove Vitamins Navy 2,Nutrition,Vitamins,Zava Active,117.57,75.43,2022-03-30,N
+553,UrbanMove Vitamins Black 3,NUTRITION,Vitamins,AeroRun,202.40,132.69,2022-06-02,Y
+554,VitaMove Vitamins Red 4,Nutrition,Vitamins,NorthTrail,223.74,157.51,2024-12-13,N
+555,PulseFit Vitamins Purple 5,Nutrition,Vitamins,UrbanMove,257.05,145.80,2022-09-09,Y
+556,PeakForm Vitamins White 6,Nutrition,Vitamins,AeroRun,236.17,162.81,2022-01-29,Y
+557,CoreFlex Vitamins Green 7,Nutrition,Vitamins,NorthTrail,30.44,19.52,2024-01-25,Y
+558,NorthTrail Vitamins Blue 8,Nutrition,Vitamins,StrideLab,259.72,106.23,2022-04-03,Y
+559,PeakForm Vitamins Navy 9,Nutrition,Vitamins,FlexPro,103.47,44.44,2022-07-16,Y
+560,Zava Active Vitamins Grey 10,Nutrition,Vitamins,FlexPro,167.80,119.43,2024-10-25,Y
+561,AeroRun Electrolytes Orange 1,Nutrition,Electrolytes,PeakForm,42.56,17.22,2021-12-05,N
+562,FlexPro Electrolytes Orange 2,Nutrition,Electrolytes,PeakForm,52.36,27.77,2024-05-05,Y
+563,CoreFlex Electrolytes Black 3,Nutrition,Electrolytes,NorthTrail,289.66,204.41,2021-06-04,Y
+564,StrideLab Electrolytes Blue 4,Nutrition,Electrolytes,AeroRun,97.85,37.92,2023-08-19,Y
+565,AeroRun Electrolytes Black 5,Nutrition,Electrolytes,UrbanMove,20.27,11.47,2024-04-27,Y
+566,VitaMove Electrolytes Green 6,Nutrition,Electrolytes,AeroRun,167.29,77.37,2021-03-30,Y
+567,NorthTrail Electrolytes Red 7,Nutrition,Electrolytes,PeakForm,185.38,84.71,2021-04-30,Y
+568,VitaMove Electrolytes Purple 8,Nutrition,Electrolytes,UrbanMove,252.19,175.79,2024-07-02,Y
+569,UrbanMove Electrolytes Purple 9,Nutrition,Electrolytes,PeakForm,217.56,108.15,2024-10-08,Y
+570,Zava Active Electrolytes White 10,Nutrition,Electrolytes,FlexPro,58.63,32.93,2024-04-11,Y
+571,Zava Active Snacks Orange 1,Nutrition,Snacks,NorthTrail,208.88,116.15,2022-03-06,Y
+572,PeakForm Snacks Purple 2,Nutrition,Snacks,AeroRun,33.20,17.34,2024-12-24,Y
+573,NorthTrail Snacks White 3,Nutrition,Snacks,NorthTrail,208.95,146.68,2023-03-26,N
+574,StrideLab Snacks Green 4,Nutrition,Snacks,NorthTrail,85.02,37.89,2023-08-08,Y
+575,CoreFlex Snacks Orange 5,Nutrition,Snacks,PeakForm,98.91,62.06,2021-11-03,Y
+576,UrbanMove Snacks Purple 6,Nutrition,Snacks,CoreFlex,35.75,13.82,2022-09-11,Y
+577,AeroRun Snacks Orange 7,Nutrition,Snacks,PeakForm,41.43,18.05,2021-11-09,Y
+578,CoreFlex Snacks White 8,Nutrition,Snacks,AeroRun,69.59,48.27,2022-03-05,N
+579,StrideLab Snacks White 9,Nutrition,Snacks,UrbanMove,66.72,27.14,2024-08-15,N
+580,StrideLab Snacks Green 10,Nutrition,Snacks,Zava Active,31.24,12.97,2023-10-25,Y
+581,Zava Active Meal Shakes Blue 1,Nutrition,Meal Shakes,PeakForm,234.51,99.58,2024-12-24,Y
+582,NorthTrail Meal Shakes Teal 2,Nutrition,Meal Shakes,VitaMove,163.96,76.46,2023-01-09,N
+583,VitaMove Meal Shakes Purple 3,Nutrition,Meal Shakes,StrideLab,220.07,92.84,2024-04-12,Y
+584,FlexPro Meal Shakes Teal 4,Nutrition,Meal Shakes,CoreFlex,119.53,80.63,2021-11-07,Y
+585,VitaMove Meal Shakes Grey 5,NUTRITION,Meal Shakes,StrideLab,52.20,25.44,2022-02-24,Y
+586,NorthTrail Meal Shakes Blue 6,Nutrition,Meal Shakes,Zava Active,272.26,154.19,2024-12-31,Y
+587,UrbanMove Meal Shakes Blue 7,Nutrition,Meal Shakes,StrideLab,275.22,173.82,2021-01-02,Y
+588,NorthTrail Meal Shakes Teal 8,Nutrition,Meal Shakes,FlexPro,153.00,75.43,2023-02-12,Y
+589,StrideLab Meal Shakes Black 9,Nutrition,Meal Shakes,VitaMove,94.99,52.58,2022-01-28,Y
+590,VitaMove Meal Shakes Teal 10,Nutrition,Meal Shakes,PeakForm,51.12,36.68,2022-10-08,Y
+591,AeroRun Wellness Green 1,Nutrition,Wellness,UrbanMove,132.91,56.68,2021-06-03,Y
+592,UrbanMove Wellness Purple 2,Nutrition,Wellness,VitaMove,24.54,12.27,2021-04-01,Y
+593,StrideLab Wellness Green 3,Nutrition,Wellness,UrbanMove,283.90,188.66,2022-12-06,Y
+594,PeakForm Wellness Teal 4,NUTRITION,Wellness,VitaMove,61.68,36.10,2023-10-21,N
+595,StrideLab Wellness Black 5,Nutrition,Wellness,FlexPro,166.41,111.28,2021-08-10,Y
+596,PulseFit Wellness Teal 6,Nutrition,Wellness,CoreFlex,243.52,143.04,2022-09-10,Y
+597,AeroRun Wellness Blue 7,Nutrition,Wellness,NorthTrail,148.42,94.00,2025-01-24,Y
+598,FlexPro Wellness Grey 8,Nutrition,Wellness,PulseFit,41.56,18.99,2022-11-28,Y
+599,VitaMove Wellness Orange 9,Nutrition,Wellness,VitaMove,69.46,43.91,2024-01-29,Y
+600,PeakForm Wellness Grey 10,Nutrition,Wellness,CoreFlex,207.82,122.09,2021-03-22,N

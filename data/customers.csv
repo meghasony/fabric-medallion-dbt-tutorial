@@ -1,0 +1,501 @@
+customer_id,customer_name,email,country,city,customer_segment,loyalty_tier,signup_date,marketing_opt_in
+1,Jānis Eglītis,customer001@example.com,United Kingdom,Manchester,Corporate,Bronze,2023-05-12,
+2,Madhur Jain,customer002@example.com,Germany,Berlin,Corporate,Bronze,2023-11-11,Y
+3,Vincze Noemi,customer003@example.com,INDIA,Mumbai,small business,Platinum,2024-06-28,Yes
+4,Sathyaram Aadharsan,customer004@example.com,Canada,Toronto,small business,Bronze,2023-06-23,N
+5,Aile Magi,customer005@example.com,INDIA,Mumbai,Consumer,Silver,2025-01-16,N
+6,Quinn de Groot,customer006@example.com,INDIA,Mumbai,Consumer,Platinum,2024-10-04,No
+7,Sirja Seppälä,customer007@example.com,INDIA,Mumbai,Consumer,Bronze,2022-03-26,Yes
+8,Filips Turins,customer008@example.com,,Unknown,small business,Silver,2023-05-09,Y
+9,Ganbat Ulzii,customer009@example.com,,Austin,CORPORATE,Platinum,2022-07-21,Yes
+10,Kiettisuk Pornpradub,customer010@example.com,Spain,Madrid,Corporate,Gold,2023-08-08,N
+11,Filippa Bruno,customer011@example.com,Spain,Madrid,Corporate,Silver,2022-02-15,No
+12,Henrikas Martinkus,customer012@example.com,Germany,Berlin,Small Business,Silver,2023-01-09,No
+13,Philippe Chauvin,customer013@example.com,usa,Austin,Corporate,Gold,2023-11-25,Yes
+14,Davletova Alsu Rauf kyzy,customer014@example.com,canada,Vancouver,consumer,Bronze,2024-09-18,Y
+15,Renata Fuchsova,customer015@example.com,,Unknown,Small Business,Gold,2022-01-16,No
+16,Blazej Wozniak,customer016@example.com,Canada,Toronto,Small Business,Gold,2025-01-28,Y
+17,Gaurav Cheema,customer017@example.com,USA,Seattle,consumer,Silver,2024-08-15,Y
+18,Paul Kabano,customer018@example.com,USA,Seattle,small business,Silver,2025-02-15,Y
+19,Amadou Seck,customer019@example.com,canada,Vancouver,Corporate,Bronze,2024-12-26,Yes
+20,Eleni Markatou,customer020@example.com,USA,Seattle,Small Business,Bronze,2023-10-23,No
+21,Zuzana Polaskova,customer021@example.com,UAE,Dubai,Corporate,Bronze,2023-08-05,Y
+22,Marie Krause,customer022@example.com,Germany,Berlin,Corporate,Silver,2024-02-22,Y
+23,Amara Tuntayakul,customer023@example.com,UAE,Dubai,Corporate,Bronze,2023-05-02,Y
+24,Marcel Paulet,customer024@example.com,Canada,Toronto,Small Business,Gold,2022-08-18,Y
+25,Hirut Fikremariam,customer025@example.com,Germany,Berlin,consumer,Bronze,2022-11-04,No
+26,Juan Quispe,customer026@example.com,Germany,Berlin,small business,Bronze,2023-05-11,
+27,Parimal Kar,customer027@example.com,Germany,Berlin,Consumer,Bronze,2023-09-06,
+28,Alix Gauthier,customer028@example.com,France,Paris,consumer,Gold,2022-05-14,No
+29,Alex Winter,customer029@example.com,India,Bengaluru,CORPORATE,Platinum,2023-10-01,
+30,Orla Ní Cheallaigh,customer030@example.com,Canada,Toronto,CORPORATE,Gold,2024-04-12,
+31,Plamen Grigorov,customer031@example.com,US,New York,Consumer,Silver,2023-03-23,
+32,You Ke,customer032@example.com,canada,Vancouver,unknown_segment,Platinum,2022-08-28,N
+33,Alice Ng,customer033@example.com,Canada,Toronto,consumer,Gold,2022-12-06,
+34,Boldsukh Tushig,customer034@example.com,INDIA,Mumbai,small business,Bronze,2025-02-14,Y
+35,Rauno Leok,customer035@example.com,usa,Austin,CORPORATE,Silver,2023-07-18,
+36,Tahmina Boqizoda,customer036@example.com,USA,Seattle,CORPORATE,Platinum,2023-07-05,N
+37,Ulrika Björk,customer037@example.com,Canada,Toronto,small business,Gold,2025-02-26,Yes
+38,Suma Kini,customer038@example.com,US,New York,CORPORATE,Bronze,2022-04-14,Y
+39,Damir Benic,customer039@example.com,France,Paris,consumer,Silver,2023-12-18,N
+40,Matěj Horák,customer040@example.com,India,Bengaluru,consumer,Bronze,2024-10-30,No
+41,Jelena Maric,customer041@example.com,United Kingdom,Manchester,consumer,Gold,2022-05-25,N
+42,Kelechi Ama,customer042@example.com,United Kingdom,Manchester,consumer,Bronze,2022-12-25,Yes
+43,Dovydas Mazeika,customer043@example.com,INDIA,Mumbai,Consumer,Gold,2022-10-30,No
+44,Mart Aasmets,customer044@example.com,USA,Seattle,Small Business,Gold,2022-08-03,Yes
+45,Sangrawee Aromdee,customer045@example.com,INDIA,Mumbai,small business,Silver,2023-08-18,
+46,Slavko Mladjen,customer046@example.com,Canada,Toronto,consumer,Platinum,2023-09-24,N
+47,Loek Holst,customer047@example.com,UAE,Dubai,Small Business,Bronze,2023-02-17,
+48,Shih-han Huang,customer048@example.com,UAE,Dubai,CORPORATE,Gold,2023-12-04,Y
+49,Anna Harutyunyan,customer049@example.com,,Unknown,small business,Silver,2023-10-25,N
+50,Bibi Lulu,customer050@example.com,Spain,Madrid,Small Business,Silver,2025-01-23,Yes
+51,Sarmis Celms,customer051@example.com,USA,Seattle,Small Business,Gold,2023-02-17,N
+52,Cao Huy,customer052@example.com,United Kingdom,Manchester,small business,Gold,2022-06-25,
+53,Friedrich Knerich,customer053@example.com,UAE,Dubai,Small Business,Gold,2024-07-27,Yes
+54,Kavneet Singh,customer054@example.com,Germany,Berlin,consumer,Bronze,2022-06-26,N
+55,Jøran Steen,customer055@example.com,INDIA,Mumbai,Consumer,Silver,2022-12-09,
+56,Xacobe Vilar,customer056@example.com,canada,Vancouver,Small Business,Gold,2023-08-10,N
+57,Manisha Poudel,customer057@example.com,India,Bengaluru,CORPORATE,Gold,2022-10-23,Y
+58,Frans Vasala,customer058@example.com,UK,London,consumer,Bronze,2022-09-15,N
+59,Francisco Tulul,customer059@example.com,India,Bengaluru,Corporate,Gold,2022-10-10,N
+60,Nusrat Sarfaraz,customer060@example.com,UAE,Dubai,Small Business,Silver,2022-11-01,
+61,Gentian Pisha,customer061@example.com,,Unknown,CORPORATE,Platinum,2022-06-21,N
+62,Emil Antonescu,customer062@example.com,US,New York,Small Business,Silver,2023-06-17,No
+63,Lieu Chi,customer063@example.com,Spain,Madrid,small business,Gold,2022-06-26,
+64,Niklavs Kaneps,customer064@example.com,United Kingdom,Manchester,CORPORATE,Bronze,2022-07-03,Yes
+65,Danylo Holovnia,customer065@example.com,UAE,Dubai,CORPORATE,Gold,2023-05-10,N
+66,Ambesiwe Somandla,customer066@example.com,Canada,Toronto,Corporate,Platinum,2024-01-11,N
+67,Anouk van de Meer,customer067@example.com,Germany,Berlin,CORPORATE,Bronze,2022-09-21,
+68,Aline Dupuy,customer068@example.com,United Kingdom,Manchester,consumer,Bronze,2024-04-18,
+69,Amleset Fitwi,customer069@example.com,India,Bengaluru,consumer,Gold,2024-02-06,
+70,Kamal Abeysekara,customer070@example.com,UK,London,CORPORATE,Gold,2022-11-22,
+71,Juhan Kask,customer071@example.com,canada,Vancouver,CORPORATE,Gold,2022-07-14,Y
+72,Susmita Neupane,customer072@example.com,Germany,Berlin,consumer,Silver,2025-02-14,Y
+73,Amol Bhatnagar,customer073@example.com,UAE,Dubai,Corporate,Gold,2024-07-18,No
+74,Bozena Radova,customer074@example.com,,Unknown,Consumer,Platinum,2025-03-29,No
+75,Giedrė Žukaitė,customer075@example.com,canada,Vancouver,Small Business,Bronze,2022-01-05,No
+76,Joao Cunha,customer076@example.com,usa,Austin,consumer,Platinum,2024-10-07,Y
+77,Lobar Jalilova,customer077@example.com,,Unknown,Corporate,Platinum,2023-06-19,No
+78,Murat Arslan,customer078@example.com,,Unknown,CORPORATE,Bronze,2024-12-16,No
+79,Tigist Melaku,customer079@example.com,India,Bengaluru,Small Business,Bronze,2023-02-09,
+80,Mikola Liashchanka,customer080@example.com,India,Bengaluru,consumer,Silver,2025-01-18,N
+81,Sharon Wu,customer081@example.com,canada,Vancouver,CORPORATE,Silver,2024-10-21,
+82,Sovanna Chhun,customer082@example.com,UK,London,CORPORATE,Platinum,2024-12-04,No
+83,Francisco Quispe,customer083@example.com,US,New York,Small Business,Platinum,2022-06-11,Y
+84,Gunnveig Bakke,customer084@example.com,Canada,Toronto,small business,Platinum,2024-01-16,No
+85,Aleix Torruella,customer085@example.com,INDIA,Mumbai,Consumer,Bronze,2023-10-17,Yes
+86,Dionne Angelis,customer086@example.com,USA,Seattle,Consumer,Platinum,2022-06-14,Yes
+87,Elias Panagiotou,customer087@example.com,canada,Vancouver,Consumer,Gold,2023-10-03,Yes
+88,Ismat Shamoun,customer088@example.com,Germany,Berlin,CORPORATE,Platinum,2022-10-30,N
+89,Kim Braun,customer089@example.com,Spain,Madrid,CORPORATE,Platinum,2023-11-05,Yes
+90,Oriol Benavent,customer090@example.com,,Unknown,small business,Platinum,2022-01-15,Y
+91,Nury Gurbanow,customer091@example.com,Spain,Madrid,Corporate,Platinum,2022-10-04,N
+92,Tatevik Safaryan,customer092@example.com,Spain,Madrid,CORPORATE,Bronze,2023-09-27,Y
+93,Filip Majewski,customer093@example.com,US,New York,Small Business,Bronze,2024-05-23,N
+94,Juana Rojas,customer094@example.com,India,Bengaluru,consumer,Platinum,2023-08-27,
+95,Michelle Caruana,customer095@example.com,,Unknown,Small Business,Gold,2023-03-11,N
+96,Nuwan Amarathunga,customer096@example.com,United Kingdom,Manchester,Consumer,Gold,2022-09-23,No
+97,Preeti Sannamani,customer097@example.com,Spain,Madrid,Small Business,Gold,2022-05-16,
+98,Teresa Andrade,customer098@example.com,United Kingdom,Manchester,CORPORATE,Bronze,2024-01-10,
+99,Aoki Kenji,customer099@example.com,UAE,Dubai,Consumer,Bronze,2022-02-13,N
+100,Deniz Acar,customer100@example.com,UK,London,Corporate,Bronze,2022-07-06,Y
+101,Iustin Munteanu,customer101@example.com,,Unknown,consumer,Bronze,2024-12-21,N
+102,Jamila Rizwan,customer102@example.com,US,New York,small business,Silver,2023-07-30,Y
+103,Maja Kosir,customer103@example.com,UK,London,small business,Silver,2024-11-26,No
+104,Regina Pokrovskaya,customer104@example.com,,Unknown,CORPORATE,Gold,2024-10-01,Yes
+105,Guðrún Guðmundsdóttir,customer105@example.com,Canada,Toronto,Consumer,Platinum,2022-10-17,No
+106,Benigno Sabbatini,customer106@example.com,US,New York,Corporate,Silver,2022-03-30,Yes
+107,Akhtar Bhutta,customer107@example.com,US,New York,consumer,Platinum,2022-12-02,No
+108,Estie Liebenberg,customer108@example.com,Germany,Berlin,Corporate,Platinum,2022-12-15,
+109,Hazel Salazar,customer109@example.com,UK,London,CORPORATE,Bronze,2024-06-02,Yes
+110,Artem Kuznetsov,customer110@example.com,France,Paris,small business,Silver,2024-09-07,Y
+111,Biniyam Sisay,customer111@example.com,India,Bengaluru,CORPORATE,Bronze,2022-06-05,No
+112,Shoira Nazarova,customer112@example.com,Spain,Madrid,consumer,Platinum,2025-01-30,
+113,Aralai Avira,customer113@example.com,UK,London,small business,Silver,2024-06-03,N
+114,Alex Pettersen,customer114@example.com,India,Bengaluru,Corporate,Bronze,2023-06-22,
+115,Takeuchi Haruka,customer115@example.com,canada,Vancouver,Small Business,Silver,2023-02-22,No
+116,Fekete Borbala,customer116@example.com,,Unknown,consumer,Bronze,2023-12-11,No
+117,Nuray Jafarova,customer117@example.com,USA,Seattle,Small Business,Silver,2023-11-16,Y
+118,Gook-Min Ko,customer118@example.com,Germany,Berlin,Corporate,Gold,2024-12-17,Yes
+119,Cataldo Capon,customer119@example.com,France,Paris,Corporate,Silver,2023-06-04,N
+120,Dragan Gligorov,customer120@example.com,UAE,Dubai,Corporate,Bronze,2024-12-15,No
+121,Larissa Sevilla,customer121@example.com,Germany,Berlin,Corporate,Gold,2022-12-14,
+122,Mateja Zajc,customer122@example.com,UAE,Dubai,small business,Gold,2022-06-28,
+123,Jan Kovac,customer123@example.com,Canada,Toronto,Small Business,Silver,2024-07-15,Yes
+124,Szucs Abel,customer124@example.com,UAE,Dubai,Consumer,Platinum,2024-08-28,Y
+125,Gunnar Gunnarsson,customer125@example.com,,Unknown,consumer,Platinum,2024-04-15,No
+126,Aarav Mehta,customer126@example.com,US,New York,Consumer,Bronze,2022-08-12,Y
+127,Jordan Mitchell,customer127@example.com,INDIA,Mumbai,small business,Platinum,2023-11-13,No
+128,Roshini Arumuga,customer128@example.com,Spain,Madrid,Small Business,Silver,2024-12-03,Yes
+129,Siobhán Ní Chonchúir,customer129@example.com,France,Paris,small business,Silver,2024-02-15,No
+130,María Zelaya,customer130@example.com,usa,Austin,Small Business,Bronze,2024-02-09,Y
+131,Amal Skye,customer131@example.com,USA,Seattle,Consumer,Platinum,2023-09-26,
+132,Baraka Mussa,customer132@example.com,UK,London,small business,Silver,2023-11-28,N
+133,Helbe Sokk,customer133@example.com,UAE,Dubai,CORPORATE,Bronze,2024-12-24,Yes
+134,Engin Oguz,customer134@example.com,Spain,Madrid,consumer,Bronze,2024-04-04,Yes
+135,Loukas Filippou,customer135@example.com,,Unknown,CORPORATE,Gold,2024-04-27,
+136,Naza Hêvîdar,customer136@example.com,India,Bengaluru,Corporate,Platinum,2024-04-16,
+137,Sirkka Jantunen,customer137@example.com,USA,Seattle,CORPORATE,Platinum,2022-04-11,Yes
+138,Marc Lentz,customer138@example.com,usa,Austin,small business,Gold,2022-09-27,No
+139,Maria Beukema,customer139@example.com,Germany,Berlin,Small Business,Bronze,2022-06-23,No
+140,Charline Leblanc,customer140@example.com,France,Paris,consumer,Gold,2024-07-26,
+141,Viktor Magnusson,customer141@example.com,France,Paris,Corporate,Bronze,2023-03-30,N
+142,Volha Pashkevich,customer142@example.com,France,Paris,CORPORATE,Silver,2023-10-08,Y
+143,Fadhili Radhi,customer143@example.com,US,New York,Consumer,Gold,2022-08-13,Yes
+144,Bayan Al-Sulami,customer144@example.com,usa,Austin,Corporate,Platinum,2022-05-11,Yes
+145,Justina Gebbink,customer145@example.com,India,Bengaluru,Corporate,Platinum,2022-08-20,No
+146,Pranciskus Sukys,customer146@example.com,India,Bengaluru,Small Business,Gold,2024-11-06,No
+147,Ioanna Andreou,customer147@example.com,USA,Seattle,CORPORATE,Platinum,2024-01-29,Y
+148,Ernest Arquimbau,customer148@example.com,France,Paris,CORPORATE,Silver,2023-06-17,Y
+149,Charles Rukundo,customer149@example.com,Spain,Madrid,small business,Silver,2024-10-23,N
+150,Sota Sakai,customer150@example.com,,Unknown,small business,Silver,2024-01-04,N
+151,Aseem Chalise,customer151@example.com,India,Bengaluru,consumer,Platinum,2022-04-21,N
+152,Gurpreet Bawa,customer152@example.com,Canada,Toronto,consumer,Gold,2024-11-01,No
+153,Baxtiyor Ilyosov,customer153@example.com,US,New York,Corporate,Silver,2025-03-09,No
+154,Mauro Fole,customer154@example.com,INDIA,Mumbai,Corporate,Gold,2022-05-11,No
+155,Okanlade Iwalewa,customer155@example.com,USA,Seattle,Corporate,Silver,2022-09-14,Y
+156,Jan Michalski,customer156@example.com,usa,Austin,CORPORATE,Silver,2022-10-07,N
+157,Marites Reyes,customer157@example.com,usa,Austin,small business,Silver,2022-07-10,No
+158,Priya Nayar,customer158@example.com,United Kingdom,Manchester,CORPORATE,Platinum,2022-08-28,Y
+159,Avin Rojhelat,customer159@example.com,France,Paris,consumer,Platinum,2024-02-11,N
+160,Yanis Lefèvre,customer160@example.com,,Unknown,small business,Platinum,2022-07-09,Yes
+161,Helen Karu,customer161@example.com,INDIA,Mumbai,Consumer,Bronze,2022-10-01,N
+162,Aisling Ní Dhómhnaill,customer162@example.com,United Kingdom,Manchester,small business,Platinum,2022-01-29,Y
+163,Amala Braun,customer163@example.com,India,Bengaluru,Corporate,Bronze,2024-11-20,Yes
+164,Gerardino Longo,customer164@example.com,Spain,Madrid,small business,Platinum,2023-08-12,Yes
+165,Imelda Pagnotto,customer165@example.com,United Kingdom,Manchester,Small Business,Bronze,2025-04-09,
+166,Mi-Ok Sung,customer166@example.com,US,New York,CORPORATE,Platinum,2024-06-29,Y
+167,Quincy Brooks,customer167@example.com,Canada,Toronto,Small Business,Platinum,2023-05-01,Yes
+168,Agron Bardhi,customer168@example.com,Spain,Madrid,Corporate,Platinum,2024-05-15,
+169,Mei-hui Lin,customer169@example.com,UAE,Dubai,Consumer,Gold,2023-01-19,
+170,Petros Doudis,customer170@example.com,INDIA,Mumbai,small business,Bronze,2022-10-21,Yes
+171,Bharat Chaudhari,customer171@example.com,USA,Seattle,Consumer,Platinum,2024-06-07,No
+172,Bukhosi Bhengu,customer172@example.com,UK,London,Corporate,Gold,2024-09-27,Y
+173,Angelo Andrada,customer173@example.com,UK,London,Small Business,Silver,2022-04-13,Y
+174,Bojan Obrenovic,customer174@example.com,UAE,Dubai,small business,Silver,2024-05-05,Y
+175,Zeynep Koc,customer175@example.com,USA,Seattle,Corporate,Bronze,2022-12-28,
+176,Klaus Ekeli,customer176@example.com,United Kingdom,Manchester,consumer,Silver,2023-06-20,
+177,Jacqueline Martin,customer177@example.com,UAE,Dubai,Consumer,Silver,2022-07-15,Yes
+178,Siim Rand,customer178@example.com,India,Bengaluru,CORPORATE,Bronze,2022-03-03,N
+179,Aram Baran,customer179@example.com,India,Bengaluru,Consumer,Platinum,2022-09-10,Y
+180,Taneli Kalliomäki,customer180@example.com,USA,Seattle,Small Business,Bronze,2023-01-27,Yes
+181,Benedicte Hennum,customer181@example.com,UK,London,consumer,Silver,2023-12-27,N
+182,Hala Al-Ghamdi,customer182@example.com,INDIA,Mumbai,Corporate,Silver,2023-01-29,No
+183,Hannes Niemi,customer183@example.com,France,Paris,Consumer,Gold,2023-06-23,Yes
+184,Eduard Grgic,customer184@example.com,Spain,Madrid,Small Business,Silver,2023-12-13,Yes
+185,Artur Cunha,customer185@example.com,usa,Austin,small business,Bronze,2023-12-17,No
+186,Dinabondhu Bharali,customer186@example.com,usa,Austin,Consumer,Bronze,2023-09-16,No
+187,Andrea Tichá,customer187@example.com,United Kingdom,Manchester,Consumer,Silver,2025-03-30,Yes
+188,Danica Morales,customer188@example.com,Spain,Madrid,consumer,Platinum,2022-09-03,Y
+189,Jaap De Graaf,customer189@example.com,US,New York,Small Business,Gold,2025-01-24,No
+190,Maurice Boule,customer190@example.com,UAE,Dubai,consumer,Platinum,2024-02-08,Y
+191,Élodie Caron,customer191@example.com,,Unknown,Small Business,Gold,2024-08-12,Yes
+192,Advait Joshi,customer192@example.com,Germany,Berlin,Small Business,Gold,2023-10-11,Yes
+193,Nur Liyana,customer193@example.com,,Unknown,consumer,Platinum,2022-02-04,Yes
+194,Bahar Kazemi,customer194@example.com,United Kingdom,Manchester,Small Business,Silver,2024-06-05,Yes
+195,Estrela Macedo,customer195@example.com,canada,Vancouver,Small Business,Gold,2024-10-21,Y
+196,Kakoli Ghosh,customer196@example.com,Canada,Toronto,Corporate,Platinum,2022-07-21,Y
+197,Hōne Kōtuku,customer197@example.com,usa,Austin,small business,Bronze,2024-05-18,Y
+198,Onyeka Ibekwe,customer198@example.com,Germany,Berlin,Corporate,Platinum,2023-06-26,
+199,Bopha Sin,customer199@example.com,US,New York,small business,Bronze,2023-11-27,No
+200,Vitaly Toporov,customer200@example.com,Canada,Toronto,Corporate,Gold,2022-05-20,Y
+201,Nikuze Teta,customer201@example.com,France,Paris,Small Business,Gold,2023-05-16,
+202,Altanzul Bayd,customer202@example.com,INDIA,Mumbai,Consumer,Platinum,2022-04-07,N
+203,Iago Peirallo,customer203@example.com,USA,Seattle,Small Business,Silver,2022-12-12,
+204,Zhen Song,customer204@example.com,US,New York,Consumer,Gold,2022-10-10,Y
+205,Anika Markunaite,customer205@example.com,Germany,Berlin,Small Business,Gold,2022-11-26,
+206,Itgel  Davaa,customer206@example.com,INDIA,Mumbai,small business,Bronze,2023-04-06,Yes
+207,Ivana Gorgieva,customer207@example.com,INDIA,Mumbai,Corporate,Platinum,2023-12-14,Yes
+208,Cao Kim,customer208@example.com,France,Paris,small business,Gold,2023-07-25,N
+209,Klemmet Reiersen,customer209@example.com,Germany,Berlin,small business,Bronze,2023-10-14,Yes
+210,Tigran Martirosyan,customer210@example.com,Canada,Toronto,consumer,Gold,2023-10-14,Y
+211,Vitoria Pereira,customer211@example.com,France,Paris,small business,Gold,2024-11-29,Yes
+212,Charlie Roy,customer212@example.com,usa,Austin,Small Business,Silver,2022-07-06,Y
+213,Rene Dolejsi,customer213@example.com,UAE,Dubai,Consumer,Gold,2022-09-23,
+214,Sabela Muras,customer214@example.com,Spain,Madrid,consumer,Gold,2022-01-04,Y
+215,Drazenka Anic,customer215@example.com,UAE,Dubai,Corporate,Platinum,2022-11-18,Yes
+216,Irma Palermo,customer216@example.com,Canada,Toronto,Corporate,Bronze,2023-10-26,Yes
+217,Arati Ghimire,customer217@example.com,India,Bengaluru,small business,Platinum,2024-01-08,Yes
+218,Morgan Ellis,customer218@example.com,,Unknown,CORPORATE,Gold,2022-06-25,
+219,Nefeli Giannari,customer219@example.com,India,Bengaluru,Corporate,Platinum,2023-12-25,
+220,Antoni Borràs,customer220@example.com,Spain,Madrid,Small Business,Silver,2023-04-17,No
+221,Ingjerd Espeseth,customer221@example.com,Germany,Berlin,CORPORATE,Platinum,2023-10-07,Y
+222,Taina Stenvall,customer222@example.com,Spain,Madrid,consumer,Platinum,2025-04-08,Yes
+223,Aylin Guliyeva,customer223@example.com,UK,London,Corporate,Bronze,2023-11-03,Y
+224,Femke Jansen,customer224@example.com,Spain,Madrid,consumer,Bronze,2022-03-24,No
+225,Lina Wagner,customer225@example.com,France,Paris,Small Business,Gold,2022-07-23,No
+226,Naiara Padilla,customer226@example.com,UAE,Dubai,Corporate,Gold,2023-04-23,Y
+227,Hilde Eppink,customer227@example.com,France,Paris,Consumer,Platinum,2024-08-11,Yes
+228,Okwuchi Azụ,customer228@example.com,United Kingdom,Manchester,CORPORATE,Gold,2024-03-06,
+229,Julia Kralikova,customer229@example.com,INDIA,Mumbai,Consumer,Bronze,2024-10-16,Yes
+230,Adeel Solangi,customer230@example.com,canada,Vancouver,consumer,Platinum,2023-05-10,Y
+231,Jana Hoffmann,customer231@example.com,Canada,Toronto,small business,Platinum,2024-03-04,Yes
+232,Lucie Simkova,customer232@example.com,India,Bengaluru,Small Business,Silver,2022-05-06,N
+233,Michael Peltier,customer233@example.com,Canada,Toronto,CORPORATE,Bronze,2022-12-27,
+234,Malee Kongsangchai,customer234@example.com,USA,Seattle,Consumer,Gold,2024-09-08,
+235,Marin Šarić,customer235@example.com,France,Paris,Consumer,Silver,2022-04-14,N
+236,Paula Legaspi,customer236@example.com,USA,Seattle,small business,Silver,2022-02-15,Y
+237,Bontle Mokgatle,customer237@example.com,UAE,Dubai,Corporate,Gold,2022-03-22,
+238,Mfundo Ntuli,customer238@example.com,Canada,Toronto,consumer,Gold,2025-03-26,
+239,Patrik Gál,customer239@example.com,Germany,Berlin,Consumer,Platinum,2023-09-10,N
+240,Leila Goncalves,customer240@example.com,Canada,Toronto,Small Business,Silver,2022-10-08,Yes
+241,Lodovico Udinesi,customer241@example.com,Spain,Madrid,Small Business,Bronze,2022-08-07,
+242,Meital Zohar,customer242@example.com,UK,London,Consumer,Gold,2023-09-25,Y
+243,Antero Tuominen,customer243@example.com,usa,Austin,consumer,Gold,2022-02-19,N
+244,Gergely Rácz,customer244@example.com,UK,London,Corporate,Bronze,2024-01-06,N
+245,Maxime Gagnon,customer245@example.com,canada,Vancouver,Consumer,Platinum,2023-01-13,No
+246,Sam Centrell,customer246@example.com,INDIA,Mumbai,small business,Platinum,2023-07-28,Y
+247,Susanne Hegg,customer247@example.com,United Kingdom,Manchester,Corporate,Gold,2022-06-23,Yes
+248,Ekber Sadir,customer248@example.com,UK,London,Consumer,Gold,2022-09-25,No
+249,Krishnaprabha Nachini,customer249@example.com,UAE,Dubai,consumer,Gold,2025-01-15,N
+250,Navneet Paniphukan,customer250@example.com,Germany,Berlin,CORPORATE,Silver,2024-12-10,No
+251,Zdenek Dvorak,customer251@example.com,Spain,Madrid,consumer,Gold,2024-02-17,No
+252,Cristóbal Valentín,customer252@example.com,United Kingdom,Manchester,small business,Gold,2024-05-30,
+253,Debajyoti Dasgupta,customer253@example.com,United Kingdom,Manchester,small business,Gold,2022-08-19,Yes
+254,Misheel Sainkhuu,customer254@example.com,Spain,Madrid,consumer,Silver,2022-06-16,Yes
+255,Rita Viinikainen,customer255@example.com,India,Bengaluru,CORPORATE,Silver,2024-08-17,No
+256,Jaka Pratama,customer256@example.com,INDIA,Mumbai,Corporate,Bronze,2022-12-14,Yes
+257,Pitso Motlhabi,customer257@example.com,,Unknown,consumer,Gold,2024-05-21,N
+258,Omri Neriya,customer258@example.com,USA,Seattle,Consumer,Bronze,2022-11-05,N
+259,Binta Sow,customer259@example.com,Canada,Toronto,Consumer,Gold,2024-01-17,No
+260,Noemi Lucchesi,customer260@example.com,Canada,Toronto,small business,Gold,2024-08-04,
+261,Svenja Roth,customer261@example.com,INDIA,Mumbai,small business,Platinum,2023-02-04,No
+262,Anna Yermolayeva,customer262@example.com,Canada,Toronto,small business,Platinum,2022-08-03,Yes
+263,Camille Roy,customer263@example.com,,Unknown,CORPORATE,Gold,2024-12-24,Y
+264,Ilga Zirne,customer264@example.com,UAE,Dubai,Corporate,Platinum,2025-01-13,Yes
+265,Sasha Venturi,customer265@example.com,UK,London,consumer,Silver,2023-02-18,Yes
+266,Vital Klimanski,customer266@example.com,Canada,Toronto,Corporate,Platinum,2024-04-01,N
+267,Ana Mamaladze,customer267@example.com,UK,London,CORPORATE,Platinum,2023-09-09,
+268,Noam Maoz,customer268@example.com,INDIA,Mumbai,CORPORATE,Platinum,2023-11-04,No
+269,Somphone Luanglath,customer269@example.com,,Unknown,Consumer,Platinum,2022-12-09,Yes
+270,Sona Kocharyan,customer270@example.com,Germany,Berlin,consumer,Gold,2023-02-06,
+271,Deepti Kataki,customer271@example.com,canada,Vancouver,Small Business,Platinum,2024-10-05,
+272,Attila Kelemen,customer272@example.com,canada,Vancouver,small business,Bronze,2022-11-27,Y
+273,Lilla Bíró,customer273@example.com,canada,Vancouver,Corporate,Platinum,2024-11-24,Yes
+274,Tuya Bat,customer274@example.com,Germany,Berlin,Corporate,Platinum,2024-09-21,N
+275,Gurpreet Bawa,customer275@example.com,Germany,Berlin,consumer,Bronze,2024-01-31,Y
+276,Mmathabò Mojapelo,customer276@example.com,INDIA,Mumbai,Consumer,Silver,2022-06-24,N
+277,Asa Awat,customer277@example.com,Germany,Berlin,Small Business,Gold,2024-04-16,N
+278,Seo-yun Gang,customer278@example.com,Spain,Madrid,small business,Silver,2023-08-08,No
+279,Veronika Simon,customer279@example.com,UK,London,CORPORATE,Platinum,2023-08-24,Y
+280,Anael Tzunun,customer280@example.com,,Unknown,small business,Gold,2022-04-29,Yes
+281,Claude Kayitare,customer281@example.com,,Unknown,CORPORATE,Bronze,2024-11-22,N
+282,Derya Ozcan,customer282@example.com,UK,London,Corporate,Platinum,2024-09-04,Y
+283,Daulet Musataiuly,customer283@example.com,Germany,Berlin,consumer,Bronze,2024-08-04,Y
+284,Yumi Watanabe,customer284@example.com,,Unknown,Consumer,Platinum,2023-05-29,No
+285,Carlos Lima,customer285@example.com,USA,Seattle,small business,Silver,2024-09-15,N
+286,Alice Pena,customer286@example.com,USA,Seattle,Consumer,Bronze,2023-02-16,No
+287,LIam Small,customer287@example.com,UK,London,Small Business,Gold,2024-04-28,
+288,Mihail Jordanovski,customer288@example.com,UK,London,Consumer,Silver,2022-11-13,N
+289,Shafqat Memon,customer289@example.com,US,New York,consumer,Silver,2024-05-22,No
+290,Ayesha Khalique,customer290@example.com,,Unknown,CORPORATE,Platinum,2022-09-10,No
+291,Pille Kopp,customer291@example.com,United Kingdom,Manchester,Corporate,Gold,2024-09-26,Yes
+292,Nestoras Fotiou,customer292@example.com,US,New York,small business,Silver,2022-05-30,N
+293,Andrea Velluti,customer293@example.com,INDIA,Mumbai,CORPORATE,Silver,2023-02-09,N
+294,Charlie Guibord,customer294@example.com,US,New York,CORPORATE,Platinum,2022-08-04,
+295,Ilenia Spadoni,customer295@example.com,US,New York,consumer,Bronze,2023-04-30,
+296,Anna Jónsdóttir,customer296@example.com,France,Paris,consumer,Gold,2024-09-20,Y
+297,Stefán Stefánsson,customer297@example.com,UK,London,Corporate,Silver,2023-04-02,N
+298,Zanele Ngcobo,customer298@example.com,usa,Austin,Small Business,Bronze,2022-02-27,Yes
+299,Chetana Hegde,customer299@example.com,UAE,Dubai,CORPORATE,Bronze,2022-01-29,Y
+300,Renu Bhandari,customer300@example.com,US,New York,Corporate,Bronze,2023-04-09,No
+301,Bohdana Vykhor,customer301@example.com,Spain,Madrid,Small Business,Bronze,2023-07-01,N
+302,David Beaulieu,customer302@example.com,United Kingdom,Manchester,Corporate,Bronze,2024-02-20,N
+303,Ya-chu Chien,customer303@example.com,UK,London,CORPORATE,Gold,2024-03-23,Yes
+304,Manya Bhatt,customer304@example.com,Spain,Madrid,CORPORATE,Bronze,2024-03-16,No
+305,Kayla Lewis,customer305@example.com,Canada,Toronto,Consumer,Bronze,2023-04-23,Y
+306,Ning Lu,customer306@example.com,Germany,Berlin,Corporate,Silver,2024-12-30,Yes
+307,Iselin Pilskog,customer307@example.com,,Unknown,Consumer,Platinum,2022-08-29,N
+308,Floris Kregel,customer308@example.com,INDIA,Mumbai,consumer,Gold,2025-03-03,N
+309,Jakub Varga,customer309@example.com,Spain,Madrid,small business,Platinum,2023-04-05,Y
+310,Tanimu Ladi,customer310@example.com,France,Paris,CORPORATE,Silver,2024-02-24,N
+311,Venkatesh Kona,customer311@example.com,US,New York,Small Business,Gold,2023-12-04,No
+312,Yasmin Qureshi,customer312@example.com,France,Paris,Corporate,Silver,2024-04-11,Yes
+313,Marjan Vidmar,customer313@example.com,US,New York,Corporate,Silver,2022-12-09,
+314,Hasan Ibrahimov,customer314@example.com,UK,London,small business,Gold,2022-04-22,Y
+315,Hone Albert,customer315@example.com,Germany,Berlin,small business,Platinum,2024-07-13,No
+316,Nevena Georgieva,customer316@example.com,UK,London,Small Business,Platinum,2025-02-03,N
+317,Nicoletta Charrette,customer317@example.com,US,New York,Small Business,Bronze,2022-03-13,
+318,Michelle Caruana,customer318@example.com,canada,Vancouver,small business,Silver,2022-11-15,Yes
+319,Amangul Myratnazarowa,customer319@example.com,India,Bengaluru,CORPORATE,Bronze,2024-08-18,No
+320,Cookie Sodhi,customer320@example.com,Spain,Madrid,small business,Gold,2023-11-17,No
+321,Grazina Januliene,customer321@example.com,INDIA,Mumbai,CORPORATE,Bronze,2022-07-04,Y
+322,Kousar Zaheen,customer322@example.com,India,Bengaluru,consumer,Platinum,2024-08-12,
+323,Naiara Padilla,customer323@example.com,USA,Seattle,Small Business,Platinum,2023-08-28,No
+324,Noé Girard,customer324@example.com,USA,Seattle,Corporate,Gold,2022-01-19,
+325,Nader Samadi,customer325@example.com,usa,Austin,small business,Silver,2022-10-01,No
+326,Chanok Rattanakoson,customer326@example.com,UK,London,Small Business,Silver,2024-05-30,Y
+327,Khamla Sipasert,customer327@example.com,INDIA,Mumbai,Consumer,Silver,2022-03-20,
+328,Madina Qodiri,customer328@example.com,United Kingdom,Manchester,small business,Gold,2022-04-14,Y
+329,Shams Elmarakshi,customer329@example.com,India,Bengaluru,consumer,Bronze,2024-04-07,No
+330,Shao-en Tseng,customer330@example.com,UK,London,Small Business,Gold,2023-05-16,No
+331,Zhirko Rebwar,customer331@example.com,Canada,Toronto,Corporate,Bronze,2022-06-30,No
+332,Kristján Kristjánsson,customer332@example.com,UK,London,Small Business,Gold,2023-03-13,Y
+333,Altanzul Bayd,customer333@example.com,,Unknown,Consumer,Silver,2024-08-28,Y
+334,Aneela Mohan,customer334@example.com,Canada,Toronto,CORPORATE,Platinum,2023-10-05,No
+335,Milan Golob,customer335@example.com,UK,London,Corporate,Silver,2023-07-05,Y
+336,Rita Viinikainen,customer336@example.com,usa,Austin,CORPORATE,Gold,2022-01-08,N
+337,Gabriel Moeller,customer337@example.com,Germany,Berlin,consumer,Platinum,2023-06-10,Y
+338,Maimouna Thiaw,customer338@example.com,Spain,Madrid,Corporate,Bronze,2024-11-28,
+339,Jacob Hancock,customer339@example.com,France,Paris,small business,Silver,2024-10-26,N
+340,Paula Núñez,customer340@example.com,Canada,Toronto,consumer,Bronze,2022-03-01,N
+341,Wiwin Wulandari,customer341@example.com,USA,Seattle,Corporate,Platinum,2023-12-10,
+342,Augustinas Petrauskas,customer342@example.com,canada,Vancouver,consumer,Silver,2023-08-13,Y
+343,May Wee,customer343@example.com,United Kingdom,Manchester,Small Business,Platinum,2023-07-28,Yes
+344,Mirjana Ralevic,customer344@example.com,US,New York,Small Business,Gold,2023-09-29,No
+345,Randveig Skretting,customer345@example.com,UAE,Dubai,Consumer,Bronze,2023-04-26,
+346,Kiettisuk Pornpradub,customer346@example.com,INDIA,Mumbai,CORPORATE,Silver,2022-03-11,Y
+347,Ihintz Gaztelurrutia,customer347@example.com,UAE,Dubai,Small Business,Platinum,2023-05-12,Yes
+348,Paula Núñez,customer348@example.com,usa,Austin,CORPORATE,Gold,2022-01-07,Y
+349,Jarmila Hrdlickova,customer349@example.com,France,Paris,small business,Silver,2022-10-05,
+350,Dani Ferrarons,customer350@example.com,US,New York,small business,Gold,2025-02-20,N
+351,Iola Edwards,customer351@example.com,UAE,Dubai,consumer,Gold,2025-01-20,Y
+352,Lujain Al-Lujain,customer352@example.com,usa,Austin,Small Business,Platinum,2022-12-30,No
+353,Samat Eralieva,customer353@example.com,USA,Seattle,Corporate,Gold,2025-02-02,N
+354,Sofia Gomes,customer354@example.com,,Unknown,small business,Gold,2022-08-13,Yes
+355,Nikiforos Sakellariou,customer355@example.com,,Unknown,CORPORATE,Bronze,2022-12-15,Yes
+356,Hattan Al-Saadi,customer356@example.com,Canada,Toronto,small business,Silver,2023-11-20,Yes
+357,Helmi Miettinen,customer357@example.com,canada,Vancouver,consumer,Platinum,2023-11-22,Y
+358,Zainab Audu,customer358@example.com,France,Paris,small business,Gold,2022-03-03,Y
+359,Galima Niyazkyzy,customer359@example.com,canada,Vancouver,CORPORATE,Bronze,2024-01-31,N
+360,Agus Sumarto,customer360@example.com,United Kingdom,Manchester,consumer,Gold,2025-03-26,No
+361,Krithika Beriya,customer361@example.com,usa,Austin,Corporate,Platinum,2022-01-08,
+362,Thomas Margand,customer362@example.com,usa,Austin,small business,Gold,2023-06-12,N
+363,Charlie Benoît,customer363@example.com,France,Paris,consumer,Bronze,2023-08-30,
+364,Kuutti Saarinen,customer364@example.com,France,Paris,Corporate,Platinum,2024-01-01,N
+365,Eba Lencho,customer365@example.com,UK,London,Corporate,Bronze,2022-11-28,Yes
+366,Jakeem Mustafa,customer366@example.com,usa,Austin,CORPORATE,Silver,2025-03-26,N
+367,Ya-ting Huang,customer367@example.com,USA,Seattle,CORPORATE,Platinum,2025-02-10,
+368,Hulya Tekin,customer368@example.com,India,Bengaluru,CORPORATE,Bronze,2023-04-03,Yes
+369,Neo Dikgaka,customer369@example.com,USA,Seattle,Consumer,Silver,2024-03-06,N
+370,Mausami Das,customer370@example.com,UK,London,small business,Platinum,2023-08-16,Yes
+371,Lauma Sproģe,customer371@example.com,US,New York,Small Business,Platinum,2022-12-26,No
+372,Himani Maharjan,customer372@example.com,Spain,Madrid,Small Business,Silver,2022-06-22,No
+373,Jiang Li Liu,customer373@example.com,Spain,Madrid,Consumer,Gold,2024-06-06,
+374,Camille Brunelle,customer374@example.com,,Unknown,Consumer,Platinum,2023-05-03,
+375,Emil Vanggaard,customer375@example.com,canada,Vancouver,Small Business,Platinum,2022-04-12,No
+376,Olalla Romeu,customer376@example.com,Spain,Madrid,Consumer,Bronze,2022-07-06,Yes
+377,Amporn Boonluang,customer377@example.com,canada,Vancouver,CORPORATE,Platinum,2025-01-28,Yes
+378,Chandrashekhar Bhuiyan,customer378@example.com,US,New York,consumer,Bronze,2022-08-05,
+379,Pavel Bezrukov,customer379@example.com,USA,Seattle,consumer,Bronze,2024-01-16,Yes
+380,Srood Sirwan,customer380@example.com,canada,Vancouver,consumer,Bronze,2024-01-14,Y
+381,Javkhlan Tugskhuu,customer381@example.com,usa,Austin,small business,Bronze,2023-03-24,Yes
+382,Louis de Wet,customer382@example.com,Canada,Toronto,consumer,Platinum,2024-10-19,Y
+383,Jagadish Dasgupta,customer383@example.com,UAE,Dubai,Small Business,Gold,2022-11-18,No
+384,Pranita Zambaulikar,customer384@example.com,USA,Seattle,small business,Bronze,2022-03-25,Yes
+385,Alexis Bourgeois,customer385@example.com,usa,Austin,Corporate,Gold,2025-03-16,
+386,Mahabad Dana,customer386@example.com,Spain,Madrid,Small Business,Silver,2022-08-31,
+387,Gor Hovhannisyan,customer387@example.com,INDIA,Mumbai,CORPORATE,Platinum,2023-05-23,
+388,Lai Loan,customer388@example.com,,Unknown,Small Business,Platinum,2024-03-21,Y
+389,Irbe Ziemele,customer389@example.com,India,Bengaluru,Corporate,Bronze,2022-07-01,Y
+390,Alin Olteanu,customer390@example.com,Canada,Toronto,small business,Bronze,2022-10-05,No
+391,Femke Van Vossen,customer391@example.com,France,Paris,CORPORATE,Silver,2024-03-27,N
+392,Valentina Rodrigues,customer392@example.com,UK,London,Small Business,Gold,2024-09-10,N
+393,Anca Preda,customer393@example.com,UAE,Dubai,Small Business,Platinum,2023-09-18,
+394,Chaitanya Jadhav,customer394@example.com,INDIA,Mumbai,Consumer,Bronze,2024-12-24,No
+395,Naran Shîlan,customer395@example.com,Canada,Toronto,CORPORATE,Silver,2024-07-22,
+396,Sonia Rees,customer396@example.com,INDIA,Mumbai,Consumer,Bronze,2023-08-25,
+397,Andile Zanemvula,customer397@example.com,India,Bengaluru,consumer,Silver,2023-08-17,Yes
+398,Hegedus Attila,customer398@example.com,India,Bengaluru,Consumer,Silver,2023-04-03,No
+399,Nukri Iashvili,customer399@example.com,US,New York,CORPORATE,Gold,2022-10-05,Y
+400,Christophe Beaulieu,customer400@example.com,canada,Vancouver,CORPORATE,Platinum,2023-05-13,
+401,Mateo Chocoj,customer401@example.com,Spain,Madrid,CORPORATE,Silver,2024-04-04,Y
+402,Luisa Alves,customer402@example.com,,Unknown,Consumer,Gold,2022-05-30,
+403,David Tremblay,customer403@example.com,UAE,Dubai,Small Business,Gold,2024-08-13,
+404,Suhan Boghra,customer404@example.com,USA,Seattle,CORPORATE,Silver,2024-06-27,Yes
+405,BaeSik Kim,customer405@example.com,UK,London,small business,Gold,2023-06-30,No
+406,Maurice Rugamba,customer406@example.com,United Kingdom,Manchester,Consumer,Gold,2024-04-11,No
+407,Sethunya Mpšwe,customer407@example.com,United Kingdom,Manchester,consumer,Silver,2022-06-16,No
+408,Guner Aktas,customer408@example.com,UAE,Dubai,Corporate,Silver,2022-05-31,
+409,Beatriz Schmidt,customer409@example.com,Canada,Toronto,Corporate,Gold,2022-03-12,N
+410,Darius Franklin,customer410@example.com,USA,Seattle,Corporate,Platinum,2022-03-24,No
+411,Shako Tughushi,customer411@example.com,India,Bengaluru,small business,Silver,2023-03-20,Yes
+412,Aya Yoshida,customer412@example.com,,Unknown,Small Business,Silver,2022-02-25,Yes
+413,Dileep Patnam,customer413@example.com,UAE,Dubai,Consumer,Bronze,2022-09-23,
+414,Estrela Macedo,customer414@example.com,usa,Austin,Corporate,Platinum,2024-08-03,Yes
+415,Nirmal Patil,customer415@example.com,United Kingdom,Manchester,consumer,Platinum,2023-01-21,Yes
+416,Alfons Vitols,customer416@example.com,INDIA,Mumbai,small business,Bronze,2025-04-09,Y
+417,Ortensia Piazza,customer417@example.com,US,New York,Corporate,Silver,2022-04-30,Y
+418,Reni Borici,customer418@example.com,canada,Vancouver,Consumer,Silver,2022-12-26,
+419,Akhilesh Khare,customer419@example.com,United Kingdom,Manchester,Corporate,Silver,2024-05-07,Yes
+420,Konsta Koivunen,customer420@example.com,usa,Austin,Small Business,Silver,2025-02-28,Yes
+421,Sanjay Trivedi,customer421@example.com,INDIA,Mumbai,Consumer,Gold,2025-01-23,N
+422,Manjot Shergill,customer422@example.com,France,Paris,consumer,Gold,2022-11-14,Y
+423,Marija Nikolic,customer423@example.com,UK,London,Consumer,Platinum,2023-12-25,N
+424,Katou Ren,customer424@example.com,US,New York,small business,Silver,2024-12-28,N
+425,Ahmad Firdaus,customer425@example.com,Spain,Madrid,consumer,Platinum,2024-11-15,
+426,Kardo Bahoz,customer426@example.com,UAE,Dubai,Small Business,Silver,2024-06-16,
+427,Palmira Loggia,customer427@example.com,USA,Seattle,consumer,Silver,2024-06-01,
+428,Swarnika Soni,customer428@example.com,UAE,Dubai,small business,Platinum,2024-04-05,No
+429,Bratislav Tomic,customer429@example.com,France,Paris,small business,Gold,2024-08-20,Y
+430,Daniel Noam,customer430@example.com,India,Bengaluru,Corporate,Platinum,2023-08-28,Y
+431,Malik Haddad,customer431@example.com,usa,Austin,Consumer,Gold,2024-05-26,N
+432,Jani Vasala,customer432@example.com,India,Bengaluru,Consumer,Bronze,2022-10-11,N
+433,Ako Zana,customer433@example.com,UAE,Dubai,Corporate,Bronze,2022-04-04,No
+434,Pinter Brigitta,customer434@example.com,Spain,Madrid,Corporate,Gold,2024-08-25,Yes
+435,Majda Pusnik,customer435@example.com,Canada,Toronto,Small Business,Platinum,2022-08-26,Y
+436,Rosita Cardozo,customer436@example.com,UAE,Dubai,Small Business,Bronze,2022-07-16,Yes
+437,Bharani Bhavin,customer437@example.com,Canada,Toronto,small business,Platinum,2023-11-08,
+438,Raimo Celms,customer438@example.com,United Kingdom,Manchester,Corporate,Platinum,2023-10-08,No
+439,Anton Parvu,customer439@example.com,US,New York,CORPORATE,Gold,2022-09-03,N
+440,Dmytro Tkachuk,customer440@example.com,,Unknown,CORPORATE,Bronze,2022-01-17,Yes
+441,Jostein Bergersen,customer441@example.com,USA,Seattle,Small Business,Silver,2023-04-08,N
+442,Ioannis Exarchopoulos,customer442@example.com,Canada,Toronto,small business,Silver,2023-07-24,Y
+443,Naba Moran,customer443@example.com,,Unknown,consumer,Bronze,2024-05-10,N
+444,Abdul-Qahhar Abadi,customer444@example.com,canada,Vancouver,small business,Silver,2024-09-04,N
+445,Snezana Todorovic,customer445@example.com,India,Bengaluru,Corporate,Platinum,2022-09-19,
+446,Pavol Sloboda,customer446@example.com,United Kingdom,Manchester,small business,Bronze,2025-03-25,Y
+447,Tarja Hyypiä,customer447@example.com,United Kingdom,Manchester,CORPORATE,Silver,2025-01-10,Y
+448,Noa Ervello,customer448@example.com,,Unknown,consumer,Bronze,2024-05-13,N
+449,Mattia Trentini,customer449@example.com,Germany,Berlin,Small Business,Silver,2022-05-09,Y
+450,Monika Nayak,customer450@example.com,Spain,Madrid,CORPORATE,Platinum,2023-11-23,
+451,Tatapi Phogole,customer451@example.com,Canada,Toronto,Consumer,Bronze,2023-10-26,
+452,Ali Yilmaz,customer452@example.com,Canada,Toronto,consumer,Bronze,2024-10-08,Y
+453,Baraka Mussa,customer453@example.com,usa,Austin,consumer,Gold,2022-04-26,N
+454,Bo-ram Kang,customer454@example.com,US,New York,consumer,Gold,2022-02-10,Yes
+455,Dakota Rivers,customer455@example.com,France,Paris,Consumer,Gold,2024-01-24,No
+456,Jyoti Rabha,customer456@example.com,INDIA,Mumbai,small business,Silver,2023-12-08,Yes
+457,Aviv Shapiro,customer457@example.com,France,Paris,Corporate,Bronze,2022-07-14,No
+458,Krishnath Desai,customer458@example.com,canada,Vancouver,small business,Platinum,2022-02-11,Yes
+459,Ratih Winata,customer459@example.com,Spain,Madrid,CORPORATE,Bronze,2022-09-27,
+460,Swaathi Gochaki,customer460@example.com,UK,London,Small Business,Bronze,2022-04-07,Y
+461,Konstantinos Nicolaou,customer461@example.com,United Kingdom,Manchester,CORPORATE,Platinum,2022-10-18,
+462,Ranjita Chari,customer462@example.com,UK,London,CORPORATE,Platinum,2023-09-14,Yes
+463,Vedrana Tomić,customer463@example.com,India,Bengaluru,small business,Gold,2022-08-17,Yes
+464,Luz Sanchez,customer464@example.com,canada,Vancouver,CORPORATE,Platinum,2023-08-19,Y
+465,Ncumisa Mvubu,customer465@example.com,Germany,Berlin,consumer,Silver,2023-03-05,N
+466,Kamil Mehmud,customer466@example.com,INDIA,Mumbai,consumer,Silver,2022-09-06,Y
+467,Milinka Vasiljevic,customer467@example.com,,Unknown,Small Business,Gold,2025-01-24,N
+468,Nkechinyere Obinna,customer468@example.com,,Unknown,Consumer,Silver,2023-05-01,No
+469,Hasna Manira,customer469@example.com,Germany,Berlin,Consumer,Gold,2022-04-27,Yes
+470,Voros Rozalia,customer470@example.com,,Unknown,consumer,Bronze,2022-01-21,
+471,Sidhhartha Sanyal,customer471@example.com,UAE,Dubai,Small Business,Gold,2024-03-17,Yes
+472,Lluís Ferrer,customer472@example.com,INDIA,Mumbai,Corporate,Silver,2023-05-09,No
+473,Ahmad Firdaus,customer473@example.com,France,Paris,CORPORATE,Bronze,2025-04-01,No
+474,Jawid Pourali,customer474@example.com,Canada,Toronto,Corporate,Gold,2022-12-12,Yes
+475,Pragati Acharya,customer475@example.com,Spain,Madrid,Corporate,Bronze,2024-08-14,Y
+476,Gurmeet Dhillon,customer476@example.com,United Kingdom,Manchester,Consumer,Platinum,2024-05-12,Yes
+477,Suman Rai,customer477@example.com,France,Paris,Consumer,Silver,2023-08-30,Yes
+478,Marissa Navarro,customer478@example.com,UK,London,small business,Bronze,2022-03-01,Y
+479,Themba Vundla,customer479@example.com,INDIA,Mumbai,consumer,Bronze,2022-10-01,
+480,Katri Korhola,customer480@example.com,Canada,Toronto,CORPORATE,Platinum,2023-04-25,No
+481,Bjarte Høgdal,customer481@example.com,Spain,Madrid,Small Business,Bronze,2024-06-13,N
+482,Hagai Kopelman,customer482@example.com,UK,London,small business,Gold,2024-07-15,N
+483,Montserrat Desriols,customer483@example.com,UK,London,consumer,Silver,2024-12-21,N
+484,Séamus Mac Domhnaill,customer484@example.com,canada,Vancouver,CORPORATE,Gold,2023-08-11,Y
+485,Dónal Mac Cárthaigh,customer485@example.com,,Unknown,Corporate,Platinum,2022-01-31,Y
+486,Asmar Gafarova,customer486@example.com,Germany,Berlin,CORPORATE,Platinum,2023-01-07,Y
+487,Elen Williams,customer487@example.com,Spain,Madrid,consumer,Silver,2024-08-31,Y
+488,Mitiksha Cheda,customer488@example.com,usa,Austin,consumer,Gold,2022-08-29,Y
+489,Wei-ming Chao,customer489@example.com,USA,Seattle,Consumer,Bronze,2025-01-21,Y
+490,Jaap Kleefstra,customer490@example.com,Spain,Madrid,small business,Bronze,2025-03-19,Yes
+491,Petja Hrovat,customer491@example.com,France,Paris,Small Business,Silver,2022-07-22,Yes
+492,Dionne Angelis,customer492@example.com,UK,London,Consumer,Platinum,2024-10-22,No
+493,Laimis Adomaitis,customer493@example.com,France,Paris,Corporate,Gold,2023-11-02,
+494,Gerelmaa Borkhuu,customer494@example.com,Spain,Madrid,Corporate,Bronze,2025-03-23,Y
+495,Laura Balaguer,customer495@example.com,UAE,Dubai,CORPORATE,Bronze,2024-04-01,No
+496,Rahel Eyob,customer496@example.com,Germany,Berlin,CORPORATE,Bronze,2023-03-06,No
+497,Radomir Angelov,customer497@example.com,usa,Austin,CORPORATE,Platinum,2025-04-12,Y
+498,Jiten Sonowal,customer498@example.com,USA,Seattle,Consumer,Gold,2024-02-03,Yes
+499,Nikolett Oláh,customer499@example.com,Spain,Madrid,CORPORATE,Platinum,2022-01-08,No
+500,Sekar Ningrum,customer500@example.com,Spain,Madrid,small business,Gold,2022-12-10,N

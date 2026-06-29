@@ -1,0 +1,913 @@
+order_id,order_date,customer_id,product_id,quantity,unit_price,discount_percent,channel,payment_method,order_status,is_returned,return_reason,shipping_city,shipping_country,campaign_name,source_updated_at
+10001,2025-02-02,442,107,5,297.11,0,Store,UPI,Completed,N,,Toronto,Canada,New Year Fitness,2025-02-07
+10002,2025-02-06,259,311,3,240.97,5,Marketplace,Credit Card,Completed,N,,Toronto,Canada,Summer Training,2025-02-14
+10003,2025-12-14,306,374,4,108.79,10,Online,PayPal,Completed,N,,Berlin,Germany,Summer Training,2025-12-18
+10004,2025-10-28,284,564,4,97.85,0,Online,UPI,Completed,N,,Unknown,,Holiday Wellness,2025-11-03
+10005,2025-02-03,352,113,2,201.67,0,Marketplace,Gift Card,Cancelled,N,,Austin,usa,New Year Fitness,2025-02-04
+10006,2025-05-01,406,460,3,186.25,0,Online,Credit Card,Completed,N,,Manchester,United Kingdom,Back to Routine,2025-05-11
+10007,2025-07-06,6,465,3,286.99,0,Marketplace,PayPal,Completed,N,,Mumbai,INDIA,Summer Training,2025-07-09
+10008,2025-04-03,430,513,3,225.07,15,Online,Gift Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-04-07
+10009,2025-09-23,224,131,5,55.06,0,Store,UPI,Completed,N,,Madrid,Spain,Spring Reset,2025-09-29
+10010,2025-10-05,227,281,3,258.39,20,Online,PayPal,Completed,N,,Paris,France,Holiday Wellness,2025-10-05
+10011,2025-09-23,430,252,3,111.17,10,Marketplace,Credit Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-09-24
+10012,2025-06-24,54,127,3,68.96,5,Store,Gift Card,Returned,Y,Damaged item,Berlin,Germany,None,2025-06-28
+10013,2025-12-17,102,178,NULL,217.21,0,Partner,Gift Card,Completed,N,,New York,US,Holiday Wellness,2025-12-19
+10014,2025-09-15,454,299,5,76.86,0,Online,PayPal,Completed,N,,New York,US,Summer Training,2025-09-23
+10015,2025-03-15,388,501,1,218.93,5,Online,Debit Card,Completed,N,,Unknown,,None,2025-03-20
+10016,2025-07-14,253,334,5,102.08,15,Partner,PayPal,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-07-16
+10017,2025-07-02,474,467,2,68.63,0,Online,Credit Card,Completed,N,,Toronto,Canada,Holiday Wellness,2025-07-10
+10018,2025-09-08,338,520,2,261.45,15,Partner,UPI,Completed,N,,Madrid,Spain,Holiday Wellness,2025-09-10
+10019,2025-06-24,488,415,1,14.98,5,Online,Credit Card,Completed,N,,Austin,usa,Holiday Wellness,2025-06-28
+10020,2025-02-01,297,574,2,85.02,5,Store,Debit Card,Returned,Y,Size issue,London,UK,Back to Routine,2025-02-09
+10021,2025-06-09,80,408,4,204.71,0,Store,UPI,Pending,N,,Bengaluru,India,Back to Routine,2025-06-15
+10022,2025-11-11,444,424,5,236.18,0,Online,UPI,Completed,N,,Vancouver,canada,Summer Training,2025-11-13
+10023,2025-07-12,241,547,3,130.99,5,Partner,Gift Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-07-22
+10024,2025-12-20,397,207,1,80.29,15,Partner,UPI,Cancelled,N,,Bengaluru,India,New Year Fitness,2025-12-23
+10025,2025-07-28,87,488,5,101.18,0,Store,PayPal,Returned,Y,Changed mind,Vancouver,canada,New Year Fitness,2025-07-30
+10026,2025-08-24,184,459,4,88.73,0,Partner,Gift Card,Completed,N,,Madrid,Spain,Back to Routine,2025-08-26
+10027,2025-07-28,492,587,2,275.22,5,Store,PayPal,Completed,N,,London,UK,Summer Training,2025-08-01
+10028,2025-10-20,413,415,1,14.98,0,Online,UPI,Completed,N,,Dubai,UAE,None,2025-10-28
+10029,2025-08-20,438,284,5,148.84,5,Store,PayPal,Completed,N,,Manchester,United Kingdom,Spring Reset,2025-08-30
+10030,2025-08-24,109,505,5,95.28,15,Online,Credit Card,Completed,N,,London,UK,New Year Fitness,2025-08-24
+10031,2025-03-20,200,117,3,254.19,0,Partner,Credit Card,Returned,Y,Late delivery,Toronto,Canada,Summer Training,2025-03-25
+10032,2025-02-15,230,354,2,171.62,5,Marketplace,Debit Card,Completed,N,,Vancouver,canada,Spring Reset,2025-02-25
+10033,2025-08-28,14,437,3,40.22,0,Marketplace,Debit Card,Cancelled,N,,Vancouver,canada,Back to Routine,2025-08-30
+10034,2025-10-01,256,505,5,bad_price,0,Store,Debit Card,Cancelled,N,,Mumbai,INDIA,New Year Fitness,2025-10-06
+10035,2025-09-15,390,138,1,124.36,0,Online,Credit Card,Returned,Y,Changed mind,Toronto,Canada,Back to Routine,2025-09-21
+10036,2025-02-28,304,342,4,275.57,0,Store,Gift Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-02-28
+10037,2025-05-19,145,107,5,297.11,0,Online,Credit Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-05-29
+10038,2025-02-03,61,180,3,172.31,0,Marketplace,PayPal,Completed,N,,Unknown,,Spring Reset,2025-02-08
+10039,2025-06-27,178,150,3,265.34,15,Online,Gift Card,Completed,N,,Bengaluru,India,Holiday Wellness,2025-06-29
+10040,2025-10-23,14,486,1,173.14,15,Marketplace,Debit Card,Completed,N,,Vancouver,canada,None,2025-10-25
+10041,2025-07-04,451,600,5,207.82,10,Store,Gift Card,Completed,N,,Toronto,Canada,Summer Training,2025-07-05
+10042,2025-05-23,276,330,2,147.31,0,Online,Credit Card,Completed,N,,Mumbai,INDIA,Summer Training,2025-05-28
+10043,2025-07-14,445,242,3,253.03,0,Marketplace,Credit Card,Completed,N,,Bengaluru,India,Holiday Wellness,2025-07-14
+10044,2025-05-17,301,425,2,80.28,20,Store,Credit Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-05-17
+10045,2025-01-25,490,576,1,35.75,15,Store,Credit Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-02-02
+10046,2025-02-16,245,150,5,265.34,0,Marketplace,Gift Card,Completed,N,,Vancouver,canada,Spring Reset,2025-02-16
+10047,2025-05-03,102,477,3,198.25,0,Online,Debit Card,Returned,Y,Late delivery,New York,US,Holiday Wellness,2025-05-13
+10048,2025-12-05,369,334,4,102.08,0,Partner,Credit Card,Cancelled,N,,Seattle,USA,Back to Routine,2025-12-13
+10049,2025-03-05,175,518,5,52.35,10,Store,PayPal,Completed,N,,Seattle,USA,Back to Routine,2025-03-11
+10050,2025-09-16,290,207,3,80.29,15,Marketplace,Gift Card,Completed,N,,Unknown,,Summer Training,2025-09-21
+10051,2025-07-12,110,498,5,47.13,5,Marketplace,Gift Card,Cancelled,N,,Paris,France,Spring Reset,2025-07-19
+10052,2025-07-03,41,378,1,293.50,20,Partner,Gift Card,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2025-07-04
+10053,2025-08-13,186,427,4,30.69,15,Marketplace,UPI,Completed,N,,Austin,usa,Holiday Wellness,2025-08-20
+10054,2025-03-13,359,278,2,125.28,5,Partner,UPI,Completed,N,,Vancouver,canada,New Year Fitness,2025-03-15
+10055,2025-04-30,94,476,4,235.88,20,Partner,Debit Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-05-09
+10056,2025-05-22,339,502,4,168.90,0,Store,Debit Card,Completed,N,,Paris,France,Spring Reset,2025-05-25
+10057,2025-06-24,493,490,5,90.62,0,Partner,UPI,Completed,N,,Paris,France,None,2025-06-29
+10058,2025-03-22,464,127,4,68.96,5,Partner,Debit Card,Completed,N,,Vancouver,canada,Back to Routine,2025-03-31
+10059,2025-10-21,51,479,4,248.10,20,Partner,Credit Card,Returned,Y,Damaged item,Seattle,USA,None,2025-10-21
+10060,2025-07-20,354,118,5,23.16,10,Store,Credit Card,Completed,N,,Unknown,,None,2025-07-26
+10061,2025-05-15,271,313,4,254.22,20,Marketplace,Gift Card,Completed,N,,Vancouver,canada,New Year Fitness,2025-05-21
+10062,2025-09-26,188,440,2,214.12,0,Partner,UPI,Completed,N,,Madrid,Spain,Spring Reset,2025-09-26
+10063,2025-07-08,69,217,5,188.46,0,Marketplace,Credit Card,Completed,N,,Bengaluru,India,Summer Training,2025-07-18
+10064,2025-11-08,277,401,3,212.99,0,Marketplace,Gift Card,Completed,N,,Berlin,Germany,Back to Routine,2025-11-12
+10065,2025-11-21,162,555,5,257.05,20,Store,Debit Card,Returned,Y,Size issue,Manchester,United Kingdom,Back to Routine,2025-11-27
+10066,2025-10-17,484,599,3,69.46,5,Store,UPI,Completed,N,,Vancouver,canada,None,2025-10-21
+10067,2025-09-14,260,400,3,79.32,0,Store,Debit Card,Completed,N,,Toronto,Canada,None,2025-09-21
+10068,2025-08-20,228,489,2,91.52,0,Store,UPI,Completed,N,,Manchester,United Kingdom,None,2025-08-29
+10069,2025-04-12,440,174,4,92.09,0,Store,PayPal,Completed,N,,Unknown,,Back to Routine,2025-04-19
+10070,2025-11-01,259,340,5,254.86,20,Partner,Debit Card,Completed,N,,Toronto,Canada,Summer Training,2025-11-09
+10071,2025-01-25,87,505,1,95.28,0,Marketplace,PayPal,Returned,Y,Damaged item,Vancouver,canada,Back to Routine,2025-01-27
+10072,2025-04-17,470,140,2,196.07,5,Store,UPI,Completed,N,,Unknown,,Holiday Wellness,2025-04-22
+10073,2025-01-05,382,124,2,235.44,15,Online,PayPal,Completed,N,,Toronto,Canada,Spring Reset,2025-01-14
+10074,2025-02-21,212,366,5,63.93,15,Store,Debit Card,Completed,N,,Austin,usa,Summer Training,2025-02-24
+10075,2025-07-16,140,271,4,256.23,0,Partner,Credit Card,Completed,N,,Paris,France,Holiday Wellness,2025-07-18
+10076,2025-04-09,494,386,1,260.63,0,Store,UPI,Completed,N,,Madrid,Spain,Summer Training,2025-04-19
+10077,2025-02-03,321,563,3,289.66,0,Store,Debit Card,Returned,Y,Size issue,Mumbai,INDIA,Spring Reset,2025-02-04
+10078,2025-06-28,248,129,1,233.18,not_available,Partner,PayPal,Pending,N,,London,UK,Holiday Wellness,2025-07-05
+10079,2025-03-10,439,187,2,74.19,20,Online,Debit Card,Completed,N,,New York,US,New Year Fitness,2025-03-18
+10080,2025-05-20,246,353,5,15.31,0,Store,Debit Card,Cancelled,N,,Mumbai,INDIA,Summer Training,2025-05-22
+10081,2025-06-01,30,475,5,30.76,15,Store,UPI,Completed,N,,Toronto,Canada,Holiday Wellness,2025-06-07
+10082,2025-05-25,123,506,5,125.04,0,Store,PayPal,Completed,N,,Toronto,Canada,Spring Reset,2025-05-28
+10083,2025-12-05,152,487,1,231.62,5,Store,Gift Card,Completed,N,,Toronto,Canada,None,2025-12-12
+10084,2025-07-20,472,251,1,100.31,0,Partner,PayPal,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-07-27
+10085,2025-09-12,198,522,2,25.20,5,Store,Debit Card,Pending,N,,Berlin,Germany,Summer Training,2025-09-13
+10086,2025-02-08,302,178,3,217.21,0,Partner,Credit Card,Completed,N,,Manchester,United Kingdom,Back to Routine,2025-02-15
+10087,2025-12-16,243,391,1,142.21,15,Partner,PayPal,Completed,N,,Austin,usa,None,2025-12-24
+10088,2025-01-19,465,378,2,293.50,15,Partner,Credit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-01-27
+10089,,349,333,3,122.99,0,Store,UPI,Returned,Y,Changed mind,Paris,France,New Year Fitness,2025-04-25
+10090,2025-08-04,74,142,5,125.56,10,Marketplace,PayPal,Completed,N,,Unknown,,New Year Fitness,2025-08-04
+10091,2025-05-17,61,355,2,113.83,0,Online,Credit Card,Completed,N,,Unknown,,Summer Training,2025-05-23
+10092,2025-07-16,467,582,3,163.96,5,Partner,Credit Card,Completed,N,,Unknown,,Back to Routine,2025-07-17
+10093,2025-02-28,189,264,1,182.98,0,Marketplace,Credit Card,Completed,N,,New York,US,Back to Routine,2025-03-08
+10094,2025-01-19,12,258,5,201.40,0,Marketplace,PayPal,Completed,N,,Berlin,Germany,Spring Reset,2025-01-25
+10095,2025-03-02,277,238,2,265.82,20,Online,Credit Card,Completed,N,,Berlin,Germany,New Year Fitness,2025-03-08
+10096,2025-07-31,429,170,5,71.26,0,Store,Debit Card,Completed,N,,Paris,France,None,2025-08-03
+10097,2025-07-31,387,127,1,68.96,0,Online,Credit Card,Returned,Y,Size issue,Mumbai,INDIA,Spring Reset,2025-08-08
+10098,2025-01-01,350,119,1,21.55,5,Store,Credit Card,Completed,N,,New York,US,Spring Reset,2025-01-04
+10099,2025-04-05,489,297,1,68.70,0,Online,PayPal,Completed,N,,Seattle,USA,Spring Reset,2025-04-08
+10100,2025-06-02,290,118,1,23.16,0,Store,Debit Card,Completed,N,,Unknown,,Spring Reset,2025-06-05
+10101,2025-07-12,433,114,1,31.28,0,Store,Credit Card,Completed,N,,Dubai,UAE,None,2025-07-20
+10102,2025-09-28,472,518,1,52.35,10,Marketplace,UPI,Completed,N,,Mumbai,INDIA,Back to Routine,2025-09-29
+10103,2025-01-16,493,129,1,233.18,10,Online,Debit Card,Returned,Y,Damaged item,Paris,France,Summer Training,2025-01-20
+10104,2025-03-31,92,163,3,259.86,0,Store,Debit Card,Completed,N,,Madrid,Spain,Back to Routine,2025-04-01
+10105,2025-06-15,246,299,3,76.86,0,Partner,Debit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-06-15
+10106,2025-04-06,303,253,4,34.82,20,Store,UPI,Completed,N,,London,UK,Spring Reset,2025-04-16
+10107,2025-05-21,114,486,3,173.14,0,Store,Debit Card,Completed,N,,Bengaluru,India,None,2025-05-24
+10108,2025-09-09,453,341,2,225.60,5,Marketplace,Credit Card,Completed,N,,Austin,usa,Back to Routine,2025-09-10
+10109,2025-12-28,265,362,4,40.03,0,Online,Gift Card,Completed,N,,London,UK,Spring Reset,2025-12-31
+10110,2025-03-12,450,371,1,167.40,15,Store,Credit Card,Returned,Y,Size issue,Madrid,Spain,Holiday Wellness,2025-03-20
+10111,2025-12-12,460,421,4,135.71,0,Marketplace,Debit Card,Cancelled,N,,London,UK,Holiday Wellness,2025-12-18
+10112,2025-09-28,102,546,5,241.75,0,Online,Credit Card,Cancelled,N,,New York,US,Spring Reset,2025-10-04
+10113,2025-01-06,6,369,2,22.10,0,Online,Gift Card,Pending,N,,Mumbai,INDIA,New Year Fitness,2025-01-11
+10114,2025-02-16,346,199,5,20.55,20,Partner,Debit Card,Completed,N,,Mumbai,INDIA,None,2025-02-23
+10115,2025-12-04,20,407,5,23.75,10,Partner,Credit Card,Completed,N,,Seattle,USA,Back to Routine,2025-12-09
+10116,2025-12-08,463,531,1,38.45,5,Online,PayPal,Completed,N,,Bengaluru,India,Back to Routine,2025-12-09
+10117,2025-04-05,460,136,5,188.05,15,Online,Debit Card,Completed,N,,London,UK,Back to Routine,2025-04-12
+10118,2025-08-30,225,546,4,241.75,20,Partner,Debit Card,Completed,N,,Paris,France,Holiday Wellness,2025-09-05
+10119,2025-03-15,319,258,3,201.40,0,Marketplace,Debit Card,Completed,N,,Bengaluru,India,Holiday Wellness,2025-03-16
+10120,2025-12-05,259,194,4,144.61,0,Partner,Credit Card,Completed,N,,Toronto,Canada,None,2025-12-12
+10121,2025-11-08,328,255,5,242.14,10,Online,PayPal,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-11-12
+10122,2025-02-09,34,150,4,265.34,0,Marketplace,PayPal,Returned,Y,Late delivery,Mumbai,INDIA,None,2025-02-15
+10123,2025-12-24,292,535,1,199.09,0,Partner,Credit Card,Completed,N,,New York,US,Spring Reset,2025-12-29
+10124,2025-04-14,116,145,1,85.30,20,Online,Gift Card,Completed,N,,Unknown,,Summer Training,2025-04-24
+10125,2025-06-01,230,143,2,269.49,0,Store,Gift Card,Completed,N,,Vancouver,canada,Summer Training,2025-06-07
+10126,2025-08-07,102,315,1,86.56,10,Partner,Gift Card,Completed,N,,New York,US,Spring Reset,2025-08-10
+10127,2025-09-26,106,154,5,63.69,15,Partner,PayPal,Pending,N,,New York,US,None,2025-10-01
+10128,2025-07-31,83,411,2,234.18,0,Marketplace,Debit Card,Completed,N,,New York,US,New Year Fitness,2025-08-05
+10129,2025-08-31,114,127,1,68.96,0,Store,Debit Card,Completed,N,,Bengaluru,India,Spring Reset,2025-09-09
+10130,2025-08-07,164,163,2,259.86,5,Store,Debit Card,Pending,N,,Madrid,Spain,Holiday Wellness,2025-08-17
+10131,2025-06-03,189,550,3,283.29,20,Partner,Credit Card,Completed,N,,New York,US,Summer Training,2025-06-12
+10132,2025-10-28,390,290,5,160.00,5,Store,Gift Card,Cancelled,N,,Toronto,Canada,Holiday Wellness,2025-11-05
+10133,2025-05-13,87,185,4,78.35,15,Marketplace,Gift Card,Completed,N,,Vancouver,canada,Back to Routine,2025-05-17
+10134,2025-04-22,159,136,3,188.05,5,Marketplace,Gift Card,Returned,Y,Late delivery,Paris,France,New Year Fitness,2025-04-26
+10135,2025-12-11,413,391,4,142.21,15,Marketplace,PayPal,Completed,N,,Dubai,UAE,None,2025-12-12
+10136,2025-09-08,101,320,2,286.95,15,Marketplace,PayPal,Completed,N,,Unknown,,Spring Reset,2025-09-12
+10137,2025-05-25,360,149,2,245.14,20,Marketplace,Gift Card,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-05-30
+10138,2025-11-06,443,378,4,293.50,10,Store,Gift Card,Completed,N,,Unknown,,None,2025-11-15
+10139,2025-08-21,438,383,3,291.85,0,Store,Credit Card,Cancelled,N,,Manchester,United Kingdom,Spring Reset,2025-08-21
+10140,2025-06-14,414,454,4,195.64,5,Partner,Credit Card,Completed,N,,Austin,usa,Holiday Wellness,2025-06-18
+10141,2025-10-11,238,412,5,250.49,0,Marketplace,UPI,Returned,Y,Changed mind,Toronto,Canada,Summer Training,2025-10-20
+10142,2025-04-28,427,593,1,283.90,20,Online,PayPal,Cancelled,N,,Seattle,USA,Holiday Wellness,2025-05-01
+10143,2025-11-19,121,567,3,185.38,0,Marketplace,PayPal,Completed,N,,Berlin,Germany,Spring Reset,2025-11-23
+10144,2025-10-05,500,577,2,41.43,0,Online,Debit Card,Cancelled,N,,Madrid,Spain,Back to Routine,2025-10-09
+10145,2025-11-29,384,238,2,265.82,0,Store,Debit Card,Completed,N,,Seattle,USA,Spring Reset,2025-12-06
+10146,2025-09-15,17,205,2,68.79,0,Partner,UPI,Completed,N,,Seattle,USA,Back to Routine,2025-09-24
+10147,2025-02-04,258,528,4,281.42,0,Marketplace,PayPal,Completed,N,,Seattle,USA,Back to Routine,2025-02-08
+10148,2025-12-14,153,184,4,82.56,15,Online,PayPal,Completed,N,,New York,US,Summer Training,2025-12-17
+10149,2025-12-11,34,122,5,197.03,10,Marketplace,PayPal,Completed,N,,Mumbai,INDIA,Back to Routine,2025-12-21
+10150,2025-02-01,86,301,4,203.70,15,Online,Debit Card,Completed,N,,Seattle,USA,New Year Fitness,2025-02-04
+10151,2025-12-28,325,408,4,204.71,20,Store,PayPal,Returned,Y,Size issue,Austin,usa,Back to Routine,2025-12-28
+10152,2025-02-05,149,564,2,97.85,0,Marketplace,Credit Card,Completed,N,,Madrid,Spain,Holiday Wellness,2025-02-07
+10153,2025-07-17,451,122,2,197.03,5,Online,Debit Card,Completed,N,,Toronto,Canada,Back to Routine,2025-07-26
+10154,2025-06-28,355,432,4,264.33,15,Store,Debit Card,Completed,N,,Unknown,,New Year Fitness,2025-07-02
+10155,2025-04-03,231,384,5,132.07,20,Online,Gift Card,Returned,Y,Damaged item,Toronto,Canada,Summer Training,2025-04-12
+10156,2025-04-10,178,361,2,24.67,5,Online,Gift Card,Completed,N,,Bengaluru,India,Back to Routine,2025-04-12
+10157,2025-02-07,486,444,1,209.64,15,Partner,Debit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-02-16
+10158,2025-12-19,341,575,5,98.91,0,Marketplace,Gift Card,Completed,N,,Seattle,USA,New Year Fitness,2025-12-20
+10159,2025-01-23,397,589,2,94.99,0,Marketplace,Gift Card,Completed,N,,Bengaluru,India,Summer Training,2025-01-31
+10160,2025-02-01,38,262,3,138.78,5,Partner,UPI,Completed,N,,New York,US,None,2025-02-05
+10161,2025-09-01,28,487,1,231.62,20,Partner,PayPal,Returned,Y,Damaged item,Paris,France,Back to Routine,2025-09-07
+10162,2025-10-22,474,548,2,243.12,0,Store,Gift Card,Cancelled,N,,Toronto,Canada,Back to Routine,2025-10-25
+10163,2025-07-13,412,410,1,255.93,0,Marketplace,Credit Card,Returned,Y,Damaged item,Unknown,,Summer Training,2025-07-21
+10164,2025-10-17,130,282,1,136.04,15,Marketplace,PayPal,Completed,N,,Austin,usa,Spring Reset,2025-10-17
+10165,2025-05-11,296,290,4,160.00,0,Store,Credit Card,Completed,N,,Paris,France,Spring Reset,2025-05-21
+10166,2025-12-20,260,475,4,30.76,0,Store,Debit Card,Completed,N,,Toronto,Canada,Back to Routine,2025-12-22
+10167,2025-09-13,234,454,1,195.64,0,Partner,Debit Card,Completed,N,,Seattle,USA,Back to Routine,2025-09-17
+10168,2025-11-07,230,220,1,32.59,5,Partner,Debit Card,Completed,N,,Vancouver,canada,Holiday Wellness,2025-11-17
+10169,2025-02-26,236,509,4,201.66,0,Store,UPI,Completed,N,,Seattle,USA,Back to Routine,2025-02-27
+10170,2025-07-28,181,357,2,110.80,5,Online,Gift Card,Completed,N,,London,UK,New Year Fitness,2025-08-07
+10171,2025-08-22,197,381,3,260.97,5,Online,Gift Card,Completed,N,,Austin,usa,Spring Reset,2025-08-27
+10172,2025-08-15,219,349,1,150.20,0,Online,UPI,Completed,N,,Bengaluru,India,Summer Training,2025-08-23
+10173,2025-11-04,145,297,4,68.70,0,Online,UPI,Completed,N,,Bengaluru,India,None,2025-11-13
+10174,2025-03-19,62,192,3,204.84,15,Store,Gift Card,Cancelled,N,,New York,US,Holiday Wellness,2025-03-20
+10175,2025-04-29,137,271,3,256.23,5,Store,Credit Card,Completed,N,,Seattle,USA,Back to Routine,2025-05-07
+10176,2025-09-27,19,251,4,100.31,10,Online,PayPal,Completed,N,,Vancouver,canada,New Year Fitness,2025-10-04
+10177,2025-02-22,156,302,5,208.44,20,Marketplace,Debit Card,Cancelled,N,,Austin,usa,Spring Reset,2025-02-25
+10178,2025-12-05,292,163,4,259.86,0,Online,PayPal,Completed,N,,New York,US,Holiday Wellness,2025-12-12
+10179,2025-10-05,75,237,5,194.60,0,Partner,Gift Card,Completed,N,,Vancouver,canada,Spring Reset,2025-10-09
+10180,2025-08-31,251,490,1,90.62,0,Store,PayPal,Completed,N,,Madrid,Spain,Spring Reset,2025-09-03
+10181,2025-03-17,391,298,4,122.55,20,Online,Debit Card,Completed,N,,Paris,France,Holiday Wellness,2025-03-20
+10182,2025-07-22,414,527,5,291.31,0,Partner,Debit Card,Completed,N,,Austin,usa,None,2025-07-22
+10183,2025-10-30,36,477,5,198.25,15,Store,PayPal,Returned,Y,Changed mind,Seattle,USA,New Year Fitness,2025-10-31
+10184,2025-06-05,83,417,5,77.59,0,Store,PayPal,Completed,N,,New York,US,Spring Reset,2025-06-09
+10185,2025-02-07,451,143,5,269.49,15,Partner,Debit Card,Completed,N,,Toronto,Canada,New Year Fitness,2025-02-15
+10186,2025-08-17,486,539,4,291.47,0,Online,PayPal,Completed,N,,Berlin,Germany,None,2025-08-25
+10187,2025-01-12,60,187,5,74.19,15,Partner,Credit Card,Completed,N,,Dubai,UAE,Holiday Wellness,2025-01-12
+10188,2025-05-29,9,305,5,250.54,15,Online,PayPal,Completed,N,,Austin,,Summer Training,2025-06-07
+10189,2025-12-16,369,359,1,261.98,0,Online,Gift Card,Completed,N,,Seattle,USA,New Year Fitness,2025-12-16
+10190,2025-01-16,80,360,4,90.57,20,Store,Credit Card,Returned,Y,Size issue,Bengaluru,India,Spring Reset,2025-01-26
+10191,2025-03-05,186,407,5,23.75,20,Store,Debit Card,Completed,N,,Austin,usa,None,2025-03-10
+10192,2025-11-17,445,467,5,68.63,10,Online,UPI,Completed,N,,Bengaluru,India,Back to Routine,2025-11-26
+10193,2025-12-29,16,571,4,208.88,0,Store,Credit Card,Completed,N,,Toronto,Canada,New Year Fitness,2025-12-31
+10194,2025-12-27,352,308,5,105.96,20,Partner,Credit Card,Returned,Y,Late delivery,Austin,usa,New Year Fitness,2026-01-01
+10195,2025-11-14,260,398,5,256.01,0,Marketplace,Gift Card,Completed,N,,Toronto,Canada,Holiday Wellness,2025-11-19
+10196,2025-11-09,396,228,3,143.68,15,Store,Debit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-11-12
+10197,2025-07-23,412,410,2,255.93,0,Partner,UPI,Returned,Y,Size issue,Unknown,,Holiday Wellness,2025-07-27
+10198,2025-06-16,256,327,1,234.53,15,Store,PayPal,Cancelled,N,,Mumbai,INDIA,Holiday Wellness,2025-06-24
+10199,2025-11-14,106,137,3,137.65,15,Marketplace,Credit Card,Completed,N,,New York,US,Spring Reset,2025-11-22
+10200,2025-05-28,479,222,3,195.68,20,Marketplace,Debit Card,Completed,N,,Mumbai,INDIA,New Year Fitness,2025-06-01
+10201,2025-02-19,197,258,5,201.40,10,Store,PayPal,Completed,N,,Austin,usa,Back to Routine,2025-02-20
+10202,2025-03-23,28,210,4,136.89,0,Partner,PayPal,Completed,N,,Paris,France,None,2025-03-26
+10203,2025-12-21,160,503,5,236.58,0,Partner,PayPal,Completed,N,,Unknown,,Spring Reset,2025-12-31
+10204,2025-03-22,136,590,2,51.12,20,Marketplace,Gift Card,Completed,N,,Bengaluru,India,Holiday Wellness,2025-03-23
+10205,2025-08-10,44,486,3,173.14,5,Partner,PayPal,Completed,N,,Seattle,USA,Holiday Wellness,2025-08-15
+10206,2025-03-18,180,122,4,197.03,0,Online,Debit Card,Completed,N,,Seattle,USA,Summer Training,2025-03-21
+10207,2025-10-02,493,307,4,106.91,0,Online,Debit Card,Completed,N,,Paris,France,Back to Routine,2025-10-04
+10208,2025-03-21,141,315,4,86.56,5,Store,Debit Card,Completed,N,,Paris,France,Summer Training,2025-03-24
+10209,2025-05-12,155,169,5,167.64,20,Partner,PayPal,Completed,N,,Seattle,USA,Summer Training,2025-05-20
+10210,2025-03-24,483,104,5,157.93,10,Store,Gift Card,Completed,N,,London,UK,Back to Routine,2025-03-30
+10211,2025-08-02,70,515,5,171.80,10,Online,Debit Card,Completed,N,,London,UK,Spring Reset,2025-08-02
+10212,2025-02-12,230,230,1,121.32,10,Partner,Credit Card,Completed,N,,Vancouver,canada,Holiday Wellness,2025-02-21
+10213,2025-04-04,371,376,3,44.15,0,Marketplace,Gift Card,Returned,Y,Size issue,New York,US,Back to Routine,2025-04-06
+10214,2025-04-28,213,214,2,265.87,0,Marketplace,PayPal,Completed,N,,Dubai,UAE,Back to Routine,2025-05-02
+10215,2025-01-13,80,271,3,256.23,10,Marketplace,Credit Card,Completed,N,,Bengaluru,India,Back to Routine,2025-01-19
+10216,2025-09-05,138,158,5,193.67,0,Online,Debit Card,Completed,N,,Austin,usa,Holiday Wellness,2025-09-07
+10217,2025-04-16,367,194,4,144.61,0,Partner,Gift Card,Completed,N,,Seattle,USA,None,2025-04-22
+10218,2025-11-20,452,328,2,299.53,10,Online,Credit Card,Completed,N,,Toronto,Canada,Spring Reset,2025-11-20
+10219,2025-03-05,435,369,3,22.10,0,Online,Gift Card,Cancelled,N,,Toronto,Canada,Holiday Wellness,2025-03-15
+10220,2025-01-09,139,202,5,228.13,15,Partner,Debit Card,Completed,N,,Berlin,Germany,New Year Fitness,2025-01-13
+10221,2025-11-17,84,416,5,248.66,20,Partner,UPI,Completed,N,,Toronto,Canada,Back to Routine,2025-11-20
+10222,2025-08-23,252,297,2,68.70,20,Marketplace,PayPal,Returned,Y,Size issue,Manchester,United Kingdom,New Year Fitness,2025-08-28
+10223,2025-11-11,409,307,5,106.91,0,Store,Credit Card,Completed,N,,Toronto,Canada,None,2025-11-21
+10224,2025-05-11,134,480,3,239.86,5,Store,Debit Card,Completed,N,,Madrid,Spain,None,2025-05-20
+10225,2025-08-13,279,427,1,30.69,0,Store,UPI,Completed,N,,London,UK,Summer Training,2025-08-23
+10226,2025-11-10,269,445,4,267.00,15,Online,Gift Card,Completed,N,,Unknown,,Holiday Wellness,2025-11-20
+10227,2025-10-13,366,310,4,47.06,20,Online,Credit Card,Pending,N,,Austin,usa,Holiday Wellness,2025-10-13
+10228,2025-07-22,12,438,1,101.41,0,Online,UPI,Completed,N,,Berlin,Germany,Spring Reset,2025-07-29
+10229,2025-12-25,297,121,4,49.87,10,Marketplace,Credit Card,Completed,N,,London,UK,Summer Training,2026-01-04
+10230,2025-12-03,484,228,5,143.68,0,Store,UPI,Completed,N,,Vancouver,canada,New Year Fitness,2025-12-07
+10231,2025-09-18,416,152,2,87.92,15,Store,Debit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-09-19
+10232,2025-05-21,370,504,3,139.46,15,Partner,UPI,Returned,Y,Late delivery,London,UK,Spring Reset,2025-05-26
+10233,2025-11-02,174,319,2,246.43,5,Marketplace,Credit Card,Completed,N,,Dubai,UAE,Summer Training,2025-11-10
+10234,2025-10-15,398,451,2,111.01,0,Marketplace,Debit Card,Returned,Y,Late delivery,Bengaluru,India,New Year Fitness,2025-10-25
+10235,2025-02-11,319,382,3,283.07,10,Partner,Gift Card,Returned,Y,Changed mind,Bengaluru,India,Back to Routine,2025-02-20
+10236,2025-08-28,460,364,2,173.19,0,Store,Credit Card,Returned,Y,Damaged item,London,UK,Holiday Wellness,2025-09-04
+10237,2025-12-17,479,386,5,260.63,20,Online,PayPal,Completed,N,,Mumbai,INDIA,Back to Routine,2025-12-27
+10238,2025-08-13,199,572,4,33.20,20,Partner,Debit Card,Completed,N,,New York,US,Spring Reset,2025-08-13
+10239,2025-09-13,494,455,4,109.03,0,Online,Debit Card,Completed,N,,Madrid,Spain,Summer Training,2025-09-18
+10240,2025-12-03,250,482,3,212.49,20,Store,Credit Card,Completed,N,,Berlin,Germany,None,2025-12-06
+10241,2025-09-26,395,504,1,139.46,0,Partner,Debit Card,Completed,N,,Toronto,Canada,Holiday Wellness,2025-10-03
+10242,2025-05-10,344,443,3,227.45,20,Partner,PayPal,Completed,N,,New York,US,Holiday Wellness,2025-05-15
+10243,2025-09-30,154,432,4,264.33,20,Marketplace,Credit Card,Completed,N,,Mumbai,INDIA,Back to Routine,2025-10-05
+10244,2025-06-13,121,250,4,221.50,15,Partner,Credit Card,Cancelled,N,,Berlin,Germany,Back to Routine,2025-06-16
+10245,2025-05-27,116,218,2,201.92,0,Partner,Debit Card,Completed,N,,Unknown,,Spring Reset,2025-06-03
+10246,2025-05-05,70,358,5,69.46,0,Marketplace,Credit Card,Completed,N,,London,UK,New Year Fitness,2025-05-13
+10247,2025-03-22,47,207,3,80.29,0,Partner,UPI,Completed,N,,Dubai,UAE,None,2025-03-25
+10248,2025-12-19,455,422,4,245.86,5,Store,Gift Card,Completed,N,,Paris,France,Back to Routine,2025-12-28
+10249,2025-10-02,44,348,4,173.47,20,Store,Credit Card,Completed,N,,Seattle,USA,Holiday Wellness,2025-10-09
+10250,2025-08-05,86,136,4,188.05,0,Online,Debit Card,Completed,N,,Seattle,USA,Spring Reset,2025-08-10
+10251,2025-12-04,435,116,3,293.05,5,Partner,Debit Card,Completed,N,,Toronto,Canada,None,2025-12-13
+10252,2025-09-22,138,406,4,284.74,0,Online,Credit Card,Completed,N,,Austin,usa,New Year Fitness,2025-09-24
+10253,2025-09-21,439,457,3,82.45,0,Marketplace,UPI,Completed,N,,New York,US,Holiday Wellness,2025-09-25
+10254,2025-08-05,333,547,5,130.99,0,Marketplace,Credit Card,Returned,Y,Damaged item,Unknown,,Summer Training,2025-08-15
+10255,2025-08-21,149,387,2,28.35,10,Store,PayPal,Returned,Y,Changed mind,Madrid,Spain,None,2025-08-24
+10256,2025-05-26,397,359,3,261.98,0,Marketplace,UPI,Completed,N,,Bengaluru,India,None,2025-06-01
+10257,2025-08-10,55,270,2,221.02,0,Store,UPI,Completed,N,,Mumbai,INDIA,Spring Reset,2025-08-13
+10258,2025-05-18,407,352,2,102.84,5,Online,UPI,Pending,N,,Manchester,United Kingdom,Holiday Wellness,2025-05-18
+10259,2025-02-08,82,152,4,87.92,5,Online,Debit Card,Completed,N,,London,UK,None,2025-02-13
+10260,2025-04-26,234,183,5,263.56,5,Marketplace,UPI,Completed,N,,Seattle,USA,New Year Fitness,2025-04-29
+10261,2025-10-03,72,443,4,227.45,10,Store,Debit Card,Completed,N,,Berlin,Germany,Summer Training,2025-10-13
+10262,2025-05-20,258,202,1,228.13,0,Partner,Gift Card,Completed,N,,Seattle,USA,Summer Training,2025-05-25
+10263,2025-03-25,102,411,2,234.18,20,Marketplace,Credit Card,Completed,N,,New York,US,New Year Fitness,2025-04-01
+10264,2025-05-19,488,387,5,28.35,15,Partner,Gift Card,Completed,N,,Austin,usa,Spring Reset,2025-05-21
+10265,2025-04-02,414,286,3,218.58,0,Partner,PayPal,Completed,N,,Austin,usa,Summer Training,2025-04-09
+10266,2025-03-02,442,497,3,206.11,0,Store,UPI,Completed,N,,Toronto,Canada,Holiday Wellness,2025-03-09
+10267,2025-09-23,356,110,1,119.24,0,Online,PayPal,Completed,N,,Toronto,Canada,Spring Reset,2025-09-30
+10268,2025-02-17,267,544,5,220.44,0,Marketplace,UPI,Completed,N,,London,UK,Summer Training,2025-02-22
+10269,2025-12-15,60,252,2,111.17,0,Partner,Gift Card,Completed,N,,Dubai,UAE,Spring Reset,2025-12-16
+10270,2025-07-31,230,339,1,27.39,5,Partner,Credit Card,Completed,N,,Vancouver,canada,None,2025-08-09
+10271,2025-12-09,27,148,3,120.38,20,Marketplace,Debit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-12-12
+10272,2025-03-24,335,426,5,77.38,0,Online,PayPal,Completed,N,,London,UK,New Year Fitness,2025-04-01
+10273,2025-01-24,462,403,2,112.94,0,Marketplace,Gift Card,Completed,N,,London,UK,Back to Routine,2025-02-03
+10274,2025-02-12,450,415,3,14.98,20,Online,UPI,Completed,N,,Madrid,Spain,Holiday Wellness,2025-02-21
+10275,2025-08-22,293,588,2,153.00,5,Partner,UPI,Completed,N,,Mumbai,INDIA,New Year Fitness,2025-08-29
+10276,2025-09-07,450,288,4,234.40,10,Store,Credit Card,Completed,N,,Madrid,Spain,Back to Routine,2025-09-12
+10277,2025-02-11,442,596,5,243.52,10,Online,Debit Card,Returned,Y,Changed mind,Toronto,Canada,Summer Training,2025-02-11
+10278,2025-06-22,321,499,5,114.78,20,Online,Gift Card,Completed,N,,Mumbai,INDIA,Spring Reset,2025-06-23
+10279,2025-02-25,27,564,5,97.85,0,Marketplace,Credit Card,Completed,N,,Berlin,Germany,New Year Fitness,2025-03-04
+10280,2025-03-25,73,563,3,289.66,20,Online,Debit Card,Completed,N,,Dubai,UAE,Spring Reset,2025-04-04
+10281,2025-03-23,364,249,2,98.47,0,Partner,Credit Card,Completed,N,,Paris,France,None,2025-03-25
+10282,2025-10-06,408,536,1,91.40,5,Online,Gift Card,Completed,N,,Dubai,UAE,None,2025-10-07
+10283,2025-08-02,217,329,3,223.23,15,Store,PayPal,Completed,N,,Bengaluru,India,Holiday Wellness,2025-08-10
+10284,2025-04-17,160,418,1,141.11,20,Store,UPI,Completed,N,,Unknown,,Spring Reset,2025-04-17
+10285,2025-05-27,62,142,4,125.56,10,Marketplace,PayPal,Completed,N,,New York,US,New Year Fitness,2025-05-28
+10286,2025-02-16,167,276,4,127.65,15,Store,Gift Card,Completed,N,,Toronto,Canada,Spring Reset,2025-02-26
+10287,2025-11-27,498,582,3,163.96,20,Store,Debit Card,Completed,N,,Seattle,USA,Spring Reset,2025-12-03
+10288,2025-01-25,127,320,5,286.95,0,Online,UPI,Completed,N,,Mumbai,INDIA,None,2025-02-02
+10289,2025-09-20,309,179,4,244.33,20,Store,PayPal,Completed,N,,Madrid,Spain,Summer Training,2025-09-27
+10290,2025-12-23,142,261,5,153.36,20,Online,Gift Card,Completed,N,,Paris,France,Back to Routine,2025-12-29
+10291,2025-09-15,495,163,4,259.86,0,Partner,UPI,Completed,N,,Dubai,UAE,Back to Routine,2025-09-19
+10292,2025-11-16,64,295,3,185.86,20,Online,Debit Card,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-11-16
+10293,2025-05-15,205,440,5,214.12,0,Partner,Credit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-05-17
+10294,2025-02-09,369,146,3,44.01,5,Marketplace,Credit Card,Completed,N,,Seattle,USA,Summer Training,2025-02-13
+10295,2025-12-16,102,448,4,38.58,20,Marketplace,Gift Card,Pending,N,,New York,US,Spring Reset,2025-12-22
+10296,2025-06-07,398,232,3,109.48,10,Online,UPI,Completed,N,,Bengaluru,India,Spring Reset,2025-06-13
+10297,2025-09-26,327,528,4,281.42,0,Marketplace,Credit Card,Completed,N,,Mumbai,INDIA,None,2025-09-30
+10298,2025-02-08,457,175,4,30.25,0,Online,Credit Card,Completed,N,,Paris,France,New Year Fitness,2025-02-15
+10299,2025-02-23,347,600,1,207.82,0,Store,UPI,Pending,N,,Dubai,UAE,Holiday Wellness,2025-03-03
+10300,2025-04-15,367,437,3,40.22,20,Store,PayPal,Completed,N,,Seattle,USA,Holiday Wellness,2025-04-24
+10301,2025-10-15,110,494,2,89.58,0,Store,PayPal,Returned,Y,Damaged item,Paris,France,None,2025-10-19
+10302,2025-04-10,467,269,3,185.57,15,Partner,UPI,Completed,N,,Unknown,,None,2025-04-10
+10303,2025-08-07,351,320,1,286.95,20,Store,Gift Card,Completed,N,,Dubai,UAE,None,2025-08-07
+10304,2025-02-01,497,523,5,183.91,10,Online,Credit Card,Completed,N,,Austin,usa,Spring Reset,2025-02-01
+10305,2025-01-14,345,372,5,160.36,0,Online,PayPal,Completed,N,,Dubai,UAE,None,2025-01-17
+10306,2025-04-30,204,339,1,27.39,5,Online,UPI,Completed,N,,New York,US,New Year Fitness,2025-05-04
+10307,2025-04-05,453,561,1,42.56,0,Partner,Debit Card,Completed,N,,Austin,usa,Holiday Wellness,2025-04-09
+10308,2025-03-15,47,565,5,20.27,20,Online,Debit Card,Completed,N,,Dubai,UAE,Back to Routine,2025-03-24
+10309,2025-11-17,189,394,4,250.72,5,Online,Debit Card,Completed,N,,New York,US,Back to Routine,2025-11-27
+10310,2025-07-13,227,412,2,250.49,0,Store,UPI,Completed,N,,Paris,France,Summer Training,2025-07-17
+10311,2025-04-14,281,565,4,20.27,0,Store,UPI,Completed,N,,Unknown,,Back to Routine,2025-04-18
+10312,2025-05-06,445,560,4,167.80,10,Store,Gift Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-05-06
+10313,2025-10-10,45,441,2,108.63,15,Partner,UPI,Completed,N,,Mumbai,INDIA,Back to Routine,2025-10-18
+10314,2025-01-06,40,581,1,234.51,0,Marketplace,PayPal,Completed,N,,Bengaluru,India,Spring Reset,2025-01-15
+10315,2025-09-15,96,301,2,203.70,10,Online,Credit Card,Completed,N,,Manchester,United Kingdom,None,2025-09-21
+10316,2025-03-15,350,329,2,223.23,15,Store,UPI,Completed,N,,New York,US,Holiday Wellness,2025-03-15
+10317,2025-01-11,301,297,3,68.70,0,Online,Credit Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-01-12
+10318,2025-02-01,216,593,3,283.90,0,Store,Gift Card,Completed,N,,Toronto,Canada,Back to Routine,2025-02-09
+10319,2025-11-20,457,253,1,34.82,0,Marketplace,UPI,Completed,N,,Paris,France,Holiday Wellness,2025-11-25
+10320,2025-09-24,215,441,1,108.63,15,Partner,UPI,Completed,N,,Dubai,UAE,New Year Fitness,2025-09-29
+10321,2025-02-16,342,508,2,203.23,5,Partner,Gift Card,Completed,N,,Vancouver,canada,Spring Reset,2025-02-25
+10322,2025-06-30,316,251,1,100.31,5,Store,Debit Card,Completed,N,,London,UK,Summer Training,2025-07-06
+10323,2025-12-03,398,174,3,92.09,0,Marketplace,Debit Card,Cancelled,N,,Bengaluru,India,Spring Reset,2025-12-09
+10324,2025-11-07,273,144,2,267.72,15,Partner,PayPal,Cancelled,N,,Vancouver,canada,New Year Fitness,2025-11-17
+10325,2025-10-25,419,271,5,256.23,10,Partner,Credit Card,Cancelled,N,,Manchester,United Kingdom,None,2025-10-30
+10326,2025-01-19,207,580,5,31.24,0,Partner,PayPal,Completed,N,,Mumbai,INDIA,Summer Training,2025-01-28
+10327,2025-11-25,257,357,1,110.80,15,Online,Debit Card,Completed,N,,Unknown,,New Year Fitness,2025-12-03
+10328,2025-06-14,442,536,4,91.40,0,Store,PayPal,Completed,N,,Toronto,Canada,New Year Fitness,2025-06-23
+10329,2025-12-28,183,355,3,113.83,15,Online,Gift Card,Completed,N,,Paris,France,Spring Reset,2025-12-31
+10330,2025-07-06,292,300,1,40.96,0,Store,UPI,Returned,Y,Changed mind,New York,US,Summer Training,2025-07-09
+10331,2025-01-17,352,565,1,20.27,0,Online,UPI,Completed,N,,Austin,usa,Back to Routine,2025-01-19
+10332,2025-03-31,457,447,4,234.40,10,Online,Credit Card,Completed,N,,Paris,France,Back to Routine,2025-04-08
+10333,2025-03-27,444,308,5,105.96,0,Online,Debit Card,Completed,N,,Vancouver,canada,None,2025-03-30
+10334,2025-06-09,452,510,3,202.15,0,Partner,Credit Card,Completed,N,,Toronto,Canada,Summer Training,2025-06-12
+10335,2025-08-23,203,106,2,225.43,20,Marketplace,Credit Card,Completed,N,,Seattle,USA,Spring Reset,2025-09-01
+10336,2025-04-14,133,421,3,135.71,20,Partner,Credit Card,Pending,N,,Dubai,UAE,Back to Routine,2025-04-17
+10337,2025-12-17,29,210,1,136.89,20,Online,PayPal,Completed,N,,Bengaluru,India,None,2025-12-17
+10338,2025-07-06,327,411,4,234.18,20,Store,Credit Card,Completed,N,,Mumbai,INDIA,Summer Training,2025-07-06
+10339,2025-03-30,217,460,4,186.25,5,Store,PayPal,Completed,N,,Bengaluru,India,Summer Training,2025-04-05
+10340,2025-09-03,113,205,2,68.79,10,Online,UPI,Completed,N,,London,UK,Back to Routine,2025-09-07
+10341,2025-02-16,312,223,1,282.42,0,Partner,Credit Card,Completed,N,,Paris,France,None,2025-02-24
+10342,2025-08-23,163,163,5,259.86,0,Store,Credit Card,Completed,N,,Bengaluru,India,Spring Reset,2025-08-28
+10343,2025-07-12,273,431,3,250.53,10,Store,Credit Card,Completed,N,,Vancouver,canada,Back to Routine,2025-07-21
+10344,2025-08-17,491,302,2,208.44,20,Marketplace,Gift Card,Completed,N,,Paris,France,None,2025-08-19
+10345,2025-06-15,152,191,1,134.98,0,Marketplace,PayPal,Cancelled,N,,Toronto,Canada,Summer Training,2025-06-19
+10346,2025-11-21,129,224,3,211.35,10,Marketplace,Debit Card,Completed,N,,Paris,France,None,2025-11-22
+10347,2025-09-13,153,508,2,203.23,0,Marketplace,Gift Card,Completed,N,,New York,US,New Year Fitness,2025-09-23
+10348,2025-09-02,402,549,1,97.44,10,Store,Credit Card,Completed,N,,Unknown,,Summer Training,2025-09-03
+10349,2025-07-30,43,361,5,24.67,5,Partner,Credit Card,Completed,N,,Mumbai,INDIA,Summer Training,2025-08-01
+10350,2025-12-11,91,151,3,238.67,20,Store,UPI,Completed,N,,Madrid,Spain,New Year Fitness,2025-12-16
+10351,2025-12-04,11,403,2,112.94,5,Online,Debit Card,Completed,N,,Madrid,Spain,Back to Routine,2025-12-14
+10352,2025-01-16,400,547,3,130.99,0,Partner,Debit Card,Completed,N,,Vancouver,canada,Spring Reset,2025-01-17
+10353,2025-01-15,217,267,2,67.98,0,Online,Credit Card,Completed,N,,Bengaluru,India,None,2025-01-21
+10354,2025-04-19,256,478,2,124.55,5,Online,Credit Card,Completed,N,,Mumbai,INDIA,None,2025-04-23
+10355,2025-05-05,364,525,2,299.04,5,Store,PayPal,Cancelled,N,,Paris,France,New Year Fitness,2025-05-05
+10356,2025-02-27,123,266,5,91.77,15,Store,Gift Card,Completed,N,,Toronto,Canada,New Year Fitness,2025-02-27
+10357,2025-10-27,284,516,2,256.59,15,Marketplace,Credit Card,Completed,N,,Unknown,,None,2025-11-05
+10358,2025-07-04,99,275,1,243.96,0,Store,PayPal,Returned,Y,Late delivery,Dubai,UAE,Summer Training,2025-07-06
+10359,2025-10-01,240,421,2,135.71,5,Partner,Debit Card,Completed,N,,Toronto,Canada,New Year Fitness,2025-10-06
+10360,2025-08-16,186,163,1,259.86,15,Partner,Debit Card,Completed,N,,Austin,usa,Back to Routine,2025-08-24
+10361,2025-03-12,389,322,5,288.07,20,Marketplace,Debit Card,Returned,Y,Size issue,Bengaluru,India,New Year Fitness,2025-03-17
+10362,2025-10-15,240,506,1,125.04,0,Store,PayPal,Returned,Y,Damaged item,Toronto,Canada,New Year Fitness,2025-10-17
+10363,2025-07-08,384,555,2,257.05,5,Store,Debit Card,Completed,N,,Seattle,USA,Spring Reset,2025-07-11
+10364,2025-08-31,427,358,5,69.46,5,Partner,Gift Card,Returned,Y,Late delivery,Seattle,USA,Back to Routine,2025-09-06
+10365,2025-04-15,177,379,1,176.94,0,Online,Credit Card,Completed,N,,Dubai,UAE,None,2025-04-22
+10366,2025-08-11,18,545,2,15.04,0,Marketplace,Debit Card,Completed,N,,Seattle,USA,Holiday Wellness,2025-08-12
+10367,2025-10-25,69,343,4,294.78,0,Online,Debit Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-10-28
+10368,2025-03-13,172,194,5,144.61,10,Partner,Gift Card,Completed,N,,London,UK,Back to Routine,2025-03-23
+10369,2025-06-29,210,384,2,132.07,0,Partner,Gift Card,Completed,N,,Toronto,Canada,Summer Training,2025-07-05
+10370,2025-09-04,474,402,2,234.81,20,Marketplace,Credit Card,Completed,N,,Toronto,Canada,Holiday Wellness,2025-09-13
+10371,2025-08-15,454,521,5,269.51,20,Online,UPI,Completed,N,,New York,US,Back to Routine,2025-08-15
+10372,2025-09-12,207,512,5,150.48,10,Store,Credit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-09-18
+10373,2025-05-31,494,453,2,74.15,20,Store,PayPal,Completed,N,,Madrid,Spain,Holiday Wellness,2025-06-01
+10374,2025-08-17,191,127,5,68.96,20,Store,Debit Card,Completed,N,,Unknown,,None,2025-08-23
+10375,2025-02-14,45,137,3,137.65,5,Online,Debit Card,Completed,N,,Mumbai,INDIA,None,2025-02-14
+10376,2025-08-03,64,431,5,250.53,0,Store,UPI,Completed,N,,Manchester,United Kingdom,None,2025-08-05
+10377,2025-10-12,487,220,1,32.59,0,Store,UPI,Completed,N,,Madrid,Spain,Summer Training,2025-10-17
+10378,2025-11-15,17,505,4,95.28,20,Marketplace,Credit Card,Completed,N,,Seattle,USA,None,2025-11-22
+10379,2025-08-18,465,515,1,171.80,5,Store,Debit Card,Returned,Y,Changed mind,Berlin,Germany,New Year Fitness,2025-08-23
+10380,2025-04-11,279,295,1,185.86,5,Online,PayPal,Completed,N,,London,UK,Summer Training,2025-04-11
+10381,2025-04-06,233,374,1,108.79,5,Online,Gift Card,Completed,N,,Toronto,Canada,Summer Training,2025-04-06
+10382,2025-06-02,137,176,5,185.96,20,Online,UPI,Returned,Y,Size issue,Seattle,USA,New Year Fitness,2025-06-02
+10383,2025-11-24,29,464,1,59.68,0,Partner,PayPal,Pending,N,,Bengaluru,India,Spring Reset,2025-11-27
+10384,2025-07-28,483,529,3,262.63,0,Partner,Debit Card,Completed,N,,London,UK,Back to Routine,2025-08-07
+10385,2025-08-04,389,319,3,246.43,0,Online,Credit Card,Returned,Y,Damaged item,Bengaluru,India,Spring Reset,2025-08-13
+10386,2025-05-25,116,161,5,30.26,0,Partner,Credit Card,Completed,N,,Unknown,,New Year Fitness,2025-05-28
+10387,2025-06-09,93,204,1,161.34,5,Partner,PayPal,Completed,N,,New York,US,New Year Fitness,2025-06-16
+10388,2025-06-13,401,161,2,30.26,0,Store,UPI,Completed,N,,Madrid,Spain,None,2025-06-14
+10389,2025-01-22,391,548,5,243.12,10,Store,Debit Card,Completed,N,,Paris,France,Holiday Wellness,2025-01-26
+10390,2025-02-14,457,355,2,113.83,0,Store,PayPal,Completed,N,,Paris,France,New Year Fitness,2025-02-18
+10391,2025-04-14,82,346,3,298.05,0,Marketplace,PayPal,Cancelled,N,,London,UK,Spring Reset,2025-04-19
+10392,2025-05-06,453,469,4,221.75,0,Store,Debit Card,Completed,N,,Austin,usa,Back to Routine,2025-05-13
+10393,2025-07-30,491,283,3,17.42,5,Online,PayPal,Completed,N,,Paris,France,New Year Fitness,2025-08-06
+10394,2025-08-07,153,360,5,90.57,20,Online,UPI,Completed,N,,New York,US,New Year Fitness,2025-08-14
+10395,2025-01-31,324,584,5,119.53,20,Partner,Gift Card,Completed,N,,Seattle,USA,Back to Routine,2025-02-03
+10396,2025-12-15,243,566,4,167.29,20,Partner,Credit Card,Completed,N,,Austin,usa,Summer Training,2025-12-25
+10397,2025-05-08,67,322,2,288.07,0,Partner,Debit Card,Completed,N,,Berlin,Germany,None,2025-05-17
+10398,2025-03-12,80,575,4,98.91,5,Marketplace,Gift Card,Completed,N,,Bengaluru,India,None,2025-03-14
+10399,2025-02-07,4,143,5,269.49,0,Marketplace,Debit Card,Returned,Y,Damaged item,Toronto,Canada,Spring Reset,2025-02-10
+10400,2025-07-26,367,244,4,157.94,15,Marketplace,UPI,Completed,N,,Seattle,USA,Summer Training,2025-07-31
+10401,2025-04-14,274,354,5,171.62,0,Online,UPI,Completed,N,,Berlin,Germany,Summer Training,2025-04-22
+10402,2025-06-16,126,484,2,197.66,0,Partner,Gift Card,Completed,N,,New York,US,Back to Routine,2025-06-23
+10403,2025-09-30,22,362,4,40.03,10,Online,Debit Card,Pending,N,,Berlin,Germany,None,2025-10-07
+10404,2025-10-27,41,472,3,234.37,0,Store,Debit Card,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2025-11-02
+10405,2025-07-27,467,232,2,109.48,15,Marketplace,UPI,Completed,N,,Unknown,,Summer Training,2025-08-01
+10406,2025-08-14,217,384,1,132.07,0,Online,Credit Card,Completed,N,,Bengaluru,India,Summer Training,2025-08-14
+10407,2025-12-19,231,346,3,298.05,0,Online,PayPal,Completed,N,,Toronto,Canada,New Year Fitness,2025-12-23
+10408,2025-06-06,384,323,2,67.83,10,Marketplace,PayPal,Completed,N,,Seattle,USA,Back to Routine,2025-06-12
+10409,2025-06-15,289,417,4,77.59,15,Marketplace,PayPal,Completed,N,,New York,US,Back to Routine,2025-06-24
+10410,2025-11-06,272,332,3,285.03,0,Partner,Credit Card,Completed,N,,Vancouver,canada,Spring Reset,2025-11-15
+10411,2025-12-04,10,592,1,24.54,10,Online,UPI,Completed,N,,Madrid,Spain,None,2025-12-14
+10412,2025-02-02,476,528,1,281.42,15,Store,Debit Card,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-02-12
+10413,2025-01-05,75,573,4,208.95,0,Marketplace,UPI,Completed,N,,Vancouver,canada,Holiday Wellness,2025-01-13
+10414,2025-12-29,356,335,1,77.30,0,Partner,Credit Card,Cancelled,N,,Toronto,Canada,None,2026-01-05
+10415,2025-07-16,111,343,3,294.78,5,Online,Debit Card,Completed,N,,Bengaluru,India,Back to Routine,2025-07-18
+10416,2025-11-20,116,463,1,94.84,20,Store,PayPal,Completed,N,,Unknown,,Spring Reset,2025-11-22
+10417,2025-03-02,17,187,3,74.19,0,Partner,UPI,Completed,N,,Seattle,USA,Spring Reset,2025-03-07
+10418,2025-01-12,378,397,1,25.04,0,Partner,UPI,Completed,N,,New York,US,New Year Fitness,2025-01-12
+10419,2025-07-14,97,330,5,147.31,0,Store,Gift Card,Returned,Y,Size issue,Madrid,Spain,None,2025-07-17
+10420,2025-03-18,164,382,5,283.07,15,Partner,Credit Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-03-22
+10421,2025-09-15,34,358,4,69.46,15,Marketplace,PayPal,Completed,N,,Mumbai,INDIA,Spring Reset,2025-09-18
+10422,2025-05-27,498,178,2,217.21,0,Partner,Gift Card,Completed,N,,Seattle,USA,Spring Reset,2025-06-02
+10423,2025-07-11,330,273,5,57.88,10,Partner,PayPal,Completed,N,,London,UK,New Year Fitness,2025-07-11
+10424,2025-08-06,24,531,1,38.45,20,Store,Gift Card,Cancelled,N,,Toronto,Canada,Holiday Wellness,2025-08-10
+10425,2025-08-04,68,490,5,90.62,0,Marketplace,Debit Card,Completed,N,,Manchester,United Kingdom,Summer Training,2025-08-11
+10426,2025-07-29,232,525,3,299.04,15,Store,UPI,Completed,N,,Bengaluru,India,Summer Training,2025-08-02
+10427,2025-02-23,123,378,3,293.50,0,Partner,UPI,Completed,N,,Toronto,Canada,Holiday Wellness,2025-02-27
+10428,2025-08-12,118,562,2,52.36,0,Marketplace,UPI,Pending,N,,Berlin,Germany,Summer Training,2025-08-16
+10429,2025-04-28,192,480,1,239.86,10,Online,Credit Card,Completed,N,,Berlin,Germany,Back to Routine,2025-05-08
+10430,2025-12-21,93,160,2,177.68,5,Marketplace,Debit Card,Pending,N,,New York,US,None,2025-12-22
+10431,2025-01-27,347,557,1,30.44,5,Online,Debit Card,Completed,N,,Dubai,UAE,None,2025-02-05
+10432,2025-03-13,206,478,3,124.55,20,Partner,Gift Card,Returned,Y,Size issue,Mumbai,INDIA,New Year Fitness,2025-03-22
+10433,2025-07-17,442,137,5,137.65,20,Store,Credit Card,Pending,N,,Toronto,Canada,None,2025-07-26
+10434,2025-10-27,348,283,2,17.42,20,Online,UPI,Completed,N,,Austin,usa,Holiday Wellness,2025-11-01
+10435,2025-12-12,452,514,1,151.38,0,Partner,Debit Card,Cancelled,N,,Toronto,Canada,Holiday Wellness,2025-12-20
+10436,2025-03-23,372,434,1,35.78,5,Online,Credit Card,Completed,N,,Madrid,Spain,None,2025-03-26
+10437,2025-08-03,161,403,2,112.94,0,Online,Credit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-08-03
+10438,2025-05-20,185,596,2,243.52,0,Partner,UPI,Completed,N,,Austin,usa,Holiday Wellness,2025-05-30
+10439,2025-11-25,440,507,5,94.10,5,Store,Gift Card,Completed,N,,Unknown,,Back to Routine,2025-12-05
+10440,2025-07-06,129,280,2,203.55,10,Store,UPI,Completed,N,,Paris,France,Holiday Wellness,2025-07-14
+10441,2025-02-08,313,580,2,31.24,20,Store,UPI,Completed,N,,New York,US,Spring Reset,2025-02-08
+10442,2025-03-21,171,287,3,176.14,0,Marketplace,Debit Card,Completed,N,,Seattle,USA,Back to Routine,2025-03-31
+10443,2025-04-17,379,301,2,203.70,5,Store,Debit Card,Completed,N,,Seattle,USA,None,2025-04-19
+10444,2025-10-02,145,146,4,44.01,0,Partner,UPI,Completed,N,,Bengaluru,India,None,2025-10-06
+10445,2025-02-08,494,302,4,208.44,0,Store,UPI,Completed,N,,Madrid,Spain,Summer Training,2025-02-16
+10446,2025-05-02,332,553,5,202.40,10,Online,Credit Card,Completed,N,,London,UK,Back to Routine,2025-05-11
+10447,2025-01-18,141,248,5,122.38,0,Store,UPI,Completed,N,,Paris,France,Summer Training,2025-01-28
+10448,2025-02-16,85,305,1,250.54,20,Marketplace,Credit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-02-22
+10449,2025-07-10,3,459,1,88.73,5,Marketplace,Credit Card,Completed,N,,Mumbai,INDIA,Back to Routine,2025-07-20
+10450,2025-09-10,367,246,5,60.21,10,Partner,UPI,Completed,N,,Seattle,USA,Spring Reset,2025-09-11
+10451,2025-02-20,423,212,3,34.82,5,Partner,Gift Card,Completed,N,,London,UK,Spring Reset,2025-02-23
+10452,2025-12-28,170,454,4,195.64,5,Store,Credit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-12-28
+10453,2025-12-13,28,494,2,89.58,15,Marketplace,PayPal,Completed,N,,Paris,France,Holiday Wellness,2025-12-17
+10454,2025-04-14,422,490,4,90.62,0,Store,UPI,Cancelled,N,,Paris,France,New Year Fitness,2025-04-24
+10455,2025-08-01,439,567,2,185.38,0,Partner,Credit Card,Completed,N,,New York,US,Spring Reset,2025-08-02
+10456,2025-06-24,99,138,2,124.36,0,Partner,UPI,Completed,N,,Dubai,UAE,Back to Routine,2025-06-25
+10457,2025-06-15,99,367,5,259.76,0,Store,Gift Card,Completed,N,,Dubai,UAE,Back to Routine,2025-06-16
+10458,2025-10-10,406,206,3,180.85,5,Online,PayPal,Completed,N,,Manchester,United Kingdom,Back to Routine,2025-10-12
+10459,2025-07-21,391,364,1,173.19,0,Online,Debit Card,Completed,N,,Paris,France,Holiday Wellness,2025-07-29
+10460,2025-09-02,495,114,5,31.28,5,Store,PayPal,Completed,N,,Dubai,UAE,None,2025-09-02
+10461,2025-06-11,327,152,4,87.92,10,Partner,Gift Card,Completed,N,,Mumbai,INDIA,Spring Reset,2025-06-15
+10462,2025-09-06,325,540,1,273.66,5,Marketplace,Debit Card,Returned,Y,Size issue,Austin,usa,Holiday Wellness,2025-09-11
+10463,2025-07-26,29,359,5,261.98,20,Partner,UPI,Pending,N,,Bengaluru,India,Spring Reset,2025-08-03
+10464,2025-01-27,13,259,5,85.44,15,Online,UPI,Completed,N,,Austin,usa,None,2025-02-05
+10465,2025-01-05,209,398,1,256.01,0,Online,Debit Card,Completed,N,,Berlin,Germany,None,2025-01-08
+10466,2025-10-30,103,179,1,244.33,20,Marketplace,UPI,Returned,Y,Late delivery,London,UK,Summer Training,2025-11-04
+10467,2025-01-03,225,469,4,221.75,5,Partner,Gift Card,Completed,N,,Paris,France,Summer Training,2025-01-11
+10468,2025-03-28,65,596,5,243.52,15,Marketplace,Gift Card,Completed,N,,Dubai,UAE,New Year Fitness,2025-03-28
+10469,2025-08-17,423,341,1,225.60,20,Partner,UPI,Completed,N,,London,UK,Back to Routine,2025-08-19
+10470,2025-03-02,143,211,4,42.67,0,Store,Credit Card,Completed,N,,New York,US,New Year Fitness,2025-03-12
+10471,2025-02-08,59,399,5,263.50,20,Store,PayPal,Completed,N,,Bengaluru,India,None,2025-02-13
+10472,2025-06-15,324,306,3,282.73,0,Marketplace,UPI,Completed,N,,Seattle,USA,Summer Training,2025-06-17
+10473,2025-12-06,232,520,1,261.45,15,Partner,Credit Card,Completed,N,,Bengaluru,India,Back to Routine,2025-12-15
+10474,2025-05-20,499,350,5,118.35,0,Marketplace,UPI,Completed,N,,Madrid,Spain,None,2025-05-23
+10475,2025-01-09,205,542,1,230.98,0,Online,Debit Card,Completed,N,,Berlin,Germany,None,2025-01-15
+10476,2025-05-24,318,440,1,214.12,0,Store,PayPal,Completed,N,,Vancouver,canada,None,2025-05-31
+10477,2025-09-25,77,477,4,198.25,0,Partner,UPI,Completed,N,,Unknown,,Summer Training,2025-09-26
+10478,2025-02-05,243,256,4,71.20,20,Online,Gift Card,Completed,N,,Austin,usa,Holiday Wellness,2025-02-05
+10479,2025-12-24,368,349,1,150.20,10,Online,Debit Card,Completed,N,,Bengaluru,India,None,2025-12-31
+10480,2025-04-14,36,597,4,148.42,10,Partner,UPI,Completed,N,,Seattle,USA,Back to Routine,2025-04-23
+10481,2025-10-16,122,510,4,202.15,0,Store,Gift Card,Cancelled,N,,Dubai,UAE,Back to Routine,2025-10-26
+10482,2025-11-17,121,415,2,14.98,20,Marketplace,PayPal,Completed,N,,Berlin,Germany,Summer Training,2025-11-20
+10483,2025-12-01,247,349,4,150.20,0,Marketplace,Credit Card,Cancelled,N,,Manchester,United Kingdom,Summer Training,2025-12-03
+10484,2025-01-21,344,317,4,39.58,20,Store,UPI,Completed,N,,New York,US,None,2025-01-27
+10485,2025-04-09,462,476,3,235.88,0,Marketplace,Gift Card,Completed,N,,London,UK,Holiday Wellness,2025-04-18
+10486,2025-12-23,304,198,1,149.59,0,Marketplace,Credit Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-12-31
+10487,2025-04-17,298,579,3,66.72,5,Online,Debit Card,Returned,Y,Size issue,Austin,usa,Back to Routine,2025-04-17
+10488,2025-04-08,150,512,4,150.48,20,Store,Credit Card,Completed,N,,Unknown,,New Year Fitness,2025-04-14
+10489,2025-07-14,178,397,3,25.04,0,Partner,Credit Card,Cancelled,N,,Bengaluru,India,Holiday Wellness,2025-07-24
+10490,2025-04-04,131,153,5,182.16,20,Partner,Debit Card,Completed,N,,Seattle,USA,None,2025-04-04
+10491,2025-11-24,299,311,2,240.97,10,Online,Debit Card,Cancelled,N,,Dubai,UAE,Back to Routine,2025-11-27
+10492,2025-10-25,396,321,3,257.78,20,Online,UPI,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-10-25
+10493,2025-06-04,171,500,5,12.30,10,Store,Gift Card,Completed,N,,Seattle,USA,New Year Fitness,2025-06-06
+10494,2025-12-31,338,231,5,240.87,0,Partner,Credit Card,Pending,N,,Madrid,Spain,Holiday Wellness,2026-01-06
+10495,2025-01-10,117,301,2,203.70,0,Partner,Debit Card,Completed,N,,Seattle,USA,Summer Training,2025-01-13
+10496,2025-09-26,480,165,5,147.85,10,Partner,Gift Card,Completed,N,,Toronto,Canada,Back to Routine,2025-09-29
+10497,2025-02-11,462,354,5,171.62,0,Partner,Debit Card,Cancelled,N,,London,UK,None,2025-02-16
+10498,2025-01-25,118,424,4,236.18,20,Marketplace,Debit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-01-30
+10499,2025-08-06,24,396,4,155.45,15,Partner,UPI,Completed,N,,Toronto,Canada,New Year Fitness,2025-08-11
+10500,2025-01-21,498,177,2,52.33,0,Online,UPI,Completed,N,,Seattle,USA,New Year Fitness,2025-01-28
+10501,2025-08-12,124,307,2,106.91,0,Online,Debit Card,Completed,N,,Dubai,UAE,Summer Training,2025-08-17
+10502,2025-04-07,195,413,4,245.90,10,Partner,UPI,Completed,N,,Vancouver,canada,Holiday Wellness,2025-04-09
+10503,2025-12-19,340,423,3,37.23,0,Store,PayPal,Completed,N,,Toronto,Canada,None,2025-12-19
+10504,2025-11-28,413,382,4,283.07,0,Online,PayPal,Completed,N,,Dubai,UAE,Holiday Wellness,2025-12-04
+10505,2025-07-24,313,291,5,16.37,20,Store,Debit Card,Completed,N,,New York,US,Holiday Wellness,2025-07-25
+10506,2025-02-18,121,468,2,36.42,20,Partner,UPI,Completed,N,,Berlin,Germany,Summer Training,2025-02-21
+10507,2025-05-02,51,164,5,18.14,10,Store,Credit Card,Completed,N,,Seattle,USA,New Year Fitness,2025-05-04
+10508,2025-12-31,12,106,3,225.43,15,Store,PayPal,Completed,N,,Berlin,Germany,Back to Routine,2026-01-10
+10509,2025-06-19,296,130,4,261.71,20,Online,Debit Card,Completed,N,,Paris,France,None,2025-06-23
+10510,2025-02-04,428,496,4,203.37,0,Online,PayPal,Completed,N,,Dubai,UAE,New Year Fitness,2025-02-06
+10511,2025-11-18,168,431,1,250.53,5,Online,Gift Card,Returned,Y,Damaged item,Madrid,Spain,Spring Reset,2025-11-18
+10512,2025-03-09,306,560,3,167.80,0,Partner,UPI,Cancelled,N,,Berlin,Germany,Spring Reset,2025-03-17
+10513,2025-09-01,37,244,4,157.94,10,Partner,Credit Card,Cancelled,N,,Toronto,Canada,None,2025-09-10
+10514,2025-02-16,16,304,5,174.38,15,Partner,UPI,Completed,N,,Toronto,Canada,Summer Training,2025-02-26
+10515,2025-04-07,340,239,2,293.62,0,Store,UPI,Completed,N,,Toronto,Canada,New Year Fitness,2025-04-14
+10516,2025-12-17,435,227,2,113.05,0,Marketplace,PayPal,Pending,N,,Toronto,Canada,Holiday Wellness,2025-12-22
+10517,2025-08-13,411,249,4,98.47,10,Store,Debit Card,Returned,Y,Size issue,Bengaluru,India,Back to Routine,2025-08-16
+10518,2025-01-08,462,383,2,291.85,10,Online,UPI,Completed,N,,London,UK,Summer Training,2025-01-15
+10519,2025-02-19,211,290,4,160.00,0,Online,Debit Card,Completed,N,,Paris,France,New Year Fitness,2025-02-26
+10520,2025-12-03,248,258,2,201.40,0,Online,PayPal,Completed,N,,London,UK,Summer Training,2025-12-11
+10521,2025-01-16,139,116,3,293.05,0,Partner,PayPal,Completed,N,,Berlin,Germany,Holiday Wellness,2025-01-21
+10522,2025-06-25,346,504,3,139.46,5,Store,PayPal,Completed,N,,Mumbai,INDIA,Summer Training,2025-06-26
+10523,2025-04-26,286,457,2,82.45,20,Partner,UPI,Completed,N,,Seattle,USA,Back to Routine,2025-04-30
+10524,2025-05-10,401,222,4,195.68,0,Marketplace,Debit Card,Pending,N,,Madrid,Spain,Back to Routine,2025-05-13
+10525,2025-08-18,13,459,5,88.73,0,Store,UPI,Completed,N,,Austin,usa,None,2025-08-23
+10526,2025-12-04,164,105,5,222.56,5,Online,PayPal,Pending,N,,Madrid,Spain,Spring Reset,2025-12-14
+10527,2025-11-18,366,510,5,202.15,5,Partner,UPI,Completed,N,,Austin,usa,Holiday Wellness,2025-11-28
+10528,2025-03-10,263,262,5,138.78,20,Partner,Debit Card,Completed,N,,Unknown,,Holiday Wellness,2025-03-12
+10529,2025-11-12,81,557,2,30.44,20,Online,Debit Card,Completed,N,,Vancouver,canada,Back to Routine,2025-11-12
+10530,2025-09-01,115,576,1,35.75,15,Store,PayPal,Pending,N,,Vancouver,canada,New Year Fitness,2025-09-02
+10531,2025-06-07,193,420,3,78.59,10,Online,Gift Card,Completed,N,,Unknown,,Summer Training,2025-06-17
+10532,2025-08-15,291,314,3,107.56,10,Marketplace,Credit Card,Completed,N,,Manchester,United Kingdom,Back to Routine,2025-08-23
+10533,2025-07-29,126,582,4,163.96,5,Partner,Gift Card,Completed,N,,New York,US,Back to Routine,2025-08-08
+10534,2025-02-04,296,225,1,135.64,5,Online,PayPal,Completed,N,,Paris,France,None,2025-02-12
+10535,2025-01-16,261,566,2,167.29,20,Online,Debit Card,Completed,N,,Mumbai,INDIA,Summer Training,2025-01-16
+10536,2025-07-11,313,581,2,234.51,0,Online,PayPal,Completed,N,,New York,US,Summer Training,2025-07-12
+10537,2025-05-30,131,106,4,225.43,0,Online,Credit Card,Completed,N,,Seattle,USA,None,2025-06-06
+10538,2025-12-17,122,177,5,52.33,20,Partner,Credit Card,Completed,N,,Dubai,UAE,Holiday Wellness,2025-12-26
+10539,2025-09-11,491,485,4,179.26,0,Store,Credit Card,Completed,N,,Paris,France,Back to Routine,2025-09-14
+10540,2025-02-21,15,455,4,109.03,0,Store,Gift Card,Returned,Y,Changed mind,Unknown,,Holiday Wellness,2025-02-24
+10541,2025-06-30,394,577,1,41.43,20,Online,Debit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-07-03
+10542,2025-02-02,454,583,5,220.07,0,Store,Gift Card,Returned,Y,Size issue,New York,US,New Year Fitness,2025-02-02
+10543,2025-07-28,249,598,3,41.56,5,Marketplace,Debit Card,Completed,N,,Dubai,UAE,Holiday Wellness,2025-07-30
+10544,2025-12-30,42,411,5,234.18,0,Partner,PayPal,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2026-01-03
+10545,2025-02-14,292,485,1,179.26,5,Marketplace,Gift Card,Completed,N,,New York,US,Back to Routine,2025-02-21
+10546,2025-12-23,339,188,2,39.11,15,Marketplace,Credit Card,Completed,N,,Paris,France,Holiday Wellness,2025-12-26
+10547,2025-04-10,377,478,3,124.55,20,Marketplace,UPI,Completed,N,,Vancouver,canada,Back to Routine,2025-04-17
+10548,2025-01-20,324,336,5,196.35,0,Online,Credit Card,Completed,N,,Seattle,USA,Spring Reset,2025-01-24
+10549,2025-07-14,102,582,1,163.96,0,Partner,Credit Card,Completed,N,,New York,US,Holiday Wellness,2025-07-24
+10550,2025-12-13,375,511,4,218.09,5,Store,Gift Card,Completed,N,,Vancouver,canada,Back to Routine,2025-12-13
+10551,2025-05-15,406,364,4,173.19,10,Marketplace,UPI,Completed,N,,Manchester,United Kingdom,Summer Training,2025-05-20
+10552,2025-06-24,220,319,1,246.43,0,Store,Credit Card,Completed,N,,Madrid,Spain,Spring Reset,2025-06-29
+10553,2025-02-25,372,358,1,69.46,5,Store,PayPal,Completed,N,,Madrid,Spain,None,2025-03-05
+10554,2025-06-19,223,432,3,264.33,5,Marketplace,PayPal,Cancelled,N,,London,UK,Summer Training,2025-06-27
+10555,2025-06-15,369,288,5,234.40,15,Online,PayPal,Completed,N,,Seattle,USA,Back to Routine,2025-06-20
+10556,2025-11-05,159,382,1,283.07,20,Partner,Debit Card,Completed,N,,Paris,France,New Year Fitness,2025-11-13
+10557,2025-09-09,250,121,2,49.87,10,Online,PayPal,Completed,N,,Berlin,Germany,None,2025-09-09
+10558,2025-02-06,249,385,2,189.24,15,Marketplace,Gift Card,Cancelled,N,,Dubai,UAE,Back to Routine,2025-02-14
+10559,2025-05-11,405,116,4,293.05,0,Online,Debit Card,Completed,N,,London,UK,New Year Fitness,2025-05-14
+10560,2025-05-23,323,176,3,185.96,5,Online,Credit Card,Completed,N,,Seattle,USA,None,2025-05-30
+10561,2025-06-07,135,195,4,225.19,0,Online,PayPal,Completed,N,,Unknown,,New Year Fitness,2025-06-17
+10562,2025-01-23,130,448,3,38.58,0,Partner,Gift Card,Completed,N,,Austin,usa,Holiday Wellness,2025-02-01
+10563,2025-08-20,403,484,1,197.66,0,Store,Credit Card,Completed,N,,Dubai,UAE,New Year Fitness,2025-08-26
+10564,2025-05-24,424,144,2,267.72,0,Store,Credit Card,Completed,N,,New York,US,None,2025-05-25
+10565,2025-08-17,159,135,3,290.26,20,Online,PayPal,Completed,N,,Paris,France,Spring Reset,2025-08-23
+10566,2025-09-21,85,406,5,284.74,20,Marketplace,Gift Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-09-24
+10567,2025-05-18,65,530,1,293.51,0,Partner,PayPal,Completed,N,,Dubai,UAE,Holiday Wellness,2025-05-18
+10568,2025-05-17,150,228,1,143.68,20,Partner,Credit Card,Completed,N,,Unknown,,Summer Training,2025-05-17
+10569,2025-03-22,65,209,4,264.77,10,Marketplace,Debit Card,Completed,N,,Dubai,UAE,Holiday Wellness,2025-03-26
+10570,2025-12-25,275,337,3,184.62,0,Partner,PayPal,Returned,Y,Size issue,Berlin,Germany,New Year Fitness,2026-01-01
+10571,2025-09-18,291,282,1,136.04,5,Store,Debit Card,Completed,N,,Manchester,United Kingdom,Summer Training,2025-09-23
+10572,2025-03-18,496,167,4,283.02,15,Online,Debit Card,Completed,N,,Berlin,Germany,New Year Fitness,2025-03-28
+10573,2025-06-10,69,543,5,18.36,5,Online,Debit Card,Cancelled,N,,Bengaluru,India,Back to Routine,2025-06-17
+10574,2025-10-11,137,326,3,94.85,5,Marketplace,UPI,Returned,Y,Damaged item,Seattle,USA,Holiday Wellness,2025-10-19
+10575,2025-10-23,233,211,1,42.67,0,Online,PayPal,Completed,N,,Toronto,Canada,Back to Routine,2025-10-29
+10576,2025-12-09,275,502,3,168.90,0,Store,UPI,Completed,N,,Berlin,Germany,Summer Training,2025-12-13
+10577,2025-03-23,182,567,3,185.38,0,Partner,Credit Card,Completed,N,,Mumbai,INDIA,Spring Reset,2025-03-24
+10578,2025-07-20,214,428,2,105.80,10,Online,PayPal,Completed,N,,Madrid,Spain,Summer Training,2025-07-20
+10579,2025-03-09,214,482,1,212.49,10,Partner,Debit Card,Pending,N,,Madrid,Spain,Spring Reset,2025-03-09
+10580,2025-08-22,132,188,1,39.11,5,Online,Debit Card,Completed,N,,London,UK,Spring Reset,2025-08-26
+10581,2025-02-06,66,375,3,264.37,10,Store,Debit Card,Completed,N,,Toronto,Canada,None,2025-02-14
+10582,2025-02-21,354,173,5,222.13,0,Online,PayPal,Completed,N,,Unknown,,Holiday Wellness,2025-02-25
+10583,2025-07-11,459,402,4,234.81,0,Marketplace,Credit Card,Completed,N,,Madrid,Spain,Summer Training,2025-07-14
+10584,2025-08-04,47,105,5,222.56,15,Partner,PayPal,Completed,N,,Dubai,UAE,None,2025-08-07
+10585,2025-02-15,181,408,1,204.71,0,Store,UPI,Completed,N,,London,UK,None,2025-02-22
+10586,2025-08-31,91,193,3,135.75,15,Partner,PayPal,Completed,N,,Madrid,Spain,Summer Training,2025-09-04
+10587,2025-02-09,454,430,2,264.31,10,Store,Credit Card,Completed,N,,New York,US,Back to Routine,2025-02-15
+10588,2025-02-27,165,339,3,27.39,0,Marketplace,UPI,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-03-02
+10589,2025-11-18,107,340,1,254.86,0,Online,Debit Card,Completed,N,,New York,US,New Year Fitness,2025-11-28
+10590,2025-03-06,133,362,4,40.03,0,Online,Credit Card,Completed,N,,Dubai,UAE,Back to Routine,2025-03-08
+10591,2025-09-18,181,344,1,146.44,20,Partner,Gift Card,Completed,N,,London,UK,Summer Training,2025-09-22
+10592,2025-07-17,399,229,1,116.87,0,Store,Gift Card,Returned,Y,Changed mind,New York,US,Summer Training,2025-07-21
+10593,2025-02-19,120,422,4,245.86,0,Store,UPI,Completed,N,,Dubai,UAE,Back to Routine,2025-02-20
+10594,2025-06-20,387,452,5,192.33,15,Online,Gift Card,Completed,N,,Mumbai,INDIA,None,2025-06-22
+10595,2025-02-22,140,575,2,98.91,0,Partner,Gift Card,Completed,N,,Paris,France,Spring Reset,2025-03-02
+10596,2025-12-17,76,413,4,245.90,0,Store,UPI,Completed,N,,Austin,usa,New Year Fitness,2025-12-19
+10597,2025-10-06,285,532,3,266.78,0,Partner,Debit Card,Completed,N,,Seattle,USA,New Year Fitness,2025-10-14
+10598,2025-01-30,33,344,4,146.44,0,Partner,UPI,Completed,N,,Toronto,Canada,Spring Reset,2025-02-07
+10599,2025-04-15,494,301,3,203.70,15,Partner,Gift Card,Completed,N,,Madrid,Spain,None,2025-04-21
+10600,2025-03-17,130,165,3,147.85,5,Online,Credit Card,Completed,N,,Austin,usa,Holiday Wellness,2025-03-23
+10601,2025-09-22,284,334,3,102.08,10,Partner,Gift Card,Completed,N,,Unknown,,Holiday Wellness,2025-10-02
+10602,2025-05-30,118,383,3,291.85,5,Partner,UPI,Completed,N,,Berlin,Germany,Back to Routine,2025-06-01
+10603,2025-08-19,221,392,1,207.45,0,Store,UPI,Returned,Y,Damaged item,Berlin,Germany,Summer Training,2025-08-26
+10604,2025-11-26,40,279,5,228.94,0,Marketplace,PayPal,Completed,N,,Bengaluru,India,Back to Routine,2025-12-03
+10605,2025-01-25,481,229,2,116.87,10,Marketplace,Credit Card,Pending,N,,Madrid,Spain,Summer Training,2025-01-31
+10606,2025-01-09,315,124,2,235.44,20,Online,Debit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-01-15
+10607,2025-03-04,352,399,5,263.50,20,Online,Debit Card,Completed,N,,Austin,usa,Spring Reset,2025-03-13
+10608,2025-07-19,305,383,4,291.85,20,Marketplace,PayPal,Completed,N,,Toronto,Canada,Back to Routine,2025-07-27
+10609,2025-04-15,186,194,4,144.61,20,Partner,Debit Card,Completed,N,,Austin,usa,Summer Training,2025-04-17
+10610,2025-09-14,116,282,5,136.04,10,Store,Credit Card,Completed,N,,Unknown,,Summer Training,2025-09-21
+10611,2025-05-15,125,434,5,35.78,5,Store,PayPal,Returned,Y,Damaged item,Unknown,,Summer Training,2025-05-15
+10612,2025-08-29,333,326,1,94.85,10,Marketplace,Credit Card,Completed,N,,Unknown,,New Year Fitness,2025-09-08
+10613,2025-01-17,260,239,1,293.62,15,Partner,UPI,Cancelled,N,,Toronto,Canada,None,2025-01-19
+10614,2025-01-05,38,352,5,102.84,5,Marketplace,Credit Card,Completed,N,,New York,US,None,2025-01-09
+10615,2025-12-29,247,389,1,201.92,5,Store,PayPal,Returned,Y,Damaged item,Manchester,United Kingdom,Spring Reset,2026-01-03
+10616,2025-08-09,169,495,3,246.43,10,Store,Debit Card,Returned,Y,Changed mind,Dubai,UAE,Back to Routine,2025-08-19
+10617,2025-09-22,407,505,3,95.28,0,Store,Gift Card,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2025-09-22
+10618,2025-02-04,97,209,2,264.77,0,Store,Credit Card,Completed,N,,Madrid,Spain,Back to Routine,2025-02-13
+10619,2025-11-08,246,220,1,32.59,15,Store,UPI,Completed,N,,Mumbai,INDIA,Spring Reset,2025-11-12
+10620,2025-11-12,83,179,4,244.33,20,Online,Credit Card,Completed,N,,New York,US,Back to Routine,2025-11-19
+10621,2025-02-07,95,156,3,256.73,10,Marketplace,Debit Card,Completed,N,,Unknown,,Holiday Wellness,2025-02-15
+10622,2025-08-25,159,540,5,273.66,0,Partner,Debit Card,Completed,N,,Paris,France,Summer Training,2025-08-28
+10623,2025-05-20,62,230,3,121.32,0,Partner,Debit Card,Returned,Y,Changed mind,New York,US,None,2025-05-30
+10624,2025-09-13,201,488,2,101.18,10,Store,Debit Card,Completed,N,,Paris,France,Spring Reset,2025-09-13
+10625,2025-05-19,492,193,2,135.75,0,Partner,Debit Card,Completed,N,,London,UK,None,2025-05-26
+10626,2025-03-15,60,107,4,297.11,10,Marketplace,UPI,Completed,N,,Dubai,UAE,New Year Fitness,2025-03-20
+10627,2025-12-14,134,134,4,271.29,15,Online,UPI,Completed,N,,Madrid,Spain,Back to Routine,2025-12-21
+10628,2025-01-08,174,520,4,261.45,20,Partner,Debit Card,Completed,N,,Dubai,UAE,Holiday Wellness,2025-01-10
+10629,2025-02-28,279,557,5,30.44,5,Partner,Credit Card,Cancelled,N,,London,UK,Back to Routine,2025-03-02
+10630,2025-06-07,285,388,5,270.45,20,Store,Debit Card,Completed,N,,Seattle,USA,New Year Fitness,2025-06-15
+10631,2025-07-12,125,509,2,201.66,15,Store,Debit Card,Completed,N,,Unknown,,None,2025-07-15
+10632,2025-07-01,343,571,2,208.88,0,Partner,PayPal,Completed,N,,Manchester,United Kingdom,Spring Reset,2025-07-07
+10633,2025-10-25,130,404,5,272.45,0,Store,UPI,Completed,N,,Austin,usa,New Year Fitness,2025-11-04
+10634,2025-09-11,382,416,4,248.66,5,Online,Gift Card,Completed,N,,Toronto,Canada,Summer Training,2025-09-17
+10635,2025-12-19,165,308,1,105.96,10,Store,Gift Card,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-12-20
+10636,2025-03-30,25,557,5,30.44,15,Store,Credit Card,Completed,N,,Berlin,Germany,Back to Routine,2025-03-30
+10637,2025-03-05,478,506,5,125.04,0,Marketplace,UPI,Completed,N,,London,UK,New Year Fitness,2025-03-11
+10638,2025-10-16,146,333,3,122.99,0,Partner,Credit Card,Cancelled,N,,Bengaluru,India,Spring Reset,2025-10-24
+10639,2025-11-05,38,284,4,148.84,0,Online,Gift Card,Completed,N,,New York,US,New Year Fitness,2025-11-09
+10640,2025-05-08,289,530,2,293.51,15,Store,PayPal,Completed,N,,New York,US,Back to Routine,2025-05-16
+10641,2025-06-25,456,453,2,74.15,10,Partner,UPI,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-06-30
+10642,2025-08-17,138,327,1,234.53,10,Store,Debit Card,Completed,N,,Austin,usa,None,2025-08-22
+10643,2025-09-21,306,283,5,17.42,10,Marketplace,Gift Card,Pending,N,,Berlin,Germany,Spring Reset,2025-09-27
+10644,2025-02-07,392,384,2,132.07,0,Store,UPI,Pending,N,,London,UK,Summer Training,2025-02-10
+10645,2025-02-09,281,145,3,85.30,5,Store,PayPal,Completed,N,,Unknown,,Spring Reset,2025-02-18
+10646,2025-08-01,74,225,5,135.64,0,Online,PayPal,Completed,N,,Unknown,,None,2025-08-01
+10647,2025-04-07,271,249,3,98.47,0,Online,Credit Card,Completed,N,,Vancouver,canada,Summer Training,2025-04-14
+10648,2025-12-27,382,584,1,119.53,0,Store,Debit Card,Completed,N,,Toronto,Canada,New Year Fitness,2025-12-28
+10649,2025-08-05,40,559,1,103.47,20,Online,Gift Card,Completed,N,,Bengaluru,India,Summer Training,2025-08-15
+10650,2025-09-04,374,119,4,21.55,5,Marketplace,PayPal,Completed,N,,Unknown,,New Year Fitness,2025-09-13
+10651,2025-09-07,341,507,3,94.10,0,Partner,Debit Card,Completed,N,,Seattle,USA,Holiday Wellness,2025-09-15
+10652,2025-07-12,338,430,3,264.31,10,Marketplace,Gift Card,Completed,N,,Madrid,Spain,Spring Reset,2025-07-17
+10653,2025-12-25,391,311,4,240.97,20,Partner,Gift Card,Completed,N,,Paris,France,New Year Fitness,2026-01-01
+10654,2025-07-25,369,513,2,225.07,5,Marketplace,Debit Card,Completed,N,,Seattle,USA,New Year Fitness,2025-07-25
+10655,2025-06-29,307,333,2,122.99,0,Marketplace,PayPal,Completed,N,,Unknown,,Summer Training,2025-07-06
+10656,2025-12-01,287,350,1,118.35,0,Partner,Debit Card,Completed,N,,London,UK,Holiday Wellness,2025-12-04
+10657,2025-06-28,164,473,4,274.00,0,Store,Debit Card,Completed,N,,Madrid,Spain,None,2025-07-04
+10658,2025-04-26,154,510,5,202.15,5,Online,PayPal,Completed,N,,Mumbai,INDIA,Back to Routine,2025-05-05
+10659,2025-07-27,23,301,3,203.70,5,Online,Debit Card,Completed,N,,Dubai,UAE,Spring Reset,2025-08-06
+10660,2025-06-26,261,224,4,211.35,0,Online,UPI,Completed,N,,Mumbai,INDIA,Back to Routine,2025-06-29
+10661,2025-06-21,366,199,4,20.55,15,Online,UPI,Completed,N,,Austin,usa,Holiday Wellness,2025-06-27
+10662,2025-01-22,112,531,2,38.45,0,Partner,Debit Card,Returned,Y,Changed mind,Madrid,Spain,None,2025-02-01
+10663,2025-09-29,317,366,2,63.93,15,Store,Debit Card,Completed,N,,New York,US,Summer Training,2025-09-29
+10664,2025-05-31,142,583,3,220.07,5,Marketplace,Debit Card,Completed,N,,Paris,France,Holiday Wellness,2025-06-02
+10665,2025-02-06,17,448,1,38.58,5,Partner,Debit Card,Completed,N,,Seattle,USA,Back to Routine,2025-02-07
+10666,2025-09-02,455,284,1,148.84,0,Store,PayPal,Completed,N,,Paris,France,Spring Reset,2025-09-09
+10667,2025-09-02,424,313,1,254.22,0,Marketplace,Debit Card,Cancelled,N,,New York,US,Back to Routine,2025-09-11
+10668,2025-02-26,196,384,4,132.07,15,Online,Gift Card,Completed,N,,Toronto,Canada,New Year Fitness,2025-03-06
+10669,2025-03-04,407,578,1,69.59,20,Online,UPI,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2025-03-08
+10670,2025-09-20,307,362,5,40.03,10,Marketplace,UPI,Completed,N,,Unknown,,None,2025-09-26
+10671,2025-05-11,396,467,1,68.63,20,Partner,Credit Card,Returned,Y,Late delivery,Mumbai,INDIA,None,2025-05-17
+10672,2025-04-13,434,521,4,269.51,20,Online,Gift Card,Completed,N,,Madrid,Spain,Holiday Wellness,2025-04-16
+10673,2025-01-05,486,289,3,178.66,0,Store,Debit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-01-15
+10674,2025-01-30,277,428,2,105.80,10,Partner,Gift Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-02-01
+10675,2025-02-10,342,209,4,264.77,0,Marketplace,UPI,Completed,N,,Vancouver,canada,None,2025-02-20
+10676,2025-11-14,266,547,5,130.99,10,Store,Gift Card,Pending,N,,Toronto,Canada,Spring Reset,2025-11-14
+10677,2025-03-12,304,536,5,91.40,0,Marketplace,Debit Card,Returned,Y,Late delivery,Madrid,Spain,Holiday Wellness,2025-03-13
+10678,2025-10-29,490,291,3,16.37,15,Online,Debit Card,Completed,N,,Madrid,Spain,Summer Training,2025-11-07
+10679,2025-05-15,116,219,3,173.24,0,Online,Gift Card,Completed,N,,Unknown,,None,2025-05-23
+10680,2025-03-01,467,413,1,245.90,0,Store,UPI,Completed,N,,Unknown,,New Year Fitness,2025-03-05
+10681,2025-02-23,435,294,1,75.95,20,Partner,UPI,Returned,Y,Late delivery,Toronto,Canada,New Year Fitness,2025-03-04
+10682,2025-07-19,4,586,1,272.26,15,Marketplace,Debit Card,Completed,N,,Toronto,Canada,Spring Reset,2025-07-21
+10683,2025-11-23,191,361,1,24.67,0,Online,UPI,Completed,N,,Unknown,,None,2025-11-23
+10684,2025-05-23,390,375,2,264.37,20,Partner,Credit Card,Completed,N,,Toronto,Canada,Summer Training,2025-05-29
+10685,2025-07-16,140,413,1,245.90,10,Store,Credit Card,Returned,Y,Size issue,Paris,France,Summer Training,2025-07-17
+10686,2025-09-26,353,436,4,177.14,5,Marketplace,Debit Card,Completed,N,,Seattle,USA,None,2025-10-06
+10687,2025-09-23,239,188,1,39.11,5,Partner,Credit Card,Completed,N,,Berlin,Germany,Holiday Wellness,2025-09-25
+10688,2025-06-17,79,195,1,225.19,15,Online,UPI,Completed,N,,Bengaluru,India,Back to Routine,2025-06-25
+10689,2025-02-26,66,441,1,108.63,0,Store,Credit Card,Completed,N,,Toronto,Canada,Back to Routine,2025-03-04
+10690,2025-06-19,10,131,1,55.06,0,Marketplace,UPI,Completed,N,,Madrid,Spain,Holiday Wellness,2025-06-28
+10691,2025-11-19,269,577,5,41.43,0,Online,UPI,Returned,Y,Damaged item,Unknown,,Holiday Wellness,2025-11-26
+10692,2025-08-16,454,333,2,122.99,5,Store,Credit Card,Completed,N,,New York,US,Summer Training,2025-08-26
+10693,2025-12-09,455,470,3,296.80,10,Online,Gift Card,Completed,N,,Paris,France,None,2025-12-14
+10694,2025-07-15,471,522,1,25.20,20,Partner,UPI,Completed,N,,Dubai,UAE,None,2025-07-15
+10695,2025-05-04,37,559,1,103.47,0,Online,PayPal,Completed,N,,Toronto,Canada,Spring Reset,2025-05-13
+10696,2025-01-07,11,244,2,157.94,0,Marketplace,UPI,Completed,N,,Madrid,Spain,None,2025-01-13
+10697,2025-11-28,476,213,3,159.99,20,Partner,PayPal,Completed,N,,Manchester,United Kingdom,Back to Routine,2025-12-08
+10698,2025-01-17,77,186,5,203.32,0,Store,Gift Card,Completed,N,,Unknown,,Holiday Wellness,2025-01-22
+10699,2025-01-11,361,536,4,91.40,10,Marketplace,Credit Card,Completed,N,,Austin,usa,None,2025-01-21
+10700,2025-12-30,5,598,5,41.56,15,Online,Credit Card,Pending,N,,Mumbai,INDIA,New Year Fitness,2026-01-09
+10701,2025-05-09,2,548,4,243.12,20,Online,PayPal,Completed,N,,Berlin,Germany,Holiday Wellness,2025-05-12
+10702,2025-02-28,199,355,1,113.83,0,Store,PayPal,Completed,N,,New York,US,Back to Routine,2025-03-05
+10703,2025-03-19,366,272,1,266.76,15,Store,Credit Card,Completed,N,,Austin,usa,Back to Routine,2025-03-19
+10704,2025-12-16,393,226,4,250.27,20,Store,PayPal,Completed,N,,Dubai,UAE,Back to Routine,2025-12-19
+10705,2025-08-04,201,445,4,267.00,20,Partner,Debit Card,Returned,Y,Changed mind,Paris,France,None,2025-08-07
+10706,2025-05-30,357,542,3,230.98,5,Partner,Credit Card,Completed,N,,Vancouver,canada,New Year Fitness,2025-05-31
+10707,2025-10-12,105,494,4,89.58,0,Partner,Debit Card,Completed,N,,Toronto,Canada,None,2025-10-22
+10708,2025-03-12,177,317,1,39.58,20,Online,Credit Card,Completed,N,,Dubai,UAE,Summer Training,2025-03-19
+10709,2025-12-08,112,190,3,165.07,0,Marketplace,Debit Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-12-12
+10710,2025-11-27,28,374,4,108.79,10,Marketplace,UPI,Completed,N,,Paris,France,Back to Routine,2025-11-29
+10711,2025-04-25,225,461,4,35.73,0,Store,UPI,Completed,N,,Paris,France,Summer Training,2025-05-03
+10712,2025-11-15,456,261,3,153.36,5,Marketplace,Credit Card,Completed,N,,Mumbai,INDIA,None,2025-11-22
+10713,2025-06-21,448,127,4,68.96,15,Partner,PayPal,Completed,N,,Unknown,,Spring Reset,2025-06-28
+10714,2025-04-19,181,593,1,283.90,0,Store,Debit Card,Completed,N,,London,UK,Spring Reset,2025-04-25
+10715,2025-07-16,3,287,3,176.14,10,Partner,Debit Card,Completed,N,,Mumbai,INDIA,Spring Reset,2025-07-16
+10716,2025-09-18,7,335,3,77.30,5,Store,Debit Card,Cancelled,N,,Mumbai,INDIA,Spring Reset,2025-09-24
+10717,2025-09-18,8,342,2,275.57,0,Partner,Credit Card,Completed,N,,Unknown,,Summer Training,2025-09-21
+10718,2025-10-10,382,598,1,41.56,0,Online,PayPal,Cancelled,N,,Toronto,Canada,Back to Routine,2025-10-16
+10719,2025-07-25,356,397,5,25.04,10,Marketplace,Debit Card,Returned,Y,Damaged item,Toronto,Canada,New Year Fitness,2025-08-04
+10720,2025-04-14,272,304,1,174.38,15,Online,Debit Card,Completed,N,,Vancouver,canada,Summer Training,2025-04-14
+10721,2025-05-27,423,467,1,68.63,20,Online,Debit Card,Returned,Y,Changed mind,London,UK,None,2025-05-28
+10722,2025-04-24,243,241,5,20.62,5,Store,UPI,Completed,N,,Austin,usa,Spring Reset,2025-05-01
+10723,2025-10-06,441,278,4,125.28,0,Marketplace,PayPal,Completed,N,,Seattle,USA,Holiday Wellness,2025-10-08
+10724,2025-03-31,240,315,4,86.56,0,Partner,UPI,Completed,N,,Toronto,Canada,Holiday Wellness,2025-04-02
+10725,2025-02-27,467,464,2,59.68,15,Marketplace,Credit Card,Completed,N,,Unknown,,Spring Reset,2025-03-07
+10726,2025-10-19,401,119,5,21.55,10,Store,UPI,Completed,N,,Madrid,Spain,Summer Training,2025-10-29
+10727,2025-03-27,471,233,5,68.35,0,Store,PayPal,Completed,N,,Dubai,UAE,Holiday Wellness,2025-04-03
+10728,2025-11-16,402,362,1,40.03,5,Partner,Credit Card,Completed,N,,Unknown,,None,2025-11-23
+10729,2025-04-07,91,528,2,281.42,10,Marketplace,PayPal,Completed,N,,Madrid,Spain,Summer Training,2025-04-13
+10730,2025-12-05,301,189,4,102.69,5,Online,Gift Card,Completed,N,,Madrid,Spain,None,2025-12-11
+10731,2025-11-27,140,553,1,202.40,0,Marketplace,Credit Card,Completed,N,,Paris,France,New Year Fitness,2025-12-01
+10732,2025-02-21,104,269,1,185.57,0,Online,Credit Card,Completed,N,,Unknown,,Spring Reset,2025-02-28
+10733,2025-06-12,226,474,1,153.70,10,Marketplace,UPI,Cancelled,N,,Dubai,UAE,Summer Training,2025-06-13
+10734,2025-10-21,329,134,1,271.29,0,Store,UPI,Completed,N,,Bengaluru,India,Back to Routine,2025-10-30
+10735,2025-06-20,106,283,2,17.42,0,Marketplace,Credit Card,Completed,N,,New York,US,None,2025-06-24
+10736,2025-11-20,52,456,3,50.76,0,Online,UPI,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-11-30
+10737,2025-08-27,33,565,3,20.27,0,Marketplace,Gift Card,Completed,N,,Toronto,Canada,Back to Routine,2025-08-29
+10738,2025-03-20,26,124,3,235.44,0,Store,Debit Card,Returned,Y,Size issue,Berlin,Germany,New Year Fitness,2025-03-21
+10739,2025-09-16,454,427,2,30.69,0,Marketplace,Credit Card,Returned,Y,Late delivery,New York,US,Spring Reset,2025-09-24
+10740,2025-11-08,399,588,4,153.00,5,Marketplace,Debit Card,Completed,N,,New York,US,Summer Training,2025-11-16
+10741,2025-05-19,117,292,1,195.60,0,Partner,UPI,Completed,N,,Seattle,USA,Holiday Wellness,2025-05-28
+10742,2025-08-25,56,542,3,230.98,15,Partner,Gift Card,Completed,N,,Vancouver,canada,Spring Reset,2025-09-01
+10743,2025-11-16,95,170,2,71.26,0,Marketplace,Debit Card,Returned,Y,Damaged item,Unknown,,Spring Reset,2025-11-21
+10744,2025-10-27,202,404,3,272.45,20,Store,PayPal,Completed,N,,Mumbai,INDIA,Spring Reset,2025-11-03
+10745,2025-08-25,412,343,1,294.78,0,Store,Gift Card,Completed,N,,Unknown,,None,2025-09-01
+10746,2025-09-12,88,485,4,179.26,5,Marketplace,Gift Card,Completed,N,,Berlin,Germany,Back to Routine,2025-09-21
+10747,2025-03-22,322,589,4,94.99,15,Marketplace,Debit Card,Completed,N,,Bengaluru,India,None,2025-04-01
+10748,2025-11-12,463,131,3,55.06,15,Marketplace,Gift Card,Completed,N,,Bengaluru,India,Spring Reset,2025-11-15
+10749,2025-11-14,126,344,5,146.44,10,Partner,PayPal,Completed,N,,New York,US,Spring Reset,2025-11-14
+10750,2025-08-05,254,249,4,98.47,0,Partner,Credit Card,Completed,N,,Madrid,Spain,New Year Fitness,2025-08-10
+10751,2025-05-06,475,240,4,23.48,0,Store,UPI,Completed,N,,Madrid,Spain,Back to Routine,2025-05-06
+10752,2025-06-18,374,563,5,289.66,0,Store,UPI,Completed,N,,Unknown,,None,2025-06-23
+10753,2025-10-15,84,346,2,298.05,5,Store,Debit Card,Completed,N,,Toronto,Canada,Summer Training,2025-10-19
+10754,2025-07-22,165,559,4,103.47,0,Online,Gift Card,Returned,Y,Changed mind,Manchester,United Kingdom,Spring Reset,2025-07-28
+10755,2025-01-24,412,191,1,134.98,0,Online,Credit Card,Completed,N,,Unknown,,None,2025-01-26
+10756,2025-01-18,275,390,5,161.80,10,Partner,Credit Card,Completed,N,,Berlin,Germany,New Year Fitness,2025-01-23
+10757,2025-09-05,287,298,4,122.55,15,Marketplace,Debit Card,Completed,N,,London,UK,Holiday Wellness,2025-09-11
+10758,2025-07-03,11,223,5,282.42,0,Partner,PayPal,Completed,N,,Madrid,Spain,Holiday Wellness,2025-07-09
+10759,2025-09-25,280,348,3,173.47,0,Marketplace,Debit Card,Completed,N,,Unknown,,Spring Reset,2025-10-03
+10760,2025-05-24,44,378,5,293.50,0,Marketplace,UPI,Completed,N,,Seattle,USA,Holiday Wellness,2025-05-31
+10761,2025-10-11,390,575,2,98.91,20,Online,UPI,Completed,N,,Toronto,Canada,Spring Reset,2025-10-12
+10762,2025-12-25,91,568,1,252.19,20,Online,UPI,Completed,N,,Madrid,Spain,Summer Training,2025-12-28
+10763,2025-08-18,436,534,1,167.73,15,Online,PayPal,Completed,N,,Dubai,UAE,Summer Training,2025-08-26
+10764,2025-01-17,372,240,5,23.48,0,Partner,Credit Card,Completed,N,,Madrid,Spain,Spring Reset,2025-01-18
+10765,2025-07-12,352,310,5,47.06,0,Partner,UPI,Completed,N,,Austin,usa,New Year Fitness,2025-07-20
+10766,2025-03-11,332,275,4,243.96,0,Online,PayPal,Completed,N,,London,UK,Holiday Wellness,2025-03-16
+10767,2025-08-19,345,129,2,233.18,0,Store,PayPal,Completed,N,,Dubai,UAE,None,2025-08-20
+10768,2025-06-03,45,188,5,39.11,0,Marketplace,PayPal,Completed,N,,Mumbai,INDIA,Back to Routine,2025-06-13
+10769,2025-09-30,312,212,4,34.82,15,Marketplace,Credit Card,Completed,N,,Paris,France,New Year Fitness,2025-10-05
+10770,2025-07-17,12,244,3,157.94,10,Store,PayPal,Returned,Y,Late delivery,Berlin,Germany,Holiday Wellness,2025-07-18
+10771,2025-03-29,314,376,2,44.15,0,Online,PayPal,Completed,N,,London,UK,None,2025-04-02
+10772,2025-08-12,500,223,2,282.42,0,Online,UPI,Completed,N,,Madrid,Spain,Spring Reset,2025-08-14
+10773,2025-06-04,150,466,4,15.22,15,Partner,UPI,Completed,N,,Unknown,,Back to Routine,2025-06-12
+10774,2025-02-11,42,556,1,236.17,0,Online,Gift Card,Returned,Y,Size issue,Manchester,United Kingdom,None,2025-02-21
+10775,2025-06-29,372,355,4,113.83,0,Marketplace,UPI,Completed,N,,Madrid,Spain,Spring Reset,2025-07-04
+10776,2025-04-26,254,286,1,218.58,15,Partner,PayPal,Cancelled,N,,Madrid,Spain,Holiday Wellness,2025-05-01
+10777,2025-07-04,81,477,1,198.25,0,Store,PayPal,Completed,N,,Vancouver,canada,New Year Fitness,2025-07-13
+10778,2025-03-05,61,506,4,125.04,5,Online,Gift Card,Completed,N,,Unknown,,Back to Routine,2025-03-10
+10779,2025-08-06,400,145,1,85.30,0,Store,PayPal,Completed,N,,Vancouver,canada,Back to Routine,2025-08-12
+10780,2025-03-03,486,207,2,80.29,20,Partner,UPI,Completed,N,,Berlin,Germany,None,2025-03-05
+10781,2025-01-15,35,240,3,23.48,20,Partner,Gift Card,Completed,N,,Austin,usa,Summer Training,2025-01-22
+10782,2025-05-10,492,262,2,138.78,0,Partner,Gift Card,Completed,N,,London,UK,Holiday Wellness,2025-05-13
+10783,2025-12-13,144,492,3,270.79,0,Partner,PayPal,Completed,N,,Austin,usa,Holiday Wellness,2025-12-15
+10784,2025-07-04,121,347,3,181.73,10,Marketplace,Debit Card,Completed,N,,Berlin,Germany,Summer Training,2025-07-09
+10785,2025-09-18,428,445,4,267.00,10,Store,Credit Card,Completed,N,,Dubai,UAE,Back to Routine,2025-09-22
+10786,2025-08-01,451,494,1,89.58,20,Partner,Debit Card,Cancelled,N,,Toronto,Canada,New Year Fitness,2025-08-03
+10787,2025-06-01,279,308,4,105.96,5,Online,PayPal,Completed,N,,London,UK,New Year Fitness,2025-06-06
+10788,2025-03-19,201,295,3,185.86,0,Online,UPI,Completed,N,,Paris,France,Back to Routine,2025-03-21
+10789,2025-11-07,190,596,2,243.52,15,Store,Credit Card,Completed,N,,Dubai,UAE,Holiday Wellness,2025-11-09
+10790,2025-05-22,17,240,4,23.48,10,Marketplace,UPI,Completed,N,,Seattle,USA,Holiday Wellness,2025-05-29
+10791,2025-12-20,304,168,3,274.01,0,Marketplace,UPI,Completed,N,,Madrid,Spain,New Year Fitness,2025-12-23
+10792,2025-11-01,107,331,1,174.77,10,Partner,Credit Card,Completed,N,,New York,US,Spring Reset,2025-11-10
+10793,2025-10-13,55,331,3,174.77,5,Store,Debit Card,Completed,N,,Mumbai,INDIA,None,2025-10-18
+10794,2025-10-07,12,236,1,141.12,15,Marketplace,PayPal,Completed,N,,Berlin,Germany,Back to Routine,2025-10-11
+10795,2025-02-20,14,354,4,171.62,15,Partner,Debit Card,Returned,Y,Changed mind,Vancouver,canada,Holiday Wellness,2025-03-01
+10796,2025-05-09,256,582,4,163.96,5,Store,Debit Card,Returned,Y,Damaged item,Mumbai,INDIA,Summer Training,2025-05-13
+10797,2025-02-02,419,121,5,49.87,15,Partner,Gift Card,Completed,N,,Manchester,United Kingdom,Spring Reset,2025-02-06
+10798,2025-06-27,187,360,5,90.57,5,Marketplace,PayPal,Returned,Y,Changed mind,Manchester,United Kingdom,Summer Training,2025-06-27
+10799,2025-06-02,285,147,3,143.52,0,Partner,Debit Card,Completed,N,,Seattle,USA,Holiday Wellness,2025-06-09
+10800,2025-02-14,439,491,2,181.80,15,Store,UPI,Completed,N,,New York,US,Holiday Wellness,2025-02-23
+10801,2025-04-04,109,182,4,292.25,20,Store,Gift Card,Completed,N,,London,UK,Holiday Wellness,2025-04-12
+10802,2025-06-29,483,556,2,236.17,20,Partner,Debit Card,Completed,N,,London,UK,New Year Fitness,2025-07-08
+10803,2025-01-17,71,568,2,252.19,0,Store,Credit Card,Cancelled,N,,Vancouver,canada,Back to Routine,2025-01-19
+10804,2025-09-01,485,599,5,69.46,0,Partner,Debit Card,Completed,N,,Unknown,,Back to Routine,2025-09-05
+10805,2025-03-07,459,481,4,221.50,0,Store,Gift Card,Completed,N,,Madrid,Spain,Holiday Wellness,2025-03-14
+10806,2025-04-23,352,304,4,174.38,15,Store,UPI,Completed,N,,Austin,usa,None,2025-04-25
+10807,2025-10-16,302,553,5,202.40,0,Online,Credit Card,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2025-10-19
+10808,2025-06-17,482,289,4,178.66,10,Store,UPI,Completed,N,,London,UK,None,2025-06-19
+10809,2025-02-15,418,478,4,124.55,10,Online,UPI,Completed,N,,Vancouver,canada,Back to Routine,2025-02-19
+10810,2025-07-16,192,508,4,203.23,20,Online,Gift Card,Completed,N,,Berlin,Germany,Back to Routine,2025-07-21
+10811,2025-11-23,123,303,2,130.12,10,Store,Gift Card,Completed,N,,Toronto,Canada,New Year Fitness,2025-11-23
+10812,2025-01-12,102,266,1,91.77,15,Online,Credit Card,Completed,N,,New York,US,New Year Fitness,2025-01-18
+10813,2025-10-10,338,305,2,250.54,10,Partner,Debit Card,Completed,N,,Madrid,Spain,Back to Routine,2025-10-14
+10814,2025-01-30,287,519,2,278.99,10,Partner,UPI,Completed,N,,London,UK,New Year Fitness,2025-02-04
+10815,2025-05-30,492,387,4,28.35,5,Partner,Credit Card,Returned,Y,Size issue,London,UK,Back to Routine,2025-06-02
+10816,2025-08-21,157,367,2,259.76,0,Marketplace,PayPal,Completed,N,,Austin,usa,Spring Reset,2025-08-25
+10817,2025-10-21,32,417,1,77.59,10,Partner,Debit Card,Completed,N,,Vancouver,canada,Summer Training,2025-10-22
+10818,2025-01-23,269,193,2,135.75,0,Online,Debit Card,Completed,N,,Unknown,,None,2025-01-23
+10819,2025-03-08,115,446,4,124.17,20,Partner,PayPal,Completed,N,,Vancouver,canada,Back to Routine,2025-03-10
+10820,2025-09-04,433,229,2,116.87,0,Marketplace,Credit Card,Completed,N,,Dubai,UAE,Back to Routine,2025-09-04
+10821,2025-11-22,439,458,1,258.02,0,Store,Debit Card,Returned,Y,Damaged item,New York,US,Holiday Wellness,2025-11-26
+10822,2025-11-27,185,254,4,159.52,0,Online,Credit Card,Completed,N,,Austin,usa,None,2025-12-07
+10823,2025-03-04,372,470,4,296.80,15,Store,UPI,Completed,N,,Madrid,Spain,Spring Reset,2025-03-06
+10824,2025-06-19,248,229,2,116.87,0,Store,UPI,Completed,N,,London,UK,New Year Fitness,2025-06-25
+10825,2025-09-18,8,387,1,28.35,5,Marketplace,PayPal,Completed,N,,Unknown,,New Year Fitness,2025-09-18
+10826,2025-03-24,353,238,3,265.82,5,Online,UPI,Completed,N,,Seattle,USA,Holiday Wellness,2025-04-03
+10827,2025-02-11,177,366,1,63.93,10,Store,UPI,Completed,N,,Dubai,UAE,Summer Training,2025-02-15
+10828,2025-09-08,346,208,1,146.55,10,Online,Gift Card,Completed,N,,Mumbai,INDIA,Back to Routine,2025-09-14
+10829,2025-10-29,412,193,4,135.75,20,Partner,PayPal,Completed,N,,Unknown,,Spring Reset,2025-11-01
+10830,2025-04-19,174,534,5,167.73,0,Online,PayPal,Completed,N,,Dubai,UAE,New Year Fitness,2025-04-26
+10831,2025-04-17,27,442,3,59.33,10,Store,PayPal,Cancelled,N,,Berlin,Germany,Summer Training,2025-04-18
+10832,2025-10-01,455,451,1,111.01,0,Online,Gift Card,Completed,N,,Paris,France,Summer Training,2025-10-06
+10833,2025-09-08,413,212,3,34.82,15,Marketplace,Gift Card,Completed,N,,Dubai,UAE,Back to Routine,2025-09-08
+10834,2025-07-17,216,291,3,16.37,0,Store,Credit Card,Pending,N,,Toronto,Canada,Spring Reset,2025-07-23
+10835,2025-11-26,442,303,3,130.12,10,Marketplace,Debit Card,Completed,N,,Toronto,Canada,None,2025-12-05
+10836,2025-06-22,310,286,4,218.58,15,Marketplace,UPI,Completed,N,,Paris,France,Summer Training,2025-06-27
+10837,2025-06-15,15,270,2,221.02,20,Online,UPI,Returned,Y,Changed mind,Unknown,,Summer Training,2025-06-17
+10838,2025-06-24,489,567,3,185.38,0,Marketplace,Debit Card,Completed,N,,Seattle,USA,Summer Training,2025-07-04
+10839,2025-10-12,266,296,5,96.33,0,Partner,Gift Card,Pending,N,,Toronto,Canada,None,2025-10-20
+10840,2025-02-08,308,180,5,172.31,20,Online,Gift Card,Cancelled,N,,Mumbai,INDIA,Spring Reset,2025-02-13
+10841,2025-05-09,462,314,3,107.56,20,Online,Gift Card,Completed,N,,London,UK,New Year Fitness,2025-05-17
+10842,2025-11-18,101,507,1,94.10,5,Marketplace,UPI,Completed,N,,Unknown,,New Year Fitness,2025-11-28
+10843,2025-06-03,317,508,3,203.23,15,Marketplace,Gift Card,Completed,N,,New York,US,Back to Routine,2025-06-06
+10844,2025-05-06,440,388,1,270.45,20,Store,Credit Card,Completed,N,,Unknown,,Holiday Wellness,2025-05-16
+10845,2025-01-11,119,496,5,203.37,0,Store,UPI,Completed,N,,Paris,France,None,2025-01-16
+10846,2025-12-24,289,378,3,293.50,10,Partner,PayPal,Completed,N,,New York,US,Summer Training,2025-12-24
+10847,2025-07-31,338,344,4,146.44,0,Store,Gift Card,Completed,N,,Madrid,Spain,Summer Training,2025-08-07
+10848,2025-09-23,11,487,1,231.62,0,Store,Credit Card,Returned,Y,Size issue,Madrid,Spain,None,2025-09-24
+10849,2025-02-01,350,548,1,243.12,0,Online,Gift Card,Completed,N,,New York,US,Summer Training,2025-02-03
+10850,2025-01-10,1,216,4,232.05,0,Partner,PayPal,Pending,N,,Manchester,United Kingdom,Summer Training,2025-01-12
+10851,2025-02-17,476,563,3,289.66,10,Marketplace,PayPal,Completed,N,,Manchester,United Kingdom,New Year Fitness,2025-02-25
+10852,2025-06-18,340,183,3,263.56,0,Marketplace,UPI,Cancelled,N,,Toronto,Canada,Spring Reset,2025-06-19
+10853,2025-08-13,319,118,4,23.16,5,Store,Debit Card,Pending,N,,Bengaluru,India,Back to Routine,2025-08-20
+10854,2025-01-03,371,207,3,80.29,15,Online,PayPal,Completed,N,,New York,US,Summer Training,2025-01-07
+10855,2025-04-29,138,126,3,119.50,5,Marketplace,Credit Card,Pending,N,,Austin,usa,Holiday Wellness,2025-04-30
+10856,2025-01-15,266,361,5,24.67,10,Store,Gift Card,Completed,N,,Toronto,Canada,None,2025-01-23
+10857,2025-01-22,57,385,4,189.24,20,Marketplace,Debit Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-01-28
+10858,2025-10-28,94,448,4,38.58,10,Marketplace,Credit Card,Completed,N,,Bengaluru,India,Holiday Wellness,2025-11-05
+10859,2025-09-04,315,200,1,289.82,15,Partner,Credit Card,Completed,N,,Berlin,Germany,Back to Routine,2025-09-04
+10860,2025-10-21,56,452,5,192.33,0,Partner,PayPal,Completed,N,,Vancouver,canada,Holiday Wellness,2025-10-22
+10861,2025-03-27,331,438,2,101.41,10,Partner,PayPal,Completed,N,,Toronto,Canada,Summer Training,2025-03-30
+10862,2025-06-03,233,209,3,264.77,5,Partner,UPI,Returned,Y,Changed mind,Toronto,Canada,New Year Fitness,2025-06-05
+10863,2025-05-30,49,529,5,262.63,0,Marketplace,Gift Card,Completed,N,,Unknown,,New Year Fitness,2025-06-07
+10864,2025-02-15,135,200,2,289.82,5,Marketplace,Credit Card,Completed,N,,Unknown,,Holiday Wellness,2025-02-16
+10865,2025-08-24,343,209,2,264.77,5,Store,Gift Card,Pending,N,,Manchester,United Kingdom,Summer Training,2025-08-25
+10866,2025-12-02,130,155,3,217.19,10,Marketplace,Credit Card,Completed,N,,Austin,usa,Holiday Wellness,2025-12-06
+10867,2025-05-07,406,499,2,114.78,5,Partner,Credit Card,Returned,Y,Changed mind,Manchester,United Kingdom,Summer Training,2025-05-14
+10868,2025-10-16,244,306,5,282.73,0,Online,Credit Card,Pending,N,,London,UK,Summer Training,2025-10-18
+10869,2025-12-29,144,403,5,112.94,10,Store,Credit Card,Completed,N,,Austin,usa,Back to Routine,2026-01-08
+10870,2025-05-12,19,411,5,234.18,0,Partner,UPI,Returned,Y,Late delivery,Vancouver,canada,Holiday Wellness,2025-05-20
+10871,2025-09-22,391,334,3,102.08,0,Marketplace,Gift Card,Completed,N,,Paris,France,None,2025-09-28
+10872,2025-11-23,211,474,4,153.70,15,Online,Debit Card,Returned,Y,Damaged item,Paris,France,Holiday Wellness,2025-11-24
+10873,2025-11-20,477,308,3,105.96,5,Marketplace,UPI,Pending,N,,Paris,France,None,2025-11-21
+10874,2025-07-11,364,375,2,264.37,0,Store,Debit Card,Completed,N,,Paris,France,Summer Training,2025-07-15
+10875,2025-11-15,424,203,5,245.34,15,Marketplace,Credit Card,Pending,N,,New York,US,Summer Training,2025-11-24
+10876,2025-03-30,390,555,4,257.05,15,Partner,Credit Card,Completed,N,,Toronto,Canada,Spring Reset,2025-04-03
+10877,2025-12-08,4,355,3,113.83,0,Marketplace,PayPal,Completed,N,,Toronto,Canada,Summer Training,2025-12-09
+10878,2025-05-28,452,272,1,266.76,10,Store,UPI,Completed,N,,Toronto,Canada,Summer Training,2025-05-31
+10879,2025-11-25,129,441,4,108.63,0,Partner,Gift Card,Returned,Y,Size issue,Paris,France,Spring Reset,2025-11-28
+10880,2025-12-06,214,268,2,142.99,20,Partner,Gift Card,Completed,N,,Madrid,Spain,Holiday Wellness,2025-12-07
+10881,2025-01-25,195,584,5,119.53,0,Marketplace,Credit Card,Completed,N,,Vancouver,canada,Spring Reset,2025-01-31
+10882,2025-12-09,349,325,5,276.33,10,Marketplace,PayPal,Completed,N,,Paris,France,None,2025-12-14
+10883,2025-08-27,385,174,1,92.09,15,Store,Debit Card,Cancelled,N,,Austin,usa,New Year Fitness,2025-08-29
+10884,2025-04-24,346,259,4,85.44,5,Online,Debit Card,Completed,N,,Mumbai,INDIA,Holiday Wellness,2025-05-01
+10885,2025-05-20,276,498,3,47.13,0,Store,Debit Card,Completed,N,,Mumbai,INDIA,Summer Training,2025-05-27
+10886,2025-09-23,97,281,2,258.39,20,Online,PayPal,Completed,N,,Madrid,Spain,None,2025-09-24
+10887,2025-08-09,297,190,1,165.07,20,Store,UPI,Returned,Y,Damaged item,London,UK,Summer Training,2025-08-16
+10888,2025-08-17,107,545,3,15.04,5,Partner,UPI,Completed,N,,New York,US,Back to Routine,2025-08-23
+10889,2025-08-24,67,457,5,82.45,0,Partner,Credit Card,Completed,N,,Berlin,Germany,New Year Fitness,2025-08-28
+10890,2025-06-24,4,399,1,263.50,0,Store,UPI,Cancelled,N,,Toronto,Canada,Holiday Wellness,2025-07-01
+10891,2025-11-06,148,586,1,272.26,10,Store,UPI,Completed,N,,Paris,France,None,2025-11-13
+10892,2025-05-05,51,143,2,269.49,10,Online,Debit Card,Completed,N,,Seattle,USA,Back to Routine,2025-05-13
+10893,2025-01-28,234,122,3,197.03,15,Store,Debit Card,Completed,N,,Seattle,USA,Holiday Wellness,2025-02-03
+10894,2025-10-07,14,379,1,176.94,0,Store,PayPal,Completed,N,,Vancouver,canada,Summer Training,2025-10-17
+10895,2025-12-21,29,479,3,248.10,5,Marketplace,Credit Card,Returned,Y,Size issue,Bengaluru,India,New Year Fitness,2025-12-28
+10896,2025-01-29,70,372,4,160.36,0,Partner,UPI,Cancelled,N,,London,UK,New Year Fitness,2025-02-05
+10897,2025-11-05,20,404,1,272.45,0,Store,Debit Card,Completed,N,,Seattle,USA,Back to Routine,2025-11-13
+10898,2025-05-23,343,427,5,30.69,15,Marketplace,UPI,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2025-05-29
+10899,2025-02-24,488,447,1,234.40,15,Partner,Debit Card,Completed,N,,Austin,usa,Spring Reset,2025-03-06
+10900,2025-09-04,69,119,5,21.55,0,Marketplace,UPI,Completed,N,,Bengaluru,India,Summer Training,2025-09-12
+10051,2025-07-12,110,498,5,47.13,10,Marketplace,Gift Card,Cancelled,N,,Paris,France,Spring Reset,2025-07-21
+10052,2025-07-03,41,378,1,293.50,25,Partner,Gift Card,Completed,N,,Manchester,United Kingdom,Holiday Wellness,2025-07-06
+10053,2025-08-13,186,427,4,30.69,20,Marketplace,UPI,Completed,N,,Austin,usa,Holiday Wellness,2025-08-22
+10054,2025-03-13,359,278,2,125.28,10,Partner,UPI,Completed,N,,Vancouver,canada,New Year Fitness,2025-03-17
+10055,2025-04-30,94,476,4,235.88,25,Partner,Debit Card,Completed,N,,Bengaluru,India,New Year Fitness,2025-05-11
+10056,2025-05-22,339,502,4,168.90,5,Store,Debit Card,Completed,N,,Paris,France,Spring Reset,2025-05-27
+10057,2025-06-24,493,490,5,90.62,5,Partner,UPI,Completed,N,,Paris,France,None,2025-07-01
+10058,2025-03-22,464,127,4,68.96,10,Partner,Debit Card,Completed,N,,Vancouver,canada,Back to Routine,2025-04-02
+10059,2025-10-21,51,479,4,248.10,25,Partner,Credit Card,Returned,Y,Damaged item,Seattle,USA,None,2025-10-23
+10060,2025-07-20,354,118,5,23.16,15,Store,Credit Card,Completed,N,,Unknown,,None,2025-07-28
+10061,2025-05-15,271,313,4,254.22,25,Marketplace,Gift Card,Completed,N,,Vancouver,canada,New Year Fitness,2025-05-23
+10062,2025-09-26,188,440,2,214.12,5,Partner,UPI,Completed,N,,Madrid,Spain,Spring Reset,2025-09-28
