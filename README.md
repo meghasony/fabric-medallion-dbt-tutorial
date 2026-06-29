@@ -1,1 +1,0 @@
-# fabric-medallion-dbt-tutorial
