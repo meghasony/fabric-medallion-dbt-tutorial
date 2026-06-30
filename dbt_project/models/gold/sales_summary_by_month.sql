@@ -16,4 +16,7 @@ join {{ ref('dim_date') }} d
 join {{ ref('dim_product') }} p
     on f.product_id = p.product_id
 
-{{ dbt_utils.group_by(n=3) }}
+group by
+    d.year_month,
+    f.channel,
+    p.category
