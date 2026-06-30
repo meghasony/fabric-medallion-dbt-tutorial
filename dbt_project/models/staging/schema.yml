@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: Silver customer model with light standardization and dbt_utils-generated key.
+    columns:
+      - name: customer_id
+        tests: [not_null, unique]
+      - name: customer_key
+        tests: [not_null, unique]
+
+  - name: stg_products
+    description: Silver product model with light standardization and dbt_utils-generated key.
+    columns:
+      - name: product_id
+        tests: [not_null, unique]
+      - name: product_key
+        tests: [not_null, unique]
+
+  - name: stg_orders
+    description: Silver order model with safe casting and dbt_utils-generated key. Duplicate order IDs are resolved in fact_sales.
+    columns:
+      - name: order_id
+        tests: [not_null]
+      - name: order_key
+        tests: [not_null]
