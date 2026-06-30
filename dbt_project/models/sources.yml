@@ -2,12 +2,15 @@ version: 2
 
 sources:
   - name: bronze
-    database: New_Data_Lakehouse
+    database: "{{ var('bronze_lakehouse_name') }}"
     schema: dbo
+
     tables:
       - name: customers
         identifier: bronze_customers
-      - name: products
-        identifier: bronze_products
+
       - name: orders
         identifier: bronze_orders
+
+      - name: products
+        identifier: bronze_products
