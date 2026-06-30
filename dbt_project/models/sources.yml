@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: bronze
-    database: ZavaBronzeLakehouse
+    database: New_Data_Lakehouse
     schema: dbo
     tables:
       - name: customers
