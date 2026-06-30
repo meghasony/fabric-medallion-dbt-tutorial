@@ -1,14 +1,20 @@
-name: zava_medallion
-version: 1.0
+name: 'zava_fabric_dbt_medallion_demo'
+version: '1.0.0'
 config-version: 2
 
-model-paths: ["models"]
+profile: 'zava_fabric_dbt_medallion_demo'
+
+model-paths: ['models']
+
+vars:
+  # Change this to the Lakehouse item name that contains customers, orders, and products.
+  bronze_lakehouse_name: 'ZavaLakehouse'
 
 models:
-  zava_medallion:
-    silver:
-      materialized: table
-      tags: ["silver"]
-    gold:
-      materialized: table
-      tags: ["gold"]
+  zava_fabric_dbt_medallion_demo:
+    staging:
+      +materialized: view
+      +tags: ['silver']
+    marts:
+      +materialized: table
+      +tags: ['gold']
